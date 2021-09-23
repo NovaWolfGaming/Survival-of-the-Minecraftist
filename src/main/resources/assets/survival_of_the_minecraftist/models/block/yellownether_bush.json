@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "survival_of_the_minecraftist:blocks/nether_bush_yellow",
+    "particle": "survival_of_the_minecraftist:blocks/nether_bush_yellow"
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Blood",
+      "type": "fluid",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood",
+      "metadata": {
+        "gb": true
+      }
+    },
+    {
+      "name": "BlazeFlower",
+      "type": "plant",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_flower"
+    },
+    {
+      "name": "RedNetherBush",
+      "type": "plant",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_nether_bush"
+    },
+    {
+      "name": "YellownetherBush",
+      "type": "plant",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellownether_bush"
+    },
+    {
+      "name": "SOTMPlants",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sotm_plants"
+    },
+    {
+      "name": "SproutingPlant",
+      "type": "plant",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sprouting_plant"
+    },
+    {
+      "name": "NetherCactus",
+      "type": "plant",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_cactus"
+    },
+    {
+      "name": "NetherWeeds",
+      "type": "plant",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_weeds"
+    },
+    {
+      "name": "TroddenFlower",
+      "type": "plant",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower"
+    },
+    {
+      "name": "TroddenFlower2",
+      "type": "plant",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_2"
+    },
+    {
+      "name": "TroddenFlower3",
+      "type": "plant",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_3"
+    },
+    {
+      "name": "TroddenFlower4",
+      "type": "plant",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_4"
+    },
+    {
+      "name": "TroddenFlower2DyeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_2_dye_recipe"
+    },
+    {
+      "name": "TroddenFlower2Dye2",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_2_dye_2"
+    },
+    {
+      "name": "TroddenFlower2Dye3",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_2_dye_3"
+    },
+    {
+      "name": "TroddenFlower2Dye4",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "trodden_flower_2_dye_4"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
+      "block.survival_of_the_minecraftist.blood": "Blood",
+      "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
+      "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
+      "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
+      "itemGroup.tabsotm_plants": "SOTM Plants",
+      "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
+      "block.survival_of_the_minecraftist.trodden_flower_3": "Trodden Flower",
+      "fluid.survival_of_the_minecraftist.blood": "Blood",
+      "block.survival_of_the_minecraftist.trodden_flower_2": "Trodden Flower",
+      "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
+      "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
+      "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "survival_of_the_minecraftist",
+    "modName": "Survival of the Minecraftist",
+    "version": "1.0.0",
+    "author": "souls, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.survivaloftheminecraftist",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}
