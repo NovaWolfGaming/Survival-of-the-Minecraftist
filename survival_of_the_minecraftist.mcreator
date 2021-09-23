@@ -147,6 +147,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "trodden_flower_2_dye_4"
+    },
+    {
+      "name": "Renite",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renite"
+    },
+    {
+      "name": "PolishedRenite",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_renite"
+    },
+    {
+      "name": "PolishedReniteRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_renite_recipe"
+    },
+    {
+      "name": "ReniteBricks",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renite_bricks"
+    },
+    {
+      "name": "ReniteBricksRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renite_bricks_recipe"
     }
   ],
   "variable_elements": [],
@@ -154,8 +199,10 @@
   "language_map": {
     "en_us": {
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
+      "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
       "block.survival_of_the_minecraftist.blood": "Blood",
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
+      "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
       "itemGroup.tabsotm_plants": "SOTM Plants",
@@ -166,7 +213,8 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
       "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
-      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower"
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
+      "block.survival_of_the_minecraftist.renite": "Renite"
     }
   },
   "foldersRoot": {

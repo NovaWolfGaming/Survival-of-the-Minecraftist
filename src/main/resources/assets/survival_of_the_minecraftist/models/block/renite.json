@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/renite",
+    "up": "survival_of_the_minecraftist:blocks/renite",
+    "north": "survival_of_the_minecraftist:blocks/renite",
+    "east": "survival_of_the_minecraftist:blocks/renite",
+    "south": "survival_of_the_minecraftist:blocks/renite",
+    "west": "survival_of_the_minecraftist:blocks/renite",
+    "particle": "survival_of_the_minecraftist:blocks/renite"
+  }
+}
