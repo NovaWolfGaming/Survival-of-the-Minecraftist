@@ -1,4 +1,5 @@
 {
+  "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
   "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
   "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
   "block.survival_of_the_minecraftist.blood": "Blood",
@@ -6,6 +7,7 @@
   "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
   "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
   "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
+  "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
   "itemGroup.tabsotm_plants": "SOTM Plants",
   "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
   "block.survival_of_the_minecraftist.trodden_flower_3": "Trodden Flower",
@@ -14,6 +16,9 @@
   "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
   "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
   "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
+  "item.minecraft.tipped_arrow.effect.bottled_milk": "Arrow of Milk",
   "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
-  "block.survival_of_the_minecraftist.renite": "Renite"
+  "block.survival_of_the_minecraftist.renite": "Renite",
+  "item.minecraft.splash_potion.effect.bottled_milk": "Splash Bottle of Milk",
+  "effect.milked": "Milk "
 }
