@@ -423,6 +423,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "vacuum_effect"
+    },
+    {
+      "name": "VaccumEffectRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "vaccum_effect_recipe"
     }
   ],
   "variable_elements": [],
@@ -431,9 +440,9 @@
     "en_us": {
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
-      "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
-      "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
+      "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
+      "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
       "item.minecraft.splash_potion.effect.vacuum_potion": "Splash Potion of Vacuum ",
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",

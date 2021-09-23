@@ -32,7 +32,7 @@ public class VacuumEffectPotionEffect {
 		public EffectCustom() {
 			super(EffectType.HARMFUL, -15066598);
 			setRegistryName("vacuum_effect");
-			potionIcon = new ResourceLocation("survival_of_the_minecraftist:textures/hehe.png");
+			potionIcon = new ResourceLocation("survival_of_the_minecraftist:textures/599086565b3e7e8.png");
 		}
 
 		@Override
