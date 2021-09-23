@@ -42,11 +42,11 @@ import java.util.List;
 import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class ReniteBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-	@ObjectHolder("survival_of_the_minecraftist:renite")
+public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+	@ObjectHolder("survival_of_the_minecraftist:pumice")
 	public static final Block block = null;
-	public ReniteBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 17);
+	public PumiceBlock(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 25);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -58,8 +58,8 @@ public class ReniteBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.BASALT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("renite");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			setRegistryName("pumice");
 		}
 
 		@Override
@@ -83,7 +83,7 @@ public class ReniteBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 		static final com.mojang.serialization.Codec<CustomRuleTest> codec = com.mojang.serialization.Codec.unit(() -> INSTANCE);
 		public boolean test(BlockState blockAt, Random random) {
 			boolean blockCriteria = false;
-			if (blockAt.getBlock() == Blocks.BASALT)
+			if (blockAt.getBlock() == Blocks.STONE)
 				blockCriteria = true;
 			return blockCriteria;
 		}
@@ -96,24 +96,24 @@ public class ReniteBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 	private static class FeatureRegisterHandler {
 		@SubscribeEvent
 		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
-			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:renite_match"),
+			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:pumice_match"),
 					() -> CustomRuleTest.codec);
 			feature = new OreFeature(OreFeatureConfig.CODEC) {
 				@Override
 				public boolean generate(ISeedReader world, ChunkGenerator generator, Random rand, BlockPos pos, OreFeatureConfig config) {
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
-					if (dimensionType == World.THE_NETHER)
+					if (dimensionType == World.OVERWORLD)
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(255)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(256)
 					.square().func_242731_b(10);
-			event.getRegistry().register(feature.setRegistryName("renite"));
-			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:renite"), configuredFeature);
+			event.getRegistry().register(feature.setRegistryName("pumice"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:pumice"), configuredFeature);
 		}
 	}
 	@SubscribeEvent

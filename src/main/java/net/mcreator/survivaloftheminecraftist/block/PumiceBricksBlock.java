@@ -21,11 +21,11 @@ import java.util.List;
 import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class ReniteBricksBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-	@ObjectHolder("survival_of_the_minecraftist:renite_bricks")
+public class PumiceBricksBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+	@ObjectHolder("survival_of_the_minecraftist:pumice_bricks")
 	public static final Block block = null;
-	public ReniteBricksBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 20);
+	public PumiceBricksBlock(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 28);
 	}
 
 	@Override
@@ -35,8 +35,8 @@ public class ReniteBricksBlock extends SurvivalOfTheMinecraftistModElements.ModE
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.BASALT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("renite_bricks");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			setRegistryName("pumice_bricks");
 		}
 
 		@Override

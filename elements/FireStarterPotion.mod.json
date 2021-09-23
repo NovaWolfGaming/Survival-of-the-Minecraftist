@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Fire Starter",
+    "splashName": "Splash Potion of Fire Starter",
+    "lingeringName": "Lingering Potion of Fire Starter",
+    "arrowName": "Arrow of Fire Starter",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:FireStarter"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

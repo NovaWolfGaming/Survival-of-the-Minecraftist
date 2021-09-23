@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "renite_polished",
-    "textureTop": "renite_polished",
-    "textureLeft": "renite_polished",
-    "textureFront": "renite_polished",
-    "textureRight": "renite_polished",
-    "textureBack": "renite_polished",
+    "texture": "pumice2",
+    "textureTop": "pumice2",
+    "textureLeft": "pumice2",
+    "textureFront": "pumice2",
+    "textureRight": "pumice2",
+    "textureBack": "pumice2",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Polished Renite",
+    "name": "Pumice",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "BASALT"
+      "value": "STONE"
     },
     "breakSound": {
       "value": ""
@@ -121,7 +121,9 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "Surface"
+    ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
@@ -131,6 +133,6 @@
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 0,
-    "maxGenerateHeight": 64
+    "maxGenerateHeight": 256
   }
 }
