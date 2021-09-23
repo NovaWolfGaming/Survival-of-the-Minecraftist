@@ -224,7 +224,7 @@
       "name": "PumiceBricks",
       "type": "block",
       "sortid": 28,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "pumice_bricks"
@@ -233,7 +233,7 @@
       "name": "FireStarterPotion",
       "type": "potion",
       "sortid": 31,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "fire_starter_potion"
@@ -242,7 +242,7 @@
       "name": "PolishedPumice",
       "type": "block",
       "sortid": 26,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "polished_pumice"
@@ -278,7 +278,7 @@
       "name": "FireStarterEffectStartedapplied",
       "type": "procedure",
       "sortid": 30,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "fire_starter_effect_startedapplied",
@@ -295,7 +295,7 @@
       "name": "SOTMBlocks",
       "type": "tab",
       "sortid": 24,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "sotm_blocks"
@@ -304,7 +304,7 @@
       "name": "BottledMilk",
       "type": "potion",
       "sortid": 24,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "bottled_milk"
@@ -313,7 +313,7 @@
       "name": "MilkedEffectStartedapplied",
       "type": "procedure",
       "sortid": 25,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "milked_effect_startedapplied",
@@ -330,7 +330,7 @@
       "name": "Milked",
       "type": "potioneffect",
       "sortid": 25,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "milked"
@@ -356,7 +356,7 @@
       "name": "VacuumEffect",
       "type": "potioneffect",
       "sortid": 32,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "vacuum_effect"
