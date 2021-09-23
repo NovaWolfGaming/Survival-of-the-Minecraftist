@@ -1,0 +1,20 @@
+{
+  "_fv": 24,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Vacuum",
+    "icon": "hehe.png",
+    "color": {
+      "value": -15066598,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": true,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": true,
+    "onStarted": {
+      "name": "VacuumEffectEffectStartedapplied"
+    }
+  }
+}

@@ -1,19 +1,9 @@
 
 package net.mcreator.survivaloftheminecraftist;
 
-import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
-import net.minecraftforge.common.brewing.IBrewingRecipe;
-import net.minecraftforge.common.brewing.BrewingRecipeRegistry;
-
-import net.minecraft.potion.PotionUtils;
-import net.minecraft.item.Items;
-import net.minecraft.item.ItemStack;
-
-import net.mcreator.survivaloftheminecraftist.potion.FireStarterPotionPotion;
-import net.mcreator.survivaloftheminecraftist.block.BlazeFlowerBlock;
-
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class FireStarterPotionRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	public FireStarterPotionRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 32);
 	}
@@ -22,6 +12,7 @@ public class FireStarterPotionRecipeBrewingRecipe extends SurvivalOfTheMinecraft
 	public void init(FMLCommonSetupEvent event) {
 		BrewingRecipeRegistry.addRecipe(new CustomBrewingRecipe());
 	}
+
 	public static class CustomBrewingRecipe implements IBrewingRecipe {
 		@Override
 		public boolean isInput(ItemStack input) {
