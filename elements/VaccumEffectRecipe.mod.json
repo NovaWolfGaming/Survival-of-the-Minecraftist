@@ -1,0 +1,23 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "Items.GLASS_BOTTLE"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:Potassium"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:VacuumPotion"
+    },
+    "name": "vaccum_effect_recipe",
+    "namespace": "mod"
+  }
+}
