@@ -1,5 +1,7 @@
 package net.mcreator.survivaloftheminecraftist.procedures;
 
+import net.minecraft.util.DamageSource;
+import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.Entity;
 
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistMod;
@@ -14,6 +16,10 @@ public class VacuumEffectEffectStartedappliedProcedure {
 			return;
 		}
 		Entity entity = (Entity) dependencies.get("entity");
-		entity.setAir((int) 0);
+		for (int index0 = 0; index0 < (int) (15); index0++) {
+			if (entity instanceof LivingEntity) {
+				((LivingEntity) entity).attackEntityFrom(new DamageSource("custom").setDamageBypassesArmor(), (float) 1);
+			}
+		}
 	}
 }
