@@ -2,9 +2,9 @@
 package net.mcreator.survivaloftheminecraftist.potion;
 
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
-public class FireStarterPotionPotion {
+public class BottledMilkPotion {
 
-	@ObjectHolder("survival_of_the_minecraftist:fire_starter_potion")
+	@ObjectHolder("survival_of_the_minecraftist:bottled_milk")
 	public static final Potion potionType = null;
 
 	@SubscribeEvent
@@ -15,8 +15,8 @@ public class FireStarterPotionPotion {
 	public static class PotionCustom extends Potion {
 
 		public PotionCustom() {
-			super(new EffectInstance(FireStarterPotionEffect.potion, 3600, 0, false, true));
-			setRegistryName("fire_starter_potion");
+			super(new EffectInstance(MilkedPotionEffect.potion, 1, 0, false, true));
+			setRegistryName("bottled_milk");
 		}
 
 	}

@@ -212,15 +212,6 @@
       "registry_name": "renite_bricks_sc_recipe"
     },
     {
-      "name": "SOTMBlocks",
-      "type": "tab",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sotm_blocks"
-    },
-    {
       "name": "Pumice",
       "type": "block",
       "sortid": 25,
@@ -228,6 +219,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pumice"
+    },
+    {
+      "name": "PumiceBricks",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_bricks"
+    },
+    {
+      "name": "FireStarterPotion",
+      "type": "potion",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_starter_potion"
     },
     {
       "name": "PolishedPumice",
@@ -239,6 +248,15 @@
       "registry_name": "polished_pumice"
     },
     {
+      "name": "FireStarter",
+      "type": "potioneffect",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fire_starter"
+    },
+    {
       "name": "PolishedPumiceRecipe",
       "type": "recipe",
       "sortid": 27,
@@ -246,15 +264,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "polished_pumice_recipe"
-    },
-    {
-      "name": "PumiceBricks",
-      "type": "block",
-      "sortid": 28,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "pumice_bricks"
     },
     {
       "name": "PumiceBricksRecipe",
@@ -283,22 +292,48 @@
       }
     },
     {
-      "name": "FireStarter",
-      "type": "potioneffect",
-      "sortid": 30,
+      "name": "SOTMBlocks",
+      "type": "tab",
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fire_starter"
+      "registry_name": "sotm_blocks"
     },
     {
-      "name": "FireStarterPotion",
+      "name": "BottledMilk",
       "type": "potion",
-      "sortid": 31,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "fire_starter_potion"
+      "registry_name": "bottled_milk"
+    },
+    {
+      "name": "MilkedEffectStartedapplied",
+      "type": "procedure",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milked_effect_startedapplied",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Milked",
+      "type": "potioneffect",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "milked"
     }
   ],
   "variable_elements": [],
@@ -306,28 +341,20 @@
   "language_map": {
     "en_us": {
       "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
-      "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
-      "item.minecraft.splash_potion.effect.fire_starter_potion": "Splash Potion of Fire Starter",
       "fluid.survival_of_the_minecraftist.blood": "Blood",
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
-      "item.minecraft.lingering_potion.effect.fire_starter_potion": "Lingering Potion of Fire Starter",
-      "block.survival_of_the_minecraftist.pumice": "Pumice",
-      "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
       "block.survival_of_the_minecraftist.blood": "Blood",
-      "itemGroup.tabsotm_blocks": "SOTM Blocks",
-      "item.minecraft.potion.effect.fire_starter_potion": "Potion of Fire Starter",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.trodden_flower_3": "Trodden Flower",
       "block.survival_of_the_minecraftist.trodden_flower_2": "Trodden Flower",
-      "item.minecraft.tipped_arrow.effect.fire_starter_potion": "Arrow of Fire Starter",
       "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
       "block.survival_of_the_minecraftist.renite": "Renite",
       "effect.fire_starter": "Fire Starter"

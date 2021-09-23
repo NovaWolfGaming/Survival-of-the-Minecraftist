@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Bottled Milk",
+    "splashName": "Splash Bottle of Milk",
+    "lingeringName": "Lingering Bottled Milk",
+    "arrowName": "Arrow of Milk",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:Milked"
+        },
+        "duration": 1,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}
