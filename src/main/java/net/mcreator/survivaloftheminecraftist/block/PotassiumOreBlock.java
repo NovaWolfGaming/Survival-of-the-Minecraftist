@@ -5,13 +5,13 @@ import net.minecraft.block.material.Material;
 import net.minecraft.util.SoundEvent;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+public class PotassiumOreBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
 
-	@ObjectHolder("survival_of_the_minecraftist:pumice")
+	@ObjectHolder("survival_of_the_minecraftist:potassium_ore")
 	public static final Block block = null;
 
-	public PumiceBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 25);
+	public PotassiumOreBlock(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 36);
 
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
@@ -27,9 +27,9 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 	public static class CustomBlock extends Block {
 
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.BASALT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
 
-			setRegistryName("pumice");
+			setRegistryName("potassium_ore");
 		}
 
 		@Override
@@ -43,7 +43,7 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 1));
+			return Collections.singletonList(new ItemStack(PotassiumItem.block, (int) (3)));
 		}
 
 	}
@@ -61,7 +61,7 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 		public boolean test(BlockState blockAt, Random random) {
 			boolean blockCriteria = false;
 
-			if (blockAt.getBlock() == Blocks.STONE)
+			if (blockAt.getBlock() == Blocks.NETHERRACK)
 				blockCriteria = true;
 
 			return blockCriteria;
@@ -77,7 +77,7 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 
 		@SubscribeEvent
 		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
-			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:pumice_match"),
+			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:potassium_ore_match"),
 					() -> CustomRuleTest.codec);
 
 			feature = new OreFeature(OreFeatureConfig.CODEC) {
@@ -86,7 +86,7 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
 
-					if (dimensionType == World.OVERWORLD)
+					if (dimensionType == World.THE_NETHER)
 						dimensionCriteria = true;
 
 					if (!dimensionCriteria)
@@ -96,11 +96,12 @@ public class PumiceBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 				}
 			};
 
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 26)).range(256)
-					.square().func_242731_b(20);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 20)).range(125)
+					.square().func_242731_b(13);
 
-			event.getRegistry().register(feature.setRegistryName("pumice"));
-			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:pumice"), configuredFeature);
+			event.getRegistry().register(feature.setRegistryName("potassium_ore"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:potassium_ore"),
+					configuredFeature);
 		}
 
 	}

@@ -3,7 +3,7 @@
   "_type": "potioneffect",
   "definition": {
     "effectName": "Milk ",
-    "icon": "bild_2021-09-23_225734.png",
+    "icon": "miled_effect.png",
     "color": {
       "value": -1,
       "falpha": 0.0
