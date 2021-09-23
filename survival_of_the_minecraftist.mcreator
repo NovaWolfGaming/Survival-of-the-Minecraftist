@@ -192,6 +192,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "renite_bricks_recipe"
+    },
+    {
+      "name": "PolishedReniteSCRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_renite_sc_recipe"
+    },
+    {
+      "name": "ReniteBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "renite_bricks_sc_recipe"
     }
   ],
   "variable_elements": [],
