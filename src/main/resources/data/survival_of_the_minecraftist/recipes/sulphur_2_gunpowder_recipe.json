@@ -1,0 +1,19 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:sulphur"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:potassium"
+    }
+  },
+  "result": {
+    "item": "minecraft:gunpowder",
+    "count": 1
+  }
+}

@@ -110,8 +110,8 @@ public class ReniteBlock extends SurvivalOfTheMinecraftistModElements.ModElement
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(255)
-					.square().func_242731_b(10);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 26)).range(255)
+					.square().func_242731_b(20);
 			event.getRegistry().register(feature.setRegistryName("renite"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:renite"), configuredFeature);
 		}

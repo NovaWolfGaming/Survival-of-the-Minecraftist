@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "pumice2",
-    "textureTop": "pumice2",
-    "textureLeft": "pumice2",
-    "textureFront": "pumice2",
-    "textureRight": "pumice2",
-    "textureBack": "pumice2",
+    "texture": "sulphur_ore_top",
+    "textureTop": "sulphur_ore_top",
+    "textureLeft": "sulphur_ore",
+    "textureFront": "sulphur_ore",
+    "textureRight": "sulphur_ore",
+    "textureBack": "sulphur_ore",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,20 +32,20 @@
         "subtract": false
       }
     ],
-    "name": "Pumice",
+    "name": "Sulphur Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMBlocks"
+      "value": "CUSTOM:SOTMPlants"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Sulphur"
     },
-    "dropAmount": 1,
+    "dropAmount": 3,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "BASALT"
     },
     "breakSound": {
       "value": ""
@@ -122,17 +122,17 @@
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
     "spawnWorldTypes": [
-      "Surface"
+      "Nether"
     ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.BASALT"
       }
     ],
-    "frequencyPerChunks": 20,
-    "frequencyOnChunk": 26,
-    "minGenerateHeight": 0,
-    "maxGenerateHeight": 256
+    "frequencyPerChunks": 13,
+    "frequencyOnChunk": 20,
+    "minGenerateHeight": 1,
+    "maxGenerateHeight": 125
   }
 }
