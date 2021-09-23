@@ -1,0 +1,21 @@
+{
+  "_fv": 24,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Vacuum ",
+    "splashName": "Splash Potion of Vacuum ",
+    "lingeringName": "Lingering Potion of Vacuum ",
+    "arrowName": "Arrow of Vacuum ",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:VacuumEffect"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

@@ -1,7 +1,11 @@
 {
+  "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
   "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
   "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
+  "item.minecraft.splash_potion.effect.vacuum_potion": "Splash Potion of Vacuum ",
+  "item.minecraft.lingering_potion.effect.vacuum_potion": "Lingering Potion of Vacuum ",
   "block.survival_of_the_minecraftist.blood": "Blood",
+  "item.minecraft.tipped_arrow.effect.vacuum_potion": "Arrow of Vacuum ",
   "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
   "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
   "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
