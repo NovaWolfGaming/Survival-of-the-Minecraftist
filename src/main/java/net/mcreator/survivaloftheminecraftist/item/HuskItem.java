@@ -3,13 +3,19 @@ package net.mcreator.survivaloftheminecraftist.item;
 
 import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.world.World;
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
+import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.survivaloftheminecraftist.procedures.HuskItemIsCraftedsmeltedProcedure;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
+
+import java.util.Map;
+import java.util.HashMap;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
@@ -42,6 +48,19 @@ public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		public void onCreated(ItemStack itemstack, World world, PlayerEntity entity) {
+			super.onCreated(itemstack, world, entity);
+			double x = entity.getPosX();
+			double y = entity.getPosY();
+			double z = entity.getPosZ();
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				HuskItemIsCraftedsmeltedProcedure.executeProcedure($_dependencies);
+			}
 		}
 	}
 }
