@@ -1,7 +1,0 @@
-{
-  "parent": "block/cube_all",
-  "textures": {
-    "all": "survival_of_the_minecraftist:blocks/dark_quartz_bricks",
-    "particle": "survival_of_the_minecraftist:blocks/dark_quartz_bricks"
-  }
-}
