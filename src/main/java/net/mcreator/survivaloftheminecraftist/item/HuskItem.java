@@ -2,13 +2,13 @@
 package net.mcreator.survivaloftheminecraftist.item;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class DarkQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElement {
+public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 
-	@ObjectHolder("survival_of_the_minecraftist:dark_quartz")
+	@ObjectHolder("survival_of_the_minecraftist:husk")
 	public static final Item block = null;
 
-	public DarkQuartzItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 85);
+	public HuskItem(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 81);
 
 	}
 
@@ -20,8 +20,8 @@ public class DarkQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(SOTMItemsItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("dark_quartz");
+			super(new Item.Properties().group(ItemGroup.MATERIALS).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("husk");
 		}
 
 		@Override

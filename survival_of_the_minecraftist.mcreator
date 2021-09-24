@@ -821,49 +821,13 @@
       "registry_name": "polished_white_marble_bricks_recipe"
     },
     {
-      "name": "GoldPanelBlock",
-      "type": "block",
-      "sortid": 81,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "gold_panel_block"
-    },
-    {
-      "name": "GoldPanelRecipe",
+      "name": "DarkQuartzSlabrecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "gold_panel_recipe"
-    },
-    {
-      "name": "IronPanelBlock",
-      "type": "block",
-      "sortid": 83,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "iron_panel_block"
-    },
-    {
-      "name": "IronPanelRecipe",
-      "type": "recipe",
-      "sortid": 84,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "iron_panel_recipe"
-    },
-    {
-      "name": "DarkQuartz",
-      "type": "item",
-      "sortid": 85,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz"
+      "registry_name": "dark_quartz_slabrecipe"
     },
     {
       "name": "DarkQuartzOre",
@@ -875,76 +839,22 @@
       "registry_name": "dark_quartz_ore"
     },
     {
-      "name": "DarkQuartzBlock",
+      "name": "DarkQuartzBricks",
       "type": "block",
-      "sortid": 87,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_quartz_block"
+      "registry_name": "dark_quartz_bricks"
     },
     {
-      "name": "DarkQuartzStairs",
+      "name": "IronPanelBlock",
       "type": "block",
-      "sortid": 88,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_quartz_stairs"
-    },
-    {
-      "name": "DarkQuartzStairsSlab",
-      "type": "block",
-      "sortid": 89,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz_stairs_slab"
-    },
-    {
-      "name": "DarkQuartzBlockRecipe",
-      "type": "recipe",
-      "sortid": 90,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz_block_recipe"
-    },
-    {
-      "name": "DarkQuartzStairsRecipe",
-      "type": "recipe",
-      "sortid": 91,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz_stairs_recipe"
-    },
-    {
-      "name": "DarkQuartzSlabrecipe",
-      "type": "recipe",
-      "sortid": 92,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz_slabrecipe"
-    },
-    {
-      "name": "ChiseledDarkQuartz",
-      "type": "block",
-      "sortid": 93,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chiseled_dark_quartz"
-    },
-    {
-      "name": "ChiseledDarkQuartzRecipe",
-      "type": "recipe",
-      "sortid": 94,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chiseled_dark_quartz_recipe"
+      "registry_name": "iron_panel_block"
     },
     {
       "name": "DarkQuartzPillar",
@@ -965,22 +875,13 @@
       "registry_name": "dark_quartz_pillar_recipe"
     },
     {
-      "name": "DarkQuartzBricks",
-      "type": "block",
-      "sortid": 97,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dark_quartz_bricks"
-    },
-    {
-      "name": "DarkQuartzBricksRecipe",
+      "name": "SmoothDarkQuartzRecipe",
       "type": "recipe",
-      "sortid": 98,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dark_quartz_bricks_recipe"
+      "registry_name": "smooth_dark_quartz_recipe"
     },
     {
       "name": "SmoothDarkQuartzBlock",
@@ -992,13 +893,157 @@
       "registry_name": "smooth_dark_quartz_block"
     },
     {
-      "name": "SmoothDarkQuartzRecipe",
-      "type": "recipe",
-      "sortid": 100,
+      "name": "DarkQuartzStairsSlab",
+      "type": "block",
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smooth_dark_quartz_recipe"
+      "registry_name": "dark_quartz_stairs_slab"
+    },
+    {
+      "name": "GoldPanelRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_panel_recipe"
+    },
+    {
+      "name": "ChiseledDarkQuartzRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_dark_quartz_recipe"
+    },
+    {
+      "name": "DarkQuartz",
+      "type": "item",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz"
+    },
+    {
+      "name": "ChiseledDarkQuartz",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_dark_quartz"
+    },
+    {
+      "name": "DarkQuartzBlockRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz_block_recipe"
+    },
+    {
+      "name": "DarkQuartzBricksRecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz_bricks_recipe"
+    },
+    {
+      "name": "IronPanelRecipe",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_panel_recipe"
+    },
+    {
+      "name": "GoldPanelBlock",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_panel_block"
+    },
+    {
+      "name": "DarkQuartzStairsRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz_stairs_recipe"
+    },
+    {
+      "name": "DarkQuartzBlock",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz_block"
+    },
+    {
+      "name": "DarkQuartzStairs",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_quartz_stairs"
+    },
+    {
+      "name": "SplitCoconut",
+      "type": "food",
+      "sortid": 39,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "split_coconut"
+    },
+    {
+      "name": "Coconut",
+      "type": "item",
+      "sortid": 38,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coconut"
+    },
+    {
+      "name": "Husk",
+      "type": "item",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "husk"
+    },
+    {
+      "name": "HuskRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "husk_recipe"
+    },
+    {
+      "name": "DehuskedCoconut",
+      "type": "item",
+      "sortid": 38,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dehusked_coconut"
     }
   ],
   "variable_elements": [],

@@ -2,13 +2,13 @@
 package net.mcreator.survivaloftheminecraftist.item;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class DarkQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElement {
+public class CoconutItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 
-	@ObjectHolder("survival_of_the_minecraftist:dark_quartz")
+	@ObjectHolder("survival_of_the_minecraftist:coconut")
 	public static final Item block = null;
 
-	public DarkQuartzItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 85);
+	public CoconutItem(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 38);
 
 	}
 
@@ -20,8 +20,8 @@ public class DarkQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(SOTMItemsItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
-			setRegistryName("dark_quartz");
+			super(new Item.Properties().group(ItemGroup.MATERIALS).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("coconut");
 		}
 
 		@Override
@@ -37,6 +37,12 @@ public class DarkQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElem
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
+			super.addInformation(itemstack, world, list, flag);
+			list.add(new StringTextComponent("Coconut"));
 		}
 
 	}
