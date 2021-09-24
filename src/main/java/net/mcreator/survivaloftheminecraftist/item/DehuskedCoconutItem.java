@@ -1,24 +1,43 @@
 
 package net.mcreator.survivaloftheminecraftist.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.world.World;
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.util.text.ITextComponent;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.Direction;
+import net.minecraft.util.ActionResultType;
+import net.minecraft.item.Rarity;
+import net.minecraft.item.ItemUseContext;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+import net.minecraft.item.Item;
+import net.minecraft.entity.player.PlayerEntity;
+import net.minecraft.client.util.ITooltipFlag;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.survivaloftheminecraftist.procedures.DehuskedCoconutRightClickedOnBlockProcedure;
+import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
+
+import java.util.Map;
+import java.util.List;
+import java.util.HashMap;
+
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class DehuskedCoconutItem extends SurvivalOfTheMinecraftistModElements.ModElement {
-
 	@ObjectHolder("survival_of_the_minecraftist:dehusked_coconut")
 	public static final Item block = null;
-
 	public DehuskedCoconutItem(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 38);
-
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("dehusked_coconut");
@@ -59,14 +78,10 @@ public class DehuskedCoconutItem extends SurvivalOfTheMinecraftistModElements.Mo
 			ItemStack itemstack = context.getItem();
 			{
 				Map<String, Object> $_dependencies = new HashMap<>();
-
 				$_dependencies.put("entity", entity);
-
 				DehuskedCoconutRightClickedOnBlockProcedure.executeProcedure($_dependencies);
 			}
 			return retval;
 		}
-
 	}
-
 }

@@ -824,7 +824,7 @@
       "name": "SplitCoconut",
       "type": "food",
       "sortid": 39,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "split_coconut"
@@ -915,6 +915,15 @@
           }
         ]
       }
+    },
+    {
+      "name": "Coconut2MilkRecipe",
+      "type": "recipe",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coconut_2_milk_recipe"
     }
   ],
   "variable_elements": [],
@@ -924,8 +933,8 @@
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
-      "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
+      "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
       "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
       "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
