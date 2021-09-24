@@ -2,7 +2,6 @@ package net.mcreator.survivaloftheminecraftist.procedures;
 
 import net.minecraftforge.items.ItemHandlerHelper;
 
-import net.minecraft.item.Items;
 import net.minecraft.item.ItemStack;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.Entity;
@@ -11,7 +10,6 @@ import net.mcreator.survivaloftheminecraftist.item.SplitCoconutItem;
 import net.mcreator.survivaloftheminecraftist.item.DehuskedCoconutItem;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistMod;
 
-import java.util.Random;
 import java.util.Map;
 
 public class DehuskedCoconutRightClickedOnBlockProcedure {
@@ -31,18 +29,6 @@ public class DehuskedCoconutRightClickedOnBlockProcedure {
 			ItemStack _setstack = new ItemStack(SplitCoconutItem.block);
 			_setstack.setCount((int) 2);
 			ItemHandlerHelper.giveItemToPlayer(((PlayerEntity) entity), _setstack);
-		}
-		if (entity instanceof PlayerEntity) {
-			ItemStack _setstack = new ItemStack(Items.SHEARS);
-			_setstack.setCount((int) 1);
-			ItemHandlerHelper.giveItemToPlayer(((PlayerEntity) entity), _setstack);
-		}
-		{
-			ItemStack _ist = new ItemStack(Items.SHEARS);
-			if (_ist.attemptDamageItem((int) 3, new Random(), null)) {
-				_ist.shrink(1);
-				_ist.setDamage(0);
-			}
 		}
 	}
 }
