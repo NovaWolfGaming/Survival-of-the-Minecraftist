@@ -1,0 +1,16 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survival_of_the_minecraftist:coconut"
+    },
+    {
+      "item": "minecraft:shears"
+    }
+  ],
+  "result": {
+    "item": "survival_of_the_minecraftist:husk",
+    "count": 4
+  }
+}
