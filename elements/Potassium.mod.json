@@ -8,7 +8,7 @@
     "name": "Potassium",
     "rarity": "COMMON",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:SOTMItems"
     },
     "stackSize": 64,
     "enchantability": 0,

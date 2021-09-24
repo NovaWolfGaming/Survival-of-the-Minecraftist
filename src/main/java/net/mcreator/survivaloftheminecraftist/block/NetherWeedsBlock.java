@@ -98,8 +98,8 @@ public class NetherWeedsBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 			configuredFeature = feature
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
-									.tries(64).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(5);
+									.tries(5).build())
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(17);
 			event.getRegistry().register(feature.setRegistryName("nether_weeds"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:nether_weeds"),
 					configuredFeature);

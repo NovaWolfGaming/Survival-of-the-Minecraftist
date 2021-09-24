@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:crimson_nether_fungus"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:crimson_nether_fungus"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:crimson_nether_fungus"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:crimson_nether_fungus"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:polished_nether_fungus",
+    "count": 4
+  }
+}

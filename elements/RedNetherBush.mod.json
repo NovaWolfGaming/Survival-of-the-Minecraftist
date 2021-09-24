@@ -88,7 +88,7 @@
         "value": "Blocks.NETHERRACK"
       }
     ],
-    "frequencyOnChunks": 4,
+    "frequencyOnChunks": 15,
     "spawnWorldTypes": [
       "Nether"
     ],

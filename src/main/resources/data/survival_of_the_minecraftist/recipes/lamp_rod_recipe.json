@@ -1,0 +1,24 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:lamp"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:lamp"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:lamp"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:lamp_rod",
+    "count": 6
+  }
+}

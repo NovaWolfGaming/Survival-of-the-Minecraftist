@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod"
+    },
+    "facing=west": {
+      "model": "survival_of_the_minecraftist:block/lamp_rod",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

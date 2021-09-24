@@ -85,7 +85,7 @@
         "value": "Blocks.SOUL_SOIL"
       }
     ],
-    "frequencyOnChunks": 1,
+    "frequencyOnChunks": 10,
     "spawnWorldTypes": [
       "Nether"
     ],
