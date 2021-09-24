@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:smooth_dark_quartz"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:smooth_dark_quartz_stairs",
+    "count": 6
+  }
+}

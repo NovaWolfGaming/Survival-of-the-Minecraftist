@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "survival_of_the_minecraftist:blocks/dark_quartz_block_bottom",
+    "top": "survival_of_the_minecraftist:blocks/dark_quartz_block_bottom",
+    "side": "survival_of_the_minecraftist:blocks/dark_quartz_block_bottom"
+  }
+}

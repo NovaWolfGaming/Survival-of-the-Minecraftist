@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/gold_panel",
+    "up": "survival_of_the_minecraftist:blocks/gold_panel",
+    "north": "survival_of_the_minecraftist:blocks/gold_panel",
+    "east": "survival_of_the_minecraftist:blocks/gold_panel",
+    "south": "survival_of_the_minecraftist:blocks/gold_panel",
+    "west": "survival_of_the_minecraftist:blocks/gold_panel",
+    "particle": "survival_of_the_minecraftist:blocks/gold_panel"
+  }
+}
