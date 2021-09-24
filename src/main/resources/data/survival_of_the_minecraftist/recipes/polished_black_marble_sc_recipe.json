@@ -3,7 +3,7 @@
   "type": "minecraft:stonecutting",
   "count": 1,
   "ingredient": {
-    "item": "survival_of_the_minecraftist:black_marble"
+    "item": "survival_of_the_minecraftist:deleted_mod_element"
   },
-  "result": "survival_of_the_minecraftist:black_marble_polished"
+  "result": "survival_of_the_minecraftist:deleted_mod_element"
 }

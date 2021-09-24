@@ -1,17 +1,9 @@
 
 package net.mcreator.survivaloftheminecraftist.itemgroup;
 
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-
-import net.mcreator.survivaloftheminecraftist.block.ReniteBlock;
-import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
-
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class SOTMBlocksItemGroup extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	public SOTMBlocksItemGroup(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 24);
 	}
@@ -31,5 +23,7 @@ public class SOTMBlocksItemGroup extends SurvivalOfTheMinecraftistModElements.Mo
 			}
 		};
 	}
+
 	public static ItemGroup tab;
+
 }

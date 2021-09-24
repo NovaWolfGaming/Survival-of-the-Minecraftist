@@ -19,7 +19,7 @@ public class VacuumEffectEffectStartedappliedProcedure {
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		for (int index0 = 0; index0 < (int) (14); index0++) {
-			entity.attackEntityFrom(DamageSource.OUT_OF_WORLD, (float) 1);
+			entity.attackEntityFrom(DamageSource.GENERIC, (float) 1);
 			if (entity instanceof LivingEntity)
 				((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.BLINDNESS, (int) 200, (int) 1, (false), (false)));
 		}

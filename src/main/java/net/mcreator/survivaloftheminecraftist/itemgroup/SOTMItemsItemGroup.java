@@ -1,17 +1,9 @@
 
 package net.mcreator.survivaloftheminecraftist.itemgroup;
 
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
-
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-
-import net.mcreator.survivaloftheminecraftist.item.SulphurItem;
-import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
-
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class SOTMItemsItemGroup extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	public SOTMItemsItemGroup(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 75);
 	}
@@ -31,5 +23,7 @@ public class SOTMItemsItemGroup extends SurvivalOfTheMinecraftistModElements.Mod
 			}
 		};
 	}
+
 	public static ItemGroup tab;
+
 }

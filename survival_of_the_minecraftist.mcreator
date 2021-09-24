@@ -434,94 +434,13 @@
       "registry_name": "vaccum_effect_recipe"
     },
     {
-      "name": "GlowstoneLamp",
-      "type": "block",
-      "sortid": 38,
+      "name": "SOTMOres",
+      "type": "tab",
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "glowstone_lamp"
-    },
-    {
-      "name": "GlowstoneLampRecipe",
-      "type": "recipe",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "glowstone_lamp_recipe"
-    },
-    {
-      "name": "Lamp",
-      "type": "block",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lamp"
-    },
-    {
-      "name": "LampRecipe",
-      "type": "recipe",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lamp_recipe"
-    },
-    {
-      "name": "GlowingObsidian",
-      "type": "block",
-      "sortid": 42,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "glowing_obsidian"
-    },
-    {
-      "name": "CrimsonNetherFungus",
-      "type": "block",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "crimson_nether_fungus"
-    },
-    {
-      "name": "PolishedNetherFungus",
-      "type": "block",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_nether_fungus"
-    },
-    {
-      "name": "PolishedCrimsonNetherFungusRecipe",
-      "type": "recipe",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_crimson_nether_fungus_recipe"
-    },
-    {
-      "name": "WarpedNetherFungus",
-      "type": "block",
-      "sortid": 46,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "warped_nether_fungus"
-    },
-    {
-      "name": "PolishedWarpedNetherFungus",
-      "type": "block",
-      "sortid": 47,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_warped_nether_fungus"
+      "registry_name": "sotm_ores"
     },
     {
       "name": "PolishedWarpedNetherFungusRecipe",
@@ -533,22 +452,49 @@
       "registry_name": "polished_warped_nether_fungus_recipe"
     },
     {
-      "name": "PolishedOumiceSCRecipe",
+      "name": "LampRodRecipe",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "polished_oumice_sc_recipe"
+      "registry_name": "lamp_rod_recipe"
     },
     {
-      "name": "PumiceBricksSCRecipe",
+      "name": "BlackMarbleBricksRecipe",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "pumice_bricks_sc_recipe"
+      "registry_name": "black_marble_bricks_recipe"
+    },
+    {
+      "name": "CobbledWhiteMarble",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbled_white_marble"
+    },
+    {
+      "name": "GlowstoneLamp",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_lamp"
+    },
+    {
+      "name": "BlackMarbleBricks",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_marble_bricks"
     },
     {
       "name": "Limestone",
@@ -560,78 +506,6 @@
       "registry_name": "limestone"
     },
     {
-      "name": "LimestoneBricks",
-      "type": "block",
-      "sortid": 52,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "limestone_bricks"
-    },
-    {
-      "name": "PolishedLimestone",
-      "type": "block",
-      "sortid": 53,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_limestone"
-    },
-    {
-      "name": "PolishedLimestoneRecipe",
-      "type": "recipe",
-      "sortid": 54,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_limestone_recipe"
-    },
-    {
-      "name": "LimestoneBricksRecipe",
-      "type": "recipe",
-      "sortid": 55,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "limestone_bricks_recipe"
-    },
-    {
-      "name": "PolishedLimestoneSCRecipe",
-      "type": "recipe",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_limestone_sc_recipe"
-    },
-    {
-      "name": "LimestoneBricksCSRecipe",
-      "type": "recipe",
-      "sortid": 57,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "limestone_bricks_cs_recipe"
-    },
-    {
-      "name": "LampRod",
-      "type": "block",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lamp_rod"
-    },
-    {
-      "name": "LampRodRecipe",
-      "type": "recipe",
-      "sortid": 59,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "lamp_rod_recipe"
-    },
-    {
       "name": "WhiteMarble",
       "type": "block",
       "sortid": 60,
@@ -639,6 +513,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "white_marble"
+    },
+    {
+      "name": "PolishedBlackMarbleBricksRecipe",
+      "type": "recipe",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_black_marble_bricks_recipe"
+    },
+    {
+      "name": "PolishedBlackMarbleSCRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_black_marble_sc_recipe"
+    },
+    {
+      "name": "GlowstoneLampRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowstone_lamp_recipe"
     },
     {
       "name": "WhiteMarbleBricks",
@@ -659,148 +560,13 @@
       "registry_name": "white_marble_polished"
     },
     {
-      "name": "PolishedWhiteMarbleRecipe",
-      "type": "recipe",
-      "sortid": 63,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_white_marble_recipe"
-    },
-    {
-      "name": "WhiteMarbleBricksRecipe",
-      "type": "recipe",
-      "sortid": 64,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "white_marble_bricks_recipe"
-    },
-    {
-      "name": "PolishedWhiteMarbleSCRecipe",
-      "type": "recipe",
-      "sortid": 65,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_white_marble_sc_recipe"
-    },
-    {
-      "name": "PolishedWhiteMarbleBricksRecipe",
-      "type": "recipe",
-      "sortid": 66,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_white_marble_bricks_recipe"
-    },
-    {
-      "name": "BlackMarble",
+      "name": "GlowingObsidian",
       "type": "block",
-      "sortid": 67,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "black_marble"
-    },
-    {
-      "name": "BlackMarbleBricks",
-      "type": "block",
-      "sortid": 68,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_marble_bricks"
-    },
-    {
-      "name": "BlackMarblePolished",
-      "type": "block",
-      "sortid": 69,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_marble_polished"
-    },
-    {
-      "name": "PolishedBlackMarbleRecipe",
-      "type": "recipe",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_black_marble_recipe"
-    },
-    {
-      "name": "BlackMarbleBricksRecipe",
-      "type": "recipe",
-      "sortid": 71,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "black_marble_bricks_recipe"
-    },
-    {
-      "name": "PolishedBlackMarbleSCRecipe",
-      "type": "recipe",
-      "sortid": 72,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_black_marble_sc_recipe"
-    },
-    {
-      "name": "PolishedBlackMarbleBricksRecipe",
-      "type": "recipe",
-      "sortid": 73,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "polished_black_marble_bricks_recipe"
-    },
-    {
-      "name": "SOTMOres",
-      "type": "tab",
-      "sortid": 74,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sotm_ores"
-    },
-    {
-      "name": "SOTMItems",
-      "type": "tab",
-      "sortid": 75,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sotm_items"
-    },
-    {
-      "name": "SOTMDecorations",
-      "type": "tab",
-      "sortid": 76,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "sotm_decorations"
-    },
-    {
-      "name": "CobbledWhiteMarble",
-      "type": "block",
-      "sortid": 77,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cobbled_white_marble"
-    },
-    {
-      "name": "CobbledBlackMarble",
-      "type": "block",
-      "sortid": 78,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cobbled_black_marble"
+      "registry_name": "glowing_obsidian"
     },
     {
       "name": "CobbledMarble2Marble",
@@ -812,6 +578,195 @@
       "registry_name": "cobbled_marble_2_marble"
     },
     {
+      "name": "PolishedWhiteMarbleRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_white_marble_recipe"
+    },
+    {
+      "name": "SOTMDecorations",
+      "type": "tab",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sotm_decorations"
+    },
+    {
+      "name": "PolishedCrimsonNetherFungusRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_crimson_nether_fungus_recipe"
+    },
+    {
+      "name": "LimestoneBricks",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestone_bricks"
+    },
+    {
+      "name": "PolishedLimestoneSCRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_limestone_sc_recipe"
+    },
+    {
+      "name": "WhiteMarbleBricksRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_marble_bricks_recipe"
+    },
+    {
+      "name": "Lamp",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lamp"
+    },
+    {
+      "name": "BlackMarble",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_marble"
+    },
+    {
+      "name": "BlackMarblePolished",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_marble_polished"
+    },
+    {
+      "name": "PolishedWarpedNetherFungus",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_warped_nether_fungus"
+    },
+    {
+      "name": "LampRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lamp_recipe"
+    },
+    {
+      "name": "PolishedLimestone",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_limestone"
+    },
+    {
+      "name": "PolishedNetherFungus",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_nether_fungus"
+    },
+    {
+      "name": "PolishedBlackMarbleRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_black_marble_recipe"
+    },
+    {
+      "name": "LimestoneBricksRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestone_bricks_recipe"
+    },
+    {
+      "name": "CobbledBlackMarble",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbled_black_marble"
+    },
+    {
+      "name": "PolishedLimestoneRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_limestone_recipe"
+    },
+    {
+      "name": "WarpedNetherFungus",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nether_fungus"
+    },
+    {
+      "name": "SOTMItems",
+      "type": "tab",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sotm_items"
+    },
+    {
+      "name": "PolishedOumiceSCRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_oumice_sc_recipe"
+    },
+    {
+      "name": "PolishedWhiteMarbleSCRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_white_marble_sc_recipe"
+    },
+    {
       "name": "CobbledMarble2Marble2",
       "type": "recipe",
       "sortid": 80,
@@ -819,6 +774,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobbled_marble_2_marble_2"
+    },
+    {
+      "name": "PumiceBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumice_bricks_sc_recipe"
+    },
+    {
+      "name": "LimestoneBricksCSRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "limestone_bricks_cs_recipe"
+    },
+    {
+      "name": "CrimsonNetherFungus",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crimson_nether_fungus"
+    },
+    {
+      "name": "LampRod",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lamp_rod"
+    },
+    {
+      "name": "PolishedWhiteMarbleBricksRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_white_marble_bricks_recipe"
     }
   ],
   "variable_elements": [],
@@ -828,62 +828,40 @@
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
-      "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
-      "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
-      "block.survival_of_the_minecraftist.lamp": "Lamp",
-      "itemGroup.tabsotm_decorations": "SOTM Decorations",
       "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
-      "block.survival_of_the_minecraftist.black_marble": "Black Marble",
       "item.minecraft.splash_potion.effect.fire_starter_potion": "Splash Potion of Fire Starter",
-      "block.survival_of_the_minecraftist.white_marble_polished": "Polished White Marble",
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "item.minecraft.splash_potion.effect.bottled_milk": "Splash Bottle of Milk",
       "effect.milked": "Milk ",
-      "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
-      "itemGroup.tabsotm_ores": "SOTM Ores",
       "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
-      "block.survival_of_the_minecraftist.white_marble_bricks": "White Marble Bricks",
       "block.survival_of_the_minecraftist.blood": "Blood",
       "item.minecraft.tipped_arrow.effect.vacuum_potion": "Arrow of Vacuum ",
-      "block.survival_of_the_minecraftist.cobbled_white_marble": "Cobbled White Marble",
       "item.minecraft.potion.effect.fire_starter_potion": "Potion of Fire Starter",
       "itemGroup.tabsotm_blocks": "SOTM Blocks",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
       "item.survival_of_the_minecraftist.sulphur": "Sulphur",
-      "block.survival_of_the_minecraftist.limestone": "Limestone",
       "block.survival_of_the_minecraftist.trodden_flower_3": "Trodden Flower",
       "block.survival_of_the_minecraftist.trodden_flower_2": "Trodden Flower",
       "item.minecraft.tipped_arrow.effect.fire_starter_potion": "Arrow of Fire Starter",
       "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
-      "block.survival_of_the_minecraftist.white_marble": "White Marble",
       "effect.vacuum_effect": "Vacuum",
-      "block.survival_of_the_minecraftist.lamp_rod": "Lamp Rod",
       "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
       "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
-      "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
       "item.minecraft.splash_potion.effect.vacuum_potion": "Splash Potion of Vacuum ",
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
-      "itemGroup.tabsotm_items": "SOTM Items",
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
-      "block.survival_of_the_minecraftist.polished_limestone": "Polished Limestone",
       "fluid.survival_of_the_minecraftist.blood": "Blood",
-      "block.survival_of_the_minecraftist.warped_nether_fungus": "Warped Nether Fungus",
       "item.minecraft.tipped_arrow.effect.bottled_milk": "Arrow of Milk",
-      "block.survival_of_the_minecraftist.crimson_nether_fungus": "Crimson Nether Fungus",
       "item.minecraft.lingering_potion.effect.fire_starter_potion": "Lingering Potion of Fire Starter",
-      "block.survival_of_the_minecraftist.black_marble_polished": "Polished Black Marble",
-      "block.survival_of_the_minecraftist.polished_nether_fungus": "Polished Crimson Nether Fungus",
       "item.survival_of_the_minecraftist.potassium": "Potassium",
-      "block.survival_of_the_minecraftist.limestone_bricks": "Limestone Bricks",
       "item.minecraft.lingering_potion.effect.vacuum_potion": "Lingering Potion of Vacuum ",
-      "block.survival_of_the_minecraftist.cobbled_black_marble": "Cobbled Black Marble",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.renite": "Renite",
       "effect.fire_starter": "Fire Starter"

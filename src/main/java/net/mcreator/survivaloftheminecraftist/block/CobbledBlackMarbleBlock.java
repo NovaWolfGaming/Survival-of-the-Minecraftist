@@ -1,31 +1,18 @@
 
 package net.mcreator.survivaloftheminecraftist.block;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.world.IBlockReader;
-import net.minecraft.util.math.BlockPos;
-import net.minecraft.loot.LootContext;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
-import net.minecraft.block.SoundType;
-import net.minecraft.block.BlockState;
-import net.minecraft.block.Block;
-
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
-import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
-
-import java.util.List;
-import java.util.Collections;
+import net.minecraft.util.SoundEvent;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class CobbledBlackMarbleBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	@ObjectHolder("survival_of_the_minecraftist:cobbled_black_marble")
 	public static final Block block = null;
+
 	public CobbledBlackMarbleBlock(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 78);
+
 	}
 
 	@Override
@@ -33,9 +20,12 @@ public class CobbledBlackMarbleBlock extends SurvivalOfTheMinecraftistModElement
 		elements.blocks.add(() -> new CustomBlock());
 		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
+
 	public static class CustomBlock extends Block {
+
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+
 			setRegistryName("cobbled_black_marble");
 		}
 
@@ -46,10 +36,13 @@ public class CobbledBlackMarbleBlock extends SurvivalOfTheMinecraftistModElement
 
 		@Override
 		public List<ItemStack> getDrops(BlockState state, LootContext.Builder builder) {
+
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(this, 1));
 		}
+
 	}
+
 }
