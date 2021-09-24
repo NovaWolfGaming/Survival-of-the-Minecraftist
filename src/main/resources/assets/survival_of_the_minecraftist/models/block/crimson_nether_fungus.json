@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "survival_of_the_minecraftist:blocks/nether_fungus",
+    "particle": "survival_of_the_minecraftist:blocks/nether_fungus"
+  }
+}

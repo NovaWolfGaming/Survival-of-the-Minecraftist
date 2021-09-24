@@ -88,11 +88,11 @@
         "value": "Blocks.NETHERRACK"
       }
     ],
-    "frequencyOnChunks": 2,
+    "frequencyOnChunks": 15,
     "spawnWorldTypes": [
       "Nether"
     ],
     "restrictionBiomes": [],
-    "patchSize": 2
+    "patchSize": 4
   }
 }

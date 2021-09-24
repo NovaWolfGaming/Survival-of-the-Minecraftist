@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:deleted_mod_element"
+  },
+  "result": "survival_of_the_minecraftist:black_marble_bricks"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "up": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "north": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "east": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "south": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "west": "survival_of_the_minecraftist:blocks/glowingobsidiananimated",
+    "particle": "survival_of_the_minecraftist:blocks/glowingobsidiananimated"
+  }
+}

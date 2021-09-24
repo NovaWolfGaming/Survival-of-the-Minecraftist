@@ -82,7 +82,7 @@
         "value": "Blocks.SOUL_SAND"
       }
     ],
-    "frequencyOnChunks": 2,
+    "frequencyOnChunks": 15,
     "spawnWorldTypes": [
       "Nether"
     ],

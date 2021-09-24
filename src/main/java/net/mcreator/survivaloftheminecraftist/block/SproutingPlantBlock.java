@@ -99,7 +99,7 @@ public class SproutingPlantBlock extends SurvivalOfTheMinecraftistModElements.Mo
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
 									.tries(3).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(1);
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(10);
 			event.getRegistry().register(feature.setRegistryName("sprouting_plant"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:sprouting_plant"),
 					configuredFeature);

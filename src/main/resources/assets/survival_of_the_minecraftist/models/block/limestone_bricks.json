@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "survival_of_the_minecraftist:blocks/limestone_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/limestone_bricks"
+  }
+}

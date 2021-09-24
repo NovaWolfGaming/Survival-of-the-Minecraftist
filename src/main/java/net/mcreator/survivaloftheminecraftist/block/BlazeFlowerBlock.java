@@ -98,8 +98,8 @@ public class BlazeFlowerBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 			configuredFeature = feature
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
-									.tries(2).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(2);
+									.tries(4).build())
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(15);
 			event.getRegistry().register(feature.setRegistryName("blaze_flower"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:blaze_flower"),
 					configuredFeature);
