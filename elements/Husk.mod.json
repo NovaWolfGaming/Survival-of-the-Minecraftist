@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "husk",
+    "texture": "husk2",
     "customModelName": "Normal",
     "name": "Husk",
     "rarity": "COMMON",
