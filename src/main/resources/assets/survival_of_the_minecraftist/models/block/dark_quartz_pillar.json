@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/dark_quartz_pillar_top",
+    "up": "survival_of_the_minecraftist:blocks/dark_quartz_pillar_top",
+    "north": "survival_of_the_minecraftist:blocks/dark_quartz_pillar",
+    "east": "survival_of_the_minecraftist:blocks/dark_quartz_pillar",
+    "south": "survival_of_the_minecraftist:blocks/dark_quartz_pillar",
+    "west": "survival_of_the_minecraftist:blocks/dark_quartz_pillar",
+    "particle": "survival_of_the_minecraftist:blocks/dark_quartz_pillar_top"
+  }
+}

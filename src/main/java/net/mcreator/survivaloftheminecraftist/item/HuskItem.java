@@ -1,6 +1,7 @@
 
 package net.mcreator.survivaloftheminecraftist.item;
 
+<<<<<<< HEAD
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.world.World;
@@ -17,19 +18,26 @@ import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElemen
 import java.util.Map;
 import java.util.HashMap;
 
+=======
+>>>>>>> branch 'master' of https://github.com/NovaWolfGaming/Survival-of-the-Minecraftist.git
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	@ObjectHolder("survival_of_the_minecraftist:husk")
 	public static final Item block = null;
+
 	public HuskItem(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 81);
+
 	}
 
 	@Override
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
+
 	public static class ItemCustom extends Item {
+
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MATERIALS).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("husk");
@@ -50,6 +58,7 @@ public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 			return 1F;
 		}
 
+<<<<<<< HEAD
 		@Override
 		public void onCreated(ItemStack itemstack, World world, PlayerEntity entity) {
 			super.onCreated(itemstack, world, entity);
@@ -62,5 +71,8 @@ public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 				HuskItemIsCraftedsmeltedProcedure.executeProcedure($_dependencies);
 			}
 		}
+=======
+>>>>>>> branch 'master' of https://github.com/NovaWolfGaming/Survival-of-the-Minecraftist.git
 	}
+
 }
