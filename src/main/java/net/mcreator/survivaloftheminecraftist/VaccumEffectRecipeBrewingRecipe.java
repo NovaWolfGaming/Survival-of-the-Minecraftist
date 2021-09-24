@@ -1,9 +1,19 @@
 
 package net.mcreator.survivaloftheminecraftist;
 
+import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
+import net.minecraftforge.common.brewing.IBrewingRecipe;
+import net.minecraftforge.common.brewing.BrewingRecipeRegistry;
+
+import net.minecraft.potion.PotionUtils;
+import net.minecraft.item.Items;
+import net.minecraft.item.ItemStack;
+
+import net.mcreator.survivaloftheminecraftist.potion.VacuumPotionPotion;
+import net.mcreator.survivaloftheminecraftist.item.PotassiumItem;
+
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class VaccumEffectRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
-
 	public VaccumEffectRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 37);
 	}
@@ -12,7 +22,6 @@ public class VaccumEffectRecipeBrewingRecipe extends SurvivalOfTheMinecraftistMo
 	public void init(FMLCommonSetupEvent event) {
 		BrewingRecipeRegistry.addRecipe(new CustomBrewingRecipe());
 	}
-
 	public static class CustomBrewingRecipe implements IBrewingRecipe {
 		@Override
 		public boolean isInput(ItemStack input) {
