@@ -1,18 +1,33 @@
 
 package net.mcreator.survivaloftheminecraftist.block;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.world.IBlockReader;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.state.properties.SlabType;
+import net.minecraft.loot.LootContext;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
-import net.minecraft.util.SoundEvent;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.SlabBlock;
+import net.minecraft.block.BlockState;
+import net.minecraft.block.Block;
+
+import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMDecorationsItemGroup;
+import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
+
+import java.util.List;
+import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class DarkQuartzStairsSlabBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-
 	@ObjectHolder("survival_of_the_minecraftist:dark_quartz_stairs_slab")
 	public static final Block block = null;
-
 	public DarkQuartzStairsSlabBlock(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 89);
-
 	}
 
 	@Override
@@ -21,12 +36,9 @@ public class DarkQuartzStairsSlabBlock extends SurvivalOfTheMinecraftistModEleme
 		elements.items
 				.add(() -> new BlockItem(block, new Item.Properties().group(SOTMDecorationsItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
-
 	public static class CustomBlock extends SlabBlock {
-
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-
 			setRegistryName("dark_quartz_stairs_slab");
 		}
 
@@ -42,7 +54,5 @@ public class DarkQuartzStairsSlabBlock extends SurvivalOfTheMinecraftistModEleme
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(this, state.get(TYPE) == SlabType.DOUBLE ? 2 : 1));
 		}
-
 	}
-
 }
