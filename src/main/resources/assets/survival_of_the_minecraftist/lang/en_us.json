@@ -1,9 +1,9 @@
 {
-  "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
   "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
+  "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
   "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
-  "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
   "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
+  "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
   "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
   "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
   "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
@@ -45,6 +45,7 @@
   "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
   "block.survival_of_the_minecraftist.white_marble": "White Marble",
   "effect.vacuum_effect": "Vacuum",
+  "block.survival_of_the_minecraftist.smooth_cobblestone": "Smooth Cobblestone",
   "block.survival_of_the_minecraftist.lamp_rod": "Lamp Rod",
   "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
   "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
@@ -78,6 +79,7 @@
   "itemGroup.tabsotm_plants": "SOTM Plants",
   "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
   "item.survival_of_the_minecraftist.dehusked_coconut": "Dehusked Coconut",
+  "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
   "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
   "block.survival_of_the_minecraftist.renite": "Renite",
   "effect.fire_starter": "Fire Starter"

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/furnace_top",
+    "up": "survival_of_the_minecraftist:blocks/furnace_top",
+    "north": "survival_of_the_minecraftist:blocks/furnace_side",
+    "east": "survival_of_the_minecraftist:blocks/furnace_side",
+    "south": "survival_of_the_minecraftist:blocks/furnace_side",
+    "west": "survival_of_the_minecraftist:blocks/furnace_side",
+    "particle": "survival_of_the_minecraftist:blocks/furnace_top"
+  }
+}

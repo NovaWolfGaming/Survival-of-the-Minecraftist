@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "2": {
+      "item": "minecraft:smooth_stone_slab"
+    },
+    "3": {
+      "item": "minecraft:smooth_stone_slab"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:smooth_cobblestone_panel",
+    "count": 2
+  }
+}

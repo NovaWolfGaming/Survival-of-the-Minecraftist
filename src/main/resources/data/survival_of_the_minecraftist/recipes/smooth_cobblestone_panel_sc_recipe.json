@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": "survival_of_the_minecraftist:smooth_cobblestone_panel"
+}
