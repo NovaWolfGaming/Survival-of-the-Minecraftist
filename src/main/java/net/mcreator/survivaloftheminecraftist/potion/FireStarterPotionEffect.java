@@ -32,7 +32,7 @@ public class FireStarterPotionEffect {
 		public EffectCustom() {
 			super(EffectType.HARMFUL, -39424);
 			setRegistryName("fire_starter");
-			potionIcon = new ResourceLocation("survival_of_the_minecraftist:textures/fire_starter_icon.png");
+			potionIcon = new ResourceLocation("survival_of_the_minecraftist:textures/blaze_logo.png");
 		}
 
 		@Override
