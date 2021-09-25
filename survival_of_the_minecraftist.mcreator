@@ -1223,15 +1223,6 @@
       "registry_name": "slingshot"
     },
     {
-      "name": "Fgd",
-      "type": "loottable",
-      "sortid": 120,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "fgd"
-    },
-    {
       "name": "SlingshotRecipe",
       "type": "recipe",
       "sortid": 118,
@@ -1266,6 +1257,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "pebble"
+    },
+    {
+      "name": "Chisel",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chisel"
+    },
+    {
+      "name": "LeatherStripsRecipe",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_strips_recipe"
+    },
+    {
+      "name": "ChiselRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chisel_recipe"
     }
   ],
   "variable_elements": [],
@@ -1357,6 +1375,7 @@
       "block.survival_of_the_minecraftist.dark_quartz_bricks": "Dark Quartz Bricks",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
+      "item.survival_of_the_minecraftist.chisel": "Chisel",
       "item.survival_of_the_minecraftist.dehusked_coconut": "Dehusked Coconut",
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
