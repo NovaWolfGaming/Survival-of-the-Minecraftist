@@ -20,7 +20,6 @@ import net.minecraft.network.IPacket;
 import net.minecraft.item.UseAction;
 import net.minecraft.item.ShootableItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.entity.projectile.AbstractArrowEntity;
 import net.minecraft.entity.player.ServerPlayerEntity;
@@ -31,6 +30,7 @@ import net.minecraft.entity.EntityType;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.Entity;
 
+import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMToolsAndWeaponsItemGroup;
 import net.mcreator.survivaloftheminecraftist.entity.renderer.SlingshotRenderer;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
@@ -55,7 +55,7 @@ public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 	}
 	public static class ItemRanged extends Item {
 		public ItemRanged() {
-			super(new Item.Properties().group(ItemGroup.COMBAT).maxDamage(312));
+			super(new Item.Properties().group(SOTMToolsAndWeaponsItemGroup.tab).maxDamage(312));
 			setRegistryName("slingshot");
 		}
 
