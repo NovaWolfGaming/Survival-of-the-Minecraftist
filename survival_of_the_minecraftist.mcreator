@@ -1302,6 +1302,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "topaz_sword"
+    },
+    {
+      "name": "Cobblestone2PebbelRecipe",
+      "type": "recipe",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobblestone_2_pebbel_recipe"
+    },
+    {
+      "name": "SlingshotBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slingshot_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],

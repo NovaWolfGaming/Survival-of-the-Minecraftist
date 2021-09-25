@@ -30,11 +30,14 @@ import net.minecraft.entity.EntityType;
 import net.minecraft.entity.EntityClassification;
 import net.minecraft.entity.Entity;
 
+import net.mcreator.survivaloftheminecraftist.procedures.SlingshotBulletHitsLivingEntityProcedure;
 import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMToolsAndWeaponsItemGroup;
 import net.mcreator.survivaloftheminecraftist.entity.renderer.SlingshotRenderer;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.Random;
+import java.util.Map;
+import java.util.HashMap;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModElement {
@@ -156,6 +159,17 @@ public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 		protected void arrowHit(LivingEntity entity) {
 			super.arrowHit(entity);
 			entity.setArrowCountInEntity(entity.getArrowCountInEntity() - 1);
+			Entity sourceentity = this.func_234616_v_();
+			double x = this.getPosX();
+			double y = this.getPosY();
+			double z = this.getPosZ();
+			World world = this.world;
+			Entity imediatesourceentity = this;
+			{
+				Map<String, Object> $_dependencies = new HashMap<>();
+				$_dependencies.put("entity", entity);
+				SlingshotBulletHitsLivingEntityProcedure.executeProcedure($_dependencies);
+			}
 		}
 
 		@Override

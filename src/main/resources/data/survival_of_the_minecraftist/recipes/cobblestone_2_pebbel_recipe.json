@@ -1,0 +1,16 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "item": "survival_of_the_minecraftist:chisel"
+    }
+  ],
+  "result": {
+    "item": "survival_of_the_minecraftist:pebble",
+    "count": 9
+  }
+}

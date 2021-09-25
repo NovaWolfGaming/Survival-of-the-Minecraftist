@@ -8,7 +8,7 @@
     "name": "Topaz Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:SOTMToolsAndWeapons"
     },
     "toolType": "Sword",
     "harvestLevel": 1,
