@@ -7,14 +7,14 @@
   ],
   "key": {
     "0": {
-      "item": "survival_of_the_minecraftist:blood_quartz_slab"
+      "item": "survival_of_the_minecraftist:deleted_mod_element"
     },
     "1": {
-      "item": "survival_of_the_minecraftist:blood_quartz_slab"
+      "item": "survival_of_the_minecraftist:deleted_mod_element"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:chiseled_blood_quartz",
+    "item": "survival_of_the_minecraftist:deleted_mod_element",
     "count": 1
   }
 }

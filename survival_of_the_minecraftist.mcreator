@@ -1429,24 +1429,6 @@
       "registry_name": "topaz_shears_recipe"
     },
     {
-      "name": "BloodQuartz",
-      "type": "item",
-      "sortid": 137,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz"
-    },
-    {
-      "name": "BloodQuartzOre",
-      "type": "block",
-      "sortid": 138,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_ore"
-    },
-    {
       "name": "BlockOfBloodQuartz",
       "type": "block",
       "sortid": 139,
@@ -1454,60 +1436,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "block_of_blood_quartz"
-    },
-    {
-      "name": "BlockOfBloodQuartzRecipe",
-      "type": "recipe",
-      "sortid": 140,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "block_of_blood_quartz_recipe"
-    },
-    {
-      "name": "BloodQuartzStairs",
-      "type": "block",
-      "sortid": 141,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_stairs"
-    },
-    {
-      "name": "BloodQuartzStairsRecipe",
-      "type": "recipe",
-      "sortid": 142,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_stairs_recipe"
-    },
-    {
-      "name": "BloodQuartzSlab",
-      "type": "block",
-      "sortid": 143,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_slab"
-    },
-    {
-      "name": "BloodQuartzSlabRecipe",
-      "type": "recipe",
-      "sortid": 144,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_slab_recipe"
-    },
-    {
-      "name": "ChiseledBloodQuartz",
-      "type": "block",
-      "sortid": 145,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chiseled_blood_quartz"
     },
     {
       "name": "ChiseledBloodQuartzRecipe",
@@ -1519,6 +1447,24 @@
       "registry_name": "chiseled_blood_quartz_recipe"
     },
     {
+      "name": "SmoothBloodQuartzSlabRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_blood_quartz_slab_recipe"
+    },
+    {
+      "name": "BloodQuartzOre",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_ore"
+    },
+    {
       "name": "BloodQuartzPillar",
       "type": "block",
       "sortid": 147,
@@ -1528,31 +1474,13 @@
       "registry_name": "blood_quartz_pillar"
     },
     {
-      "name": "BloodQuartzPilalrRecipe",
+      "name": "BlockOfBloodQuartzRecipe",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "blood_quartz_pilalr_recipe"
-    },
-    {
-      "name": "BloodQuartzBricks",
-      "type": "block",
-      "sortid": 149,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_bricks"
-    },
-    {
-      "name": "BloodQuartzBricksRecipe",
-      "type": "recipe",
-      "sortid": 150,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "blood_quartz_bricks_recipe"
+      "registry_name": "block_of_blood_quartz_recipe"
     },
     {
       "name": "SmoothBloodQuartz",
@@ -1564,40 +1492,13 @@
       "registry_name": "smooth_blood_quartz"
     },
     {
-      "name": "SmoothBloodQuartzStairs",
+      "name": "ChiseledBloodQuartz",
       "type": "block",
-      "sortid": 152,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "smooth_blood_quartz_stairs"
-    },
-    {
-      "name": "SmoothBloodQuartzStairsRecipe",
-      "type": "recipe",
-      "sortid": 153,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "smooth_blood_quartz_stairs_recipe"
-    },
-    {
-      "name": "SmoothBloodQuartzSlab",
-      "type": "block",
-      "sortid": 154,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "smooth_blood_quartz_slab"
-    },
-    {
-      "name": "SmoothBloodQuartzSlabRecipe",
-      "type": "recipe",
-      "sortid": 155,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "smooth_blood_quartz_slab_recipe"
+      "registry_name": "chiseled_blood_quartz"
     },
     {
       "name": "SmoothDarkQuartzRecipe",
@@ -1609,6 +1510,60 @@
       "registry_name": "smooth_dark_quartz_recipe"
     },
     {
+      "name": "BloodQuartzSlabRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_slab_recipe"
+    },
+    {
+      "name": "BloodQuartz",
+      "type": "item",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz"
+    },
+    {
+      "name": "BloodQuartzStairs",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_stairs"
+    },
+    {
+      "name": "BloodQuartzBricksRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_bricks_recipe"
+    },
+    {
+      "name": "BloodQuartzSlab",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_slab"
+    },
+    {
+      "name": "BloodQuartzPilalrRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_pilalr_recipe"
+    },
+    {
       "name": "SmoothBloodQuartzRecipe",
       "type": "recipe",
       "sortid": 157,
@@ -1616,6 +1571,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_blood_quartz_recipe"
+    },
+    {
+      "name": "BloodQuartzBricks",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_bricks"
+    },
+    {
+      "name": "SmoothBloodQuartzSlab",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_blood_quartz_slab"
+    },
+    {
+      "name": "SmoothBloodQuartzStairs",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_blood_quartz_stairs"
+    },
+    {
+      "name": "BloodQuartzStairsRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood_quartz_stairs_recipe"
+    },
+    {
+      "name": "SmoothBloodQuartzStairsRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_blood_quartz_stairs_recipe"
     }
   ],
   "variable_elements": [],
