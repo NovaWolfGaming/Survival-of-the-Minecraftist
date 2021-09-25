@@ -1209,8 +1209,8 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
+      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
@@ -1227,6 +1227,7 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
+      "block.survival_of_the_minecraftist.topas": "Topas Ore",
       "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_block": "Smooth Dark Quartz",
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
