@@ -7,14 +7,14 @@
   ],
   "key": {
     "1": {
-      "item": "minecraft:iron_ingot"
+      "item": "survival_of_the_minecraftist:topaz_crystal"
     },
     "2": {
-      "item": "minecraft:iron_ingot"
+      "item": "survival_of_the_minecraftist:topaz_crystal"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:deleted_mod_element",
+    "item": "survival_of_the_minecraftist:topaz_shear",
     "count": 1
   }
 }
