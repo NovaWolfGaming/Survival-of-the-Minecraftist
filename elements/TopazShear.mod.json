@@ -3,19 +3,19 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "topazsword",
+    "texture": "topazshears",
     "customModelName": "Normal",
-    "name": "Topaz Sword",
+    "name": "Topaz Shears",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:SOTMToolsAndWeapons"
+      "value": "TOOLS"
     },
-    "toolType": "Sword",
+    "toolType": "Shears",
     "harvestLevel": 1,
-    "efficiency": 4.0,
+    "efficiency": 7.0,
     "attackSpeed": 1.0,
-    "enchantability": 2,
-    "damageVsEntity": 6.5,
+    "enchantability": 16,
+    "damageVsEntity": 4.0,
     "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
