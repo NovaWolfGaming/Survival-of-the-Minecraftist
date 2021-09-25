@@ -1,9 +1,17 @@
 
 package net.mcreator.survivaloftheminecraftist.itemgroup;
 
+import net.minecraftforge.api.distmarker.OnlyIn;
+import net.minecraftforge.api.distmarker.Dist;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
+
+import net.mcreator.survivaloftheminecraftist.item.SlingshotItem;
+import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
+
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class SOTMToolsAndWeaponsItemGroup extends SurvivalOfTheMinecraftistModElements.ModElement {
-
 	public SOTMToolsAndWeaponsItemGroup(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 117);
 	}
@@ -23,7 +31,5 @@ public class SOTMToolsAndWeaponsItemGroup extends SurvivalOfTheMinecraftistModEl
 			}
 		};
 	}
-
 	public static ItemGroup tab;
-
 }

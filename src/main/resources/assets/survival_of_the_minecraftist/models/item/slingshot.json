@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "survival_of_the_minecraftist:items/slingshot_1"
+    "layer0": "survival_of_the_minecraftist:items/slingshot"
   },
   "display": {
     "thirdperson_righthand": {
