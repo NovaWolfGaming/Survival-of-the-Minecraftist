@@ -97,7 +97,7 @@ public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 						}
 					}
 					if (entity.abilities.isCreativeMode || stack != ItemStack.EMPTY) {
-						ArrowCustomEntity entityarrow = shoot(world, entity, random, 1f, 2, 7);
+						ArrowCustomEntity entityarrow = shoot(world, entity, random, 1f, 2, 4);
 						itemstack.damageItem(1, entity, e -> e.sendBreakAnimation(entity.getActiveHand()));
 						if (entity.abilities.isCreativeMode) {
 							entityarrow.pickupStatus = AbstractArrowEntity.PickupStatus.CREATIVE_ONLY;
@@ -211,7 +211,7 @@ public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 		entityarrow.shoot(d1, d0 - entityarrow.getPosY() + (double) MathHelper.sqrt(d1 * d1 + d3 * d3) * 0.2F, d3, 1f * 2, 12.0F);
 		entityarrow.setSilent(true);
 		entityarrow.setDamage(2);
-		entityarrow.setKnockbackStrength(7);
+		entityarrow.setKnockbackStrength(4);
 		entityarrow.setIsCritical(false);
 		entity.world.addEntity(entityarrow);
 		double x = entity.getPosX();

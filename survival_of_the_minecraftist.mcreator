@@ -1328,14 +1328,77 @@
           }
         ]
       }
+    },
+    {
+      "name": "CobbledBasalt",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbled_basalt"
+    },
+    {
+      "name": "CobbledBasaltRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobbled_basalt_recipe"
+    },
+    {
+      "name": "PolishedCobbledBasalt",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cobbled_basalt"
+    },
+    {
+      "name": "PolishedCobbledBasaltPanel",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cobbled_basalt_panel"
+    },
+    {
+      "name": "PolishedCobbledBasaltRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cobbled_basalt_recipe"
+    },
+    {
+      "name": "PolishedCobbledBasaltPanelrecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cobbled_basalt_panelrecipe"
+    },
+    {
+      "name": "Basalt",
+      "type": "loottable",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
+      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
@@ -1362,6 +1425,7 @@
       "itemGroup.tabsotm_ores": "SOTM Ores",
       "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
+      "block.survival_of_the_minecraftist.polished_cobbled_basalt": "Polished Cobbled Basalt",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
       "block.survival_of_the_minecraftist.white_marble_bricks": "White Marble Bricks",
       "block.survival_of_the_minecraftist.blood": "Blood",
@@ -1418,6 +1482,7 @@
       "item.survival_of_the_minecraftist.leather_strips": "Leather Strips",
       "block.survival_of_the_minecraftist.cobbled_black_marble": "Cobbled Black Marble",
       "block.survival_of_the_minecraftist.dark_quartz_bricks": "Dark Quartz Bricks",
+      "block.survival_of_the_minecraftist.polished_cobbled_basalt_panel": "Polished Cobbled Basalt Panel",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
       "item.survival_of_the_minecraftist.chisel": "Chisel",
@@ -1425,6 +1490,7 @@
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
       "block.survival_of_the_minecraftist.renite": "Renite",
+      "block.survival_of_the_minecraftist.cobbled_basalt": "Cobbled Basalt",
       "effect.fire_starter": "Fire Starter"
     }
   },

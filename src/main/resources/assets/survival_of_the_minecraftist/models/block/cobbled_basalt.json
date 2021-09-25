@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/basalt_top",
+    "up": "survival_of_the_minecraftist:blocks/basalt_top",
+    "north": "survival_of_the_minecraftist:blocks/basalt_top",
+    "east": "survival_of_the_minecraftist:blocks/basalt_top",
+    "south": "survival_of_the_minecraftist:blocks/basalt_top",
+    "west": "survival_of_the_minecraftist:blocks/basalt_top",
+    "particle": "survival_of_the_minecraftist:blocks/basalt_top"
+  }
+}
