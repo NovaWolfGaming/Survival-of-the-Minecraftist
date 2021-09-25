@@ -1185,14 +1185,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_cobblestone_panel_sc_recipe"
+    },
+    {
+      "name": "BlackMarbleBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "black_marble_bricks_sc_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
+      "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
