@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_top",
+    "up": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_top",
+    "north": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_side",
+    "east": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_side",
+    "south": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_side",
+    "west": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_side",
+    "particle": "survival_of_the_minecraftist:blocks/blood_quartz_pillar_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_top",
+    "up": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_top",
+    "north": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_side",
+    "east": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_side",
+    "south": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_side",
+    "west": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_side",
+    "particle": "survival_of_the_minecraftist:blocks/chiseled_blood_quartz_top"
+  }
+}

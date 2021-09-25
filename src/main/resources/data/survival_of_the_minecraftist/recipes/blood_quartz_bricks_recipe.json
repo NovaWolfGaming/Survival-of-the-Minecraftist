@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:block_of_blood_quartz"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:block_of_blood_quartz"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:block_of_blood_quartz"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:block_of_blood_quartz"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:blood_quartz_bricks",
+    "count": 4
+  }
+}

@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "dark_quartz_pillar2",
-    "textureTop": "dark_quartz_pillar2",
-    "textureLeft": "dark_quartz_pillar",
-    "textureFront": "dark_quartz_pillar",
-    "textureRight": "dark_quartz_pillar",
-    "textureBack": "dark_quartz_pillar",
+    "texture": "blood_quartz_pillar_top",
+    "textureTop": "blood_quartz_pillar_top",
+    "textureLeft": "blood_quartz_pillar_side",
+    "textureFront": "blood_quartz_pillar_side",
+    "textureRight": "blood_quartz_pillar_side",
+    "textureBack": "blood_quartz_pillar_side",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 5,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartz Pillar",
+    "name": "Blood Quartz Pillar",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,

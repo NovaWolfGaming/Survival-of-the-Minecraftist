@@ -2,15 +2,15 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "dark_quartz_pillar2",
-    "textureTop": "dark_quartz_pillar2",
-    "textureLeft": "dark_quartz_pillar",
-    "textureFront": "dark_quartz_pillar",
-    "textureRight": "dark_quartz_pillar",
-    "textureBack": "dark_quartz_pillar",
-    "renderType": 10,
-    "customModelName": "Normal",
-    "rotationMode": 5,
+    "texture": "blood_quartz_ore",
+    "textureTop": "dark_quartz_ore_2",
+    "textureLeft": "dark_quartz_ore_2",
+    "textureFront": "dark_quartz_ore_2",
+    "textureRight": "dark_quartz_ore_2",
+    "textureBack": "dark_quartz_ore_2",
+    "renderType": 11,
+    "customModelName": "Single texture",
+    "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
     "itemTexture": "",
@@ -32,20 +32,20 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartz Pillar",
+    "name": "Blood Quartz Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMBlocks"
+      "value": "CUSTOM:SOTMOres"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:DarkQuartz"
     },
-    "dropAmount": 1,
+    "dropAmount": 3,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
