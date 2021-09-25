@@ -21,7 +21,7 @@ public class IronShearsItem extends SurvivalOfTheMinecraftistModElements.ModElem
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ShearsItem(new Item.Properties().group(SOTMToolsAndWeaponsItemGroup.tab).maxDamage(100)) {
+		elements.items.add(() -> new ShearsItem(new Item.Properties().group(SOTMToolsAndWeaponsItemGroup.tab).maxDamage(390)) {
 			@Override
 			public int getItemEnchantability() {
 				return 2;
