@@ -1,0 +1,37 @@
+{
+  "_fv": 24,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "slingshot_1",
+    "customModelName": "Normal",
+    "name": "Slingshot",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMToolsAndWeapons"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Pebble"
+    },
+    "shootConstantly": false,
+    "usageCount": 312,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 2.0,
+    "bulletKnockback": 7,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Pebble"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

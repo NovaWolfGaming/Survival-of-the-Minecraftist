@@ -2,12 +2,12 @@
 package net.mcreator.survivaloftheminecraftist.item;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class TopasCrystalItem extends SurvivalOfTheMinecraftistModElements.ModElement {
+public class LeatherStripsItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 
-	@ObjectHolder("survival_of_the_minecraftist:topas_crystal")
+	@ObjectHolder("survival_of_the_minecraftist:leather_strips")
 	public static final Item block = null;
 
-	public TopasCrystalItem(SurvivalOfTheMinecraftistModElements instance) {
+	public LeatherStripsItem(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 116);
 
 	}
@@ -20,8 +20,8 @@ public class TopasCrystalItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(SOTMItemsItemGroup.tab).maxStackSize(64).rarity(Rarity.UNCOMMON));
-			setRegistryName("topas_crystal");
+			super(new Item.Properties().group(SOTMItemsItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
+			setRegistryName("leather_strips");
 		}
 
 		@Override
