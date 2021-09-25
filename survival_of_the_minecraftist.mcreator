@@ -1286,24 +1286,6 @@
       "registry_name": "chisel"
     },
     {
-      "name": "TopazSwordRecipe",
-      "type": "recipe",
-      "sortid": 122,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "topaz_sword_recipe"
-    },
-    {
-      "name": "TopazSword",
-      "type": "tool",
-      "sortid": 121,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "topaz_sword"
-    },
-    {
       "name": "Cobblestone2PebbelRecipe",
       "type": "recipe",
       "sortid": 123,
@@ -1391,6 +1373,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "basalt"
+    },
+    {
+      "name": "Acacialeaves",
+      "type": "loottable",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acacialeaves"
+    },
+    {
+      "name": "IronShears",
+      "type": "tool",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_shears"
+    },
+    {
+      "name": "IronShearsRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_shears_recipe"
+    },
+    {
+      "name": "ShearsRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shears_recipe"
     }
   ],
   "variable_elements": [],
@@ -1432,7 +1450,6 @@
       "item.minecraft.tipped_arrow.effect.vacuum_potion": "Arrow of Vacuum ",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_stairs": "Smooth Dark Quartz Stairs",
       "block.survival_of_the_minecraftist.cobbled_white_marble": "Cobbled White Marble",
-      "item.survival_of_the_minecraftist.topaz_sword": "Topaz Sword",
       "item.minecraft.potion.effect.fire_starter_potion": "Potion of Fire Starter",
       "itemGroup.tabsotm_blocks": "SOTM Blocks",
       "block.survival_of_the_minecraftist.dark_quartz_pillar": "Dark Quartz Pillar",
@@ -1449,6 +1466,7 @@
       "effect.vacuum_effect": "Vacuum",
       "block.survival_of_the_minecraftist.smooth_cobblestone": "Smooth Cobblestone",
       "item.survival_of_the_minecraftist.topaz_crystal": "Topaz",
+      "item.survival_of_the_minecraftist.iron_shears": "Iron Shears",
       "block.survival_of_the_minecraftist.lamp_rod": "Lamp Rod",
       "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
       "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",

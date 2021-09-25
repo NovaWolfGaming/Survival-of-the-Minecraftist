@@ -13,16 +13,7 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:TopasCrystal"
-      },
-      {
         "value": ""
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "CUSTOM:TopasCrystal"
       },
       {
         "value": ""
@@ -31,16 +22,25 @@
         "value": ""
       },
       {
-        "value": "Items.STICK"
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.LEATHER"
+      },
+      {
+        "value": ""
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:TopazSword"
+      "value": "Items.SHEARS"
     },
-    "name": "topaz_sword_recipe",
-    "namespace": "mod"
+    "name": "shears",
+    "namespace": "minecraft"
   }
 }
