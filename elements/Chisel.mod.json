@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "iron_chisel",
+    "texture": "chisel",
     "customModelName": "Normal",
     "name": "Chisel",
     "rarity": "COMMON",
