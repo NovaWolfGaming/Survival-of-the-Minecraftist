@@ -1,20 +1,12 @@
 
 package net.mcreator.survivaloftheminecraftist.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.item.ShearsItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.item.Item;
-import net.minecraft.block.BlockState;
-
-import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
-
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class TopazShearItem extends SurvivalOfTheMinecraftistModElements.ModElement {
+
 	@ObjectHolder("survival_of_the_minecraftist:topaz_shear")
 	public static final Item block = null;
+
 	public TopazShearItem(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 133);
 	}
@@ -31,6 +23,8 @@ public class TopazShearItem extends SurvivalOfTheMinecraftistModElements.ModElem
 			public float getDestroySpeed(ItemStack stack, BlockState block) {
 				return 7f;
 			}
+
 		}.setRegistryName("topaz_shear"));
 	}
+
 }

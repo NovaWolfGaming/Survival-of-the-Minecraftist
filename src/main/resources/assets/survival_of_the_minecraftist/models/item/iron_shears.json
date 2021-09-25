@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "survival_of_the_minecraftist:items/iron_shears"
+  }
+}
