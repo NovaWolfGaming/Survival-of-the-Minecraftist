@@ -7,20 +7,20 @@
   ],
   "key": {
     "0": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:black_marble_polished"
     },
     "1": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:black_marble_polished"
     },
     "2": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:black_marble_polished"
     },
     "3": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:black_marble_polished"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:deleted_mod_element",
+    "item": "survival_of_the_minecraftist:black_marble_bricks",
     "count": 4
   }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "survival_of_the_minecraftist:block/topas",
+  "parent": "survival_of_the_minecraftist:block/topaz",
   "display": {
     "thirdperson": {
       "rotation": [

@@ -43,7 +43,7 @@ import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class TopasBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-	@ObjectHolder("survival_of_the_minecraftist:topas")
+	@ObjectHolder("survival_of_the_minecraftist:topaz")
 	public static final Block block = null;
 	public TopasBlock(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 115);
@@ -59,7 +59,7 @@ public class TopasBlock extends SurvivalOfTheMinecraftistModElements.ModElement 
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1.5f, 10f).setLightLevel(s -> 0));
-			setRegistryName("topas");
+			setRegistryName("topaz");
 		}
 
 		@Override
@@ -96,7 +96,7 @@ public class TopasBlock extends SurvivalOfTheMinecraftistModElements.ModElement 
 	private static class FeatureRegisterHandler {
 		@SubscribeEvent
 		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
-			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:topas_match"),
+			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:topaz_match"),
 					() -> CustomRuleTest.codec);
 			feature = new OreFeature(OreFeatureConfig.CODEC) {
 				@Override
@@ -112,8 +112,8 @@ public class TopasBlock extends SurvivalOfTheMinecraftistModElements.ModElement 
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(26)
 					.square().func_242731_b(8);
-			event.getRegistry().register(feature.setRegistryName("topas"));
-			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:topas"), configuredFeature);
+			event.getRegistry().register(feature.setRegistryName("topaz"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:topaz"), configuredFeature);
 		}
 	}
 	@SubscribeEvent

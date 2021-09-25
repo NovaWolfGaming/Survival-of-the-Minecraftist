@@ -8,17 +8,17 @@
   ],
   "key": {
     "0": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:lamp"
     },
     "1": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:lamp"
     },
     "2": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:lamp"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:deleted_mod_element",
+    "item": "survival_of_the_minecraftist:lamp_rod",
     "count": 6
   }
 }

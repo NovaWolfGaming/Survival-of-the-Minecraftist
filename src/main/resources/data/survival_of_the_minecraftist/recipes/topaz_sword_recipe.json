@@ -8,17 +8,17 @@
   ],
   "key": {
     "0": {
-      "item": "survival_of_the_minecraftist:topas_crystal"
+      "item": "survival_of_the_minecraftist:topaz_crystal"
     },
     "1": {
-      "item": "survival_of_the_minecraftist:topas_crystal"
+      "item": "survival_of_the_minecraftist:topaz_crystal"
     },
     "2": {
       "item": "minecraft:stick"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:deleted_mod_element",
+    "item": "survival_of_the_minecraftist:topaz_sword",
     "count": 1
   }
 }
