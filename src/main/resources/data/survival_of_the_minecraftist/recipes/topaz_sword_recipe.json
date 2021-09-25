@@ -2,24 +2,18 @@
   "group": "survival_of_the_minecraftist",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    " 12",
-    " 45",
-    "6  "
+    "0",
+    "1",
+    "2"
   ],
   "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:topas_crystal"
+    },
     "1": {
-      "item": "minecraft:iron_nugget"
+      "item": "survival_of_the_minecraftist:topas_crystal"
     },
     "2": {
-      "item": "minecraft:iron_ingot"
-    },
-    "4": {
-      "item": "minecraft:iron_ingot"
-    },
-    "5": {
-      "item": "minecraft:iron_nugget"
-    },
-    "6": {
       "item": "minecraft:stick"
     }
   },

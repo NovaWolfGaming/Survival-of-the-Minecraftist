@@ -1259,15 +1259,6 @@
       "registry_name": "pebble"
     },
     {
-      "name": "Chisel",
-      "type": "item",
-      "sortid": 120,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chisel"
-    },
-    {
       "name": "LeatherStripsRecipe",
       "type": "recipe",
       "sortid": 121,
@@ -1284,14 +1275,41 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chisel_recipe"
+    },
+    {
+      "name": "Chisel",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chisel"
+    },
+    {
+      "name": "TopazSwordRecipe",
+      "type": "recipe",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_sword_recipe"
+    },
+    {
+      "name": "TopazSword",
+      "type": "tool",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_sword"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
+      "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
@@ -1375,7 +1393,6 @@
       "block.survival_of_the_minecraftist.dark_quartz_bricks": "Dark Quartz Bricks",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
-      "item.survival_of_the_minecraftist.chisel": "Chisel",
       "item.survival_of_the_minecraftist.dehusked_coconut": "Dehusked Coconut",
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
