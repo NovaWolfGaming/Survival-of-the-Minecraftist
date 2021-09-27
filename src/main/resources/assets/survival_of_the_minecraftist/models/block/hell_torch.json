@@ -3,7 +3,7 @@
   "textures": {
     "all": "survival_of_the_minecraftist:blocks/base2",
     "particle": "survival_of_the_minecraftist:blocks/base2",
-    "0": "survival_of_the_minecraftist:blocks/hot_polished_basalt",
-    "1": "survival_of_the_minecraftist:blocks/hot_polished_basalt"
+    "0": "survival_of_the_minecraftist:blocks/",
+    "1": "survival_of_the_minecraftist:blocks/"
   }
 }

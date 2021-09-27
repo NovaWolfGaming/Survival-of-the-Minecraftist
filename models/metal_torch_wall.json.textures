@@ -2,8 +2,8 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "hot_polished_basalt",
-        "1": "hot_polished_basalt"
+        "0": "base2",
+        "1": "base2"
       },
       "name": "default"
     }
