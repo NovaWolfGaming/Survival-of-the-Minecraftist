@@ -1,0 +1,23 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:black_mushroom"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:red_mushroom"
+    },
+    "2": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:strider_milk",
+    "count": 1
+  }
+}

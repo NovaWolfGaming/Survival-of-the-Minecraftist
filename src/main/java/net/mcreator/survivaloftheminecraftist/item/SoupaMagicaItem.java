@@ -35,7 +35,7 @@ public class SoupaMagicaItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
 			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(16).rarity(Rarity.COMMON)
-					.food((new Food.Builder()).hunger(4).saturation(2f).build()));
+					.food((new Food.Builder()).hunger(4).saturation(2f).setAlwaysEdible().build()));
 			setRegistryName("soupa_magica");
 		}
 

@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "iron_ore_nether",
-    "textureTop": "iron_ore_nether",
-    "textureLeft": "iron_ore_nether_side",
-    "textureFront": "iron_ore_nether_side",
-    "textureRight": "iron_ore_nether_side",
-    "textureBack": "iron_ore_nether_side",
+    "texture": "hell_coal_ore_nether",
+    "textureTop": "hell_coal_ore_nether",
+    "textureLeft": "coal_ore_nether_side",
+    "textureFront": "coal_ore_nether_side",
+    "textureRight": "coal_ore_nether_side",
+    "textureBack": "coal_ore_nether_side",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Nether Iron Ore",
+    "name": "Hell Coal Ore",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -43,10 +43,10 @@
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": "Items.IRON_NUGGET"
+      "value": "CUSTOM:HellCoal"
     },
-    "dropAmount": 3,
-    "useLootTableForDrops": true,
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
@@ -131,7 +131,7 @@
       }
     ],
     "frequencyPerChunks": 10,
-    "frequencyOnChunk": 9,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 255
   }

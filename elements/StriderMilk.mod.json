@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "stryder_milk",
     "customModelName": "Normal",
-    "name": "Strider Milk",
+    "name": "Hellshroom Stew",
     "rarity": "COMMON",
     "specialInfo": [],
     "creativeTab": {
@@ -19,7 +19,7 @@
       "value": "Items.BOWL"
     },
     "forDogs": false,
-    "isAlwaysEdible": false,
+    "isAlwaysEdible": true,
     "animation": "drink",
     "hasGlow": false,
     "onEaten": {

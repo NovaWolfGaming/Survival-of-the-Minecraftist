@@ -19,7 +19,7 @@
       "value": "Items.BOWL"
     },
     "forDogs": false,
-    "isAlwaysEdible": false,
+    "isAlwaysEdible": true,
     "animation": "drink",
     "hasGlow": false,
     "onEaten": {
