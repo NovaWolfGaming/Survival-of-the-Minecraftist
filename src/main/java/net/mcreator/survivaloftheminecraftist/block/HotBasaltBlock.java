@@ -112,8 +112,8 @@ public class HotBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 23)).range(125)
-					.square().func_242731_b(23);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 32)).range(125)
+					.square().func_242731_b(32);
 			event.getRegistry().register(feature.setRegistryName("hot_basalt"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:hot_basalt"),
 					configuredFeature);

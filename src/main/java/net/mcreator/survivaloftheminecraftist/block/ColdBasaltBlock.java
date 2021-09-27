@@ -112,8 +112,8 @@ public class ColdBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 23)).range(255)
-					.square().func_242731_b(23);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 32)).range(255)
+					.square().func_242731_b(32);
 			event.getRegistry().register(feature.setRegistryName("cold_basalt"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:cold_basalt"),
 					configuredFeature);

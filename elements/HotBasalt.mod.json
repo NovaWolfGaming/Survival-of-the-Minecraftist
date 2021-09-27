@@ -134,8 +134,8 @@
         "value": "Blocks.BASALT"
       }
     ],
-    "frequencyPerChunks": 23,
-    "frequencyOnChunk": 23,
+    "frequencyPerChunks": 32,
+    "frequencyOnChunk": 32,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 125
   }
