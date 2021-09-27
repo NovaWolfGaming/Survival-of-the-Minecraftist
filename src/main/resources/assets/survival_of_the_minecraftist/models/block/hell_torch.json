@@ -1,9 +1,0 @@
-{
-  "parent": "survival_of_the_minecraftist:custom/metal_torch_floor",
-  "textures": {
-    "all": "survival_of_the_minecraftist:blocks/base2",
-    "particle": "survival_of_the_minecraftist:blocks/base2",
-    "0": "survival_of_the_minecraftist:blocks/",
-    "1": "survival_of_the_minecraftist:blocks/"
-  }
-}
