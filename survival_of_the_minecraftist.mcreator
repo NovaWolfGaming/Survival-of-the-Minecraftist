@@ -2016,6 +2016,124 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_cobbled_hot_basalt_panel_recipe"
+    },
+    {
+      "name": "NetherIronOre",
+      "type": "block",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_iron_ore"
+    },
+    {
+      "name": "StriderMilkFoodEaten",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_milk_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StriderMilk",
+      "type": "food",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_milk"
+    },
+    {
+      "name": "SoupaMagicaFoodEaten",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soupa_magica_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoupaMagica",
+      "type": "food",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soupa_magica"
+    },
+    {
+      "name": "StriderMilkProcedure",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_milk_procedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "sourceentity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "StriderMilk2SoupaMagica",
+      "type": "recipe",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "strider_milk_2_soupa_magica"
+    },
+    {
+      "name": "HellCoal",
+      "type": "item",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_coal"
+    },
+    {
+      "name": "HellCoalFuel",
+      "type": "fuel",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_coal_fuel"
+    },
+    {
+      "name": "HellCoalOre",
+      "type": "block",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_coal_ore"
     }
   ],
   "variable_elements": [],
@@ -2025,6 +2143,7 @@
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.warped_netherrack": "Warped Netherrack",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
+      "item.survival_of_the_minecraftist.hell_coal": "Hell Coal",
       "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
       "itemGroup.tabsotm_decorations": "SOTM Decorations",
       "block.survival_of_the_minecraftist.dark_quartz_slab": "Dark Quartz Slab",
@@ -2034,21 +2153,22 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
-      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
-      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
+      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt_panel": "Smooth Cobbled Hot Basalt Panel",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
-      "block.survival_of_the_minecraftist.pumice": "Pumice",
+      "block.survival_of_the_minecraftist.hell_coal_ore": "Hell Coal Ore",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt": "Polished Cobbled Basalt",
+      "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.polished_hot_basalt": "Polished Hot Basalt",
       "block.survival_of_the_minecraftist.blood": "Blood",
       "item.minecraft.tipped_arrow.effect.vacuum_potion": "Arrow of Vacuum ",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_stairs": "Smooth Dark Quartz Stairs",
-      "block.survival_of_the_minecraftist.dark_quartz_pillar": "Dark Quartz Pillar",
-      "itemGroup.tabsotm_blocks": "SOTM Blocks",
       "item.minecraft.potion.effect.fire_starter_potion": "Potion of Fire Starter",
+      "itemGroup.tabsotm_blocks": "SOTM Blocks",
+      "block.survival_of_the_minecraftist.dark_quartz_pillar": "Dark Quartz Pillar",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
       "item.survival_of_the_minecraftist.sulphur": "Sulphur",
       "block.survival_of_the_minecraftist.cobbled_hot_basalt": "Cobbled Hot Basalt",
@@ -2059,6 +2179,7 @@
       "block.survival_of_the_minecraftist.smooth_hot_basalt": "Smooth Hot Basalt",
       "block.survival_of_the_minecraftist.trodden_flower_2": "Trodden Flower",
       "item.minecraft.tipped_arrow.effect.fire_starter_potion": "Arrow of Fire Starter",
+      "item.survival_of_the_minecraftist.soupa_magica": "Soupa Magica",
       "block.survival_of_the_minecraftist.hot_basalt_bricks": "Hot Basalt Bricks",
       "block.survival_of_the_minecraftist.hot_basalt": "Hot Basalt",
       "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
@@ -2072,6 +2193,7 @@
       "block.survival_of_the_minecraftist.smooth_dark_quartz": "Smooth Dark Quartz",
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "itemGroup.tabsotm_items": "SOTM Items",
+      "block.survival_of_the_minecraftist.nether_iron_ore": "Nether Iron Ore",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "block.survival_of_the_minecraftist.cold_basalt_bricks": "Cold Basalt Bricks",
       "block.survival_of_the_minecraftist.dark_quartz_block": "Block of Dark Quartz",
@@ -2090,6 +2212,7 @@
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
       "item.survival_of_the_minecraftist.chisel": "Chisel",
+      "item.survival_of_the_minecraftist.strider_milk": "Strider Milk",
       "item.survival_of_the_minecraftist.topaz_shear": "Topaz Shears",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
