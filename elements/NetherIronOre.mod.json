@@ -39,14 +39,14 @@
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMBlocks"
+      "value": "CUSTOM:SOTMOres"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": ""
+      "value": "Items.IRON_NUGGET"
     },
-    "dropAmount": 1,
-    "useLootTableForDrops": false,
+    "dropAmount": 3,
+    "useLootTableForDrops": true,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
