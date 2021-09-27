@@ -2143,6 +2143,153 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "nether_iron_ore_loot"
+    },
+    {
+      "name": "HellTorchItem",
+      "type": "item",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_item"
+    },
+    {
+      "name": "HellTorchUpdateTick",
+      "type": "procedure",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellTorch",
+      "type": "block",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch"
+    },
+    {
+      "name": "HellTorchWall",
+      "type": "block",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_wall"
+    },
+    {
+      "name": "HellTorchNeighbourBlockChanges",
+      "type": "procedure",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_neighbour_block_changes",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellTorchWallNeighbourBlockChanges",
+      "type": "procedure",
+      "sortid": 229,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_wall_neighbour_block_changes",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellTorchItemRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hell_torch_item_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "direction",
+            "type": "direction"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -2151,6 +2298,7 @@
     "en_us": {
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
       "block.survival_of_the_minecraftist.warped_netherrack": "Warped Netherrack",
+      "block.survival_of_the_minecraftist.hell_torch_wall": "Hell Torch",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
       "item.survival_of_the_minecraftist.hell_coal": "Hell Coal",
       "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
@@ -2162,14 +2310,14 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
-      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
-      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
+      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt_panel": "Smooth Cobbled Hot Basalt Panel",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
       "block.survival_of_the_minecraftist.hell_coal_ore": "Hell Coal Ore",
-      "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt": "Polished Cobbled Basalt",
+      "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.polished_hot_basalt": "Polished Hot Basalt",
       "block.survival_of_the_minecraftist.blood": "Blood",
@@ -2204,11 +2352,13 @@
       "itemGroup.tabsotm_items": "SOTM Items",
       "block.survival_of_the_minecraftist.nether_iron_ore": "Nether Iron Ore",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
+      "item.survival_of_the_minecraftist.hell_torch_item": "Hell Torch",
       "block.survival_of_the_minecraftist.cold_basalt_bricks": "Cold Basalt Bricks",
       "block.survival_of_the_minecraftist.dark_quartz_block": "Block of Dark Quartz",
       "block.survival_of_the_minecraftist.polished_limestone": "Polished Limestone",
       "block.survival_of_the_minecraftist.polished_basalt": "Warm Basalt Panel",
       "fluid.survival_of_the_minecraftist.blood": "Blood",
+      "block.survival_of_the_minecraftist.hell_torch": "Hell Torch",
       "block.survival_of_the_minecraftist.blood_quartz_ore": "Blood Quartz Ore",
       "block.survival_of_the_minecraftist.cobbled_cold_basalt": "Cobbled Cold Basalt",
       "block.survival_of_the_minecraftist.blood_quartz_pillar": "Blood Quartz Pillar",

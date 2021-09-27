@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hot_polished_basalt",
+        "1": "hot_polished_basalt"
+      },
+      "name": "default"
+    }
+  }
+}
