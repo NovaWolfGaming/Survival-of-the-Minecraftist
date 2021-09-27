@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "sulphur",
+    "texture": "sulfur",
     "customModelName": "Normal",
     "name": "Sulphur",
     "rarity": "COMMON",

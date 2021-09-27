@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "up": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "north": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "east": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "south": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "west": "survival_of_the_minecraftist:blocks/warped_netherrack",
+    "particle": "survival_of_the_minecraftist:blocks/warped_netherrack"
+  }
+}

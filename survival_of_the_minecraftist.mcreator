@@ -1616,6 +1616,235 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "smooth_blood_quartz_stairs_recipe"
+    },
+    {
+      "name": "WarpedNylium2",
+      "type": "block",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nylium_2"
+    },
+    {
+      "name": "WarpedNetherrack",
+      "type": "block",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_netherrack"
+    },
+    {
+      "name": "WarpedNetherbrick",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_netherbrick"
+    },
+    {
+      "name": "WarpedNetherbrickRecipe",
+      "type": "recipe",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_netherbrick_recipe"
+    },
+    {
+      "name": "WarpedNetherbricks",
+      "type": "block",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_netherbricks"
+    },
+    {
+      "name": "WarpedNetherBricksRecipe",
+      "type": "recipe",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nether_bricks_recipe"
+    },
+    {
+      "name": "PolishedBasalt",
+      "type": "block",
+      "sortid": 164,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_basalt"
+    },
+    {
+      "name": "PolishedBasaltRecipe",
+      "type": "recipe",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_basalt_recipe"
+    },
+    {
+      "name": "BasaltBricks",
+      "type": "block",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_bricks"
+    },
+    {
+      "name": "BasaltBricksRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_bricks_recipe"
+    },
+    {
+      "name": "WarpedNylium2UpdateTick",
+      "type": "procedure",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nylium_2_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WarpedNetherrackUpdateTick",
+      "type": "procedure",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_netherrack_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ColdBasalt",
+      "type": "block",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_basalt"
+    },
+    {
+      "name": "PolishedColdBasalt",
+      "type": "block",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cold_basalt"
+    },
+    {
+      "name": "SmoothBasalt",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_basalt"
+    },
+    {
+      "name": "PolishedColdBasaltRecipe",
+      "type": "recipe",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_cold_basalt_recipe"
+    },
+    {
+      "name": "SmoothColdBasaltRecipe",
+      "type": "recipe",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_cold_basalt_recipe"
+    },
+    {
+      "name": "ColdBasaltPanel",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_basalt_panel"
+    },
+    {
+      "name": "ColdBasaltPanelRecipe",
+      "type": "recipe",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_basalt_panel_recipe"
+    },
+    {
+      "name": "ColdBasaltBricks",
+      "type": "block",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_basalt_bricks"
+    },
+    {
+      "name": "ColdBasaltBricksRecipe",
+      "type": "recipe",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_basalt_bricks_recipe"
     }
   ],
   "variable_elements": [],
@@ -1623,6 +1852,7 @@
   "language_map": {
     "en_us": {
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
+      "block.survival_of_the_minecraftist.warped_netherrack": "Warped Netherrack",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
       "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
       "itemGroup.tabsotm_decorations": "SOTM Decorations",
@@ -1634,9 +1864,11 @@
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
+      "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
       "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt": "Polished Cobbled Basalt",
+      "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.blood": "Blood",
       "item.minecraft.tipped_arrow.effect.vacuum_potion": "Arrow of Vacuum ",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_stairs": "Smooth Dark Quartz Stairs",
@@ -1645,14 +1877,17 @@
       "item.minecraft.potion.effect.fire_starter_potion": "Potion of Fire Starter",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
       "item.survival_of_the_minecraftist.sulphur": "Sulphur",
+      "block.minecraft.smooth_basalt": "Smooth Warm Basalt",
       "block.survival_of_the_minecraftist.limestone": "Limestone",
       "block.survival_of_the_minecraftist.trodden_flower_3": "Trodden Flower",
       "block.survival_of_the_minecraftist.block_of_dark_quartz": "Block Of Dark Quartz",
       "block.survival_of_the_minecraftist.trodden_flower_2": "Trodden Flower",
       "item.minecraft.tipped_arrow.effect.fire_starter_potion": "Arrow of Fire Starter",
       "block.survival_of_the_minecraftist.sprouting_plant": "Sprouting Plant",
+      "item.survival_of_the_minecraftist.warped_netherbrick": "Warped Netherbrick",
       "block.survival_of_the_minecraftist.smooth_cobblestone": "Smooth Cobblestone",
       "item.survival_of_the_minecraftist.iron_shears": "Iron Shears",
+      "block.survival_of_the_minecraftist.cold_basalt": "Cold Basalt",
       "block.survival_of_the_minecraftist.lamp_rod": "Lamp Rod",
       "block.survival_of_the_minecraftist.smooth_blood_quartz": "Smooth Blood Quartz",
       "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
@@ -1661,7 +1896,9 @@
       "itemGroup.tabsotm_items": "SOTM Items",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "block.survival_of_the_minecraftist.dark_quartz_block": "Block of Dark Quartz",
+      "block.survival_of_the_minecraftist.cold_basalt_bricks": "Cold Basalt Bricks",
       "block.survival_of_the_minecraftist.polished_limestone": "Polished Limestone",
+      "block.survival_of_the_minecraftist.polished_basalt": "Warm Basalt Panel",
       "fluid.survival_of_the_minecraftist.blood": "Blood",
       "block.survival_of_the_minecraftist.blood_quartz_ore": "Blood Quartz Ore",
       "block.survival_of_the_minecraftist.blood_quartz_pillar": "Blood Quartz Pillar",
@@ -1678,6 +1915,7 @@
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
+      "block.minecraft.basalt": "Warm Basalt",
       "block.survival_of_the_minecraftist.topaz": "Topaz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
@@ -1697,6 +1935,7 @@
       "block.survival_of_the_minecraftist.white_marble_bricks": "White Marble Bricks",
       "block.survival_of_the_minecraftist.cobbled_white_marble": "Cobbled White Marble",
       "itemGroup.tabsotm_tools_and_weapons": "SOTM Tools and Weapons",
+      "block.survival_of_the_minecraftist.basalt_bricks": "Warm Basalt Bricks",
       "block.survival_of_the_minecraftist.white_marble": "White Marble",
       "effect.vacuum_effect": "Vacuum",
       "item.survival_of_the_minecraftist.topaz_crystal": "Topaz",
@@ -1707,6 +1946,8 @@
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
       "item.survival_of_the_minecraftist.husk": "Husk",
+      "block.survival_of_the_minecraftist.cold_basalt_panel": "Cold Basalt Panel",
+      "block.survival_of_the_minecraftist.smooth_basalt": "Smooth Cold Basalt",
       "block.survival_of_the_minecraftist.warped_nether_fungus": "Warped Nether Fungus",
       "block.survival_of_the_minecraftist.chiseled_blood_quartz": "Chiseled Blood Quartz",
       "block.survival_of_the_minecraftist.blood_quartz_bricks": "Blood Quartz Bricks",
@@ -1716,6 +1957,7 @@
       "item.survival_of_the_minecraftist.dark_quartz": "Dark Quartz",
       "item.survival_of_the_minecraftist.coconut": "Coconut",
       "block.survival_of_the_minecraftist.polished_nether_fungus": "Polished Crimson Nether Fungus",
+      "block.survival_of_the_minecraftist.warped_netherbricks": "Warped Nether Bricks",
       "item.survival_of_the_minecraftist.potassium": "Potassium",
       "block.survival_of_the_minecraftist.limestone_bricks": "Limestone Bricks",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_slab": "Smooth Dark Quartz Slab",
