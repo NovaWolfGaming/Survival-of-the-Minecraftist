@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:HotBasalt"
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:HotBasalt"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:HotBasalt"
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:HotBasalt"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ColdBasaltPanel"
+      "value": "CUSTOM:PolishedHotBasalt"
     },
-    "name": "cold_basalt_panel_recipe",
+    "name": "polisherd_hot_basalt_recipe",
     "namespace": "mod"
   }
 }

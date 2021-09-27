@@ -43,11 +43,11 @@ import java.util.List;
 import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class ColdBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-	@ObjectHolder("survival_of_the_minecraftist:cold_basalt")
+public class HotBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+	@ObjectHolder("survival_of_the_minecraftist:hot_basalt")
 	public static final Block block = null;
-	public ColdBasaltBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 189);
+	public HotBasaltBlock(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 203);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -61,7 +61,7 @@ public class ColdBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.BASALT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0).harvestLevel(0)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
-			setRegistryName("cold_basalt");
+			setRegistryName("hot_basalt");
 		}
 
 		@Override
@@ -98,7 +98,7 @@ public class ColdBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 	private static class FeatureRegisterHandler {
 		@SubscribeEvent
 		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
-			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:cold_basalt_match"),
+			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:hot_basalt_match"),
 					() -> CustomRuleTest.codec);
 			feature = new OreFeature(OreFeatureConfig.CODEC) {
 				@Override
@@ -112,10 +112,10 @@ public class ColdBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 23)).range(255)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 23)).range(125)
 					.square().func_242731_b(23);
-			event.getRegistry().register(feature.setRegistryName("cold_basalt"));
-			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:cold_basalt"),
+			event.getRegistry().register(feature.setRegistryName("hot_basalt"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:hot_basalt"),
 					configuredFeature);
 		}
 	}

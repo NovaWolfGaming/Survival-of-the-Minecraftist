@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "cold_basalt_top",
-    "textureTop": "cold_basalt_top",
-    "textureLeft": "cold_basalt_side",
-    "textureFront": "cold_basalt_side",
-    "textureRight": "cold_basalt_side",
-    "textureBack": "cold_basalt_side",
+    "texture": "hot_basalt_top",
+    "textureTop": "hot_basalt_top",
+    "textureLeft": "hot_basalt_side",
+    "textureFront": "hot_basalt_side",
+    "textureRight": "hot_basalt_side",
+    "textureBack": "hot_basalt_side",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Cold Basalt",
+    "name": "Hot Basalt",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -136,7 +136,7 @@
     ],
     "frequencyPerChunks": 23,
     "frequencyOnChunk": 23,
-    "minGenerateHeight": 25,
-    "maxGenerateHeight": 255
+    "minGenerateHeight": 1,
+    "maxGenerateHeight": 125
   }
 }

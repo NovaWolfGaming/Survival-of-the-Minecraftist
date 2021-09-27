@@ -2,14 +2,14 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "cold_basalt_top",
-    "textureTop": "cold_basalt_top",
-    "textureLeft": "cold_basalt_side",
-    "textureFront": "cold_basalt_side",
-    "textureRight": "cold_basalt_side",
-    "textureBack": "cold_basalt_side",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "texture": "hot_basalt_top",
+    "textureTop": "polished_cold_basalt_top",
+    "textureLeft": "polished_cold_basalt_side",
+    "textureFront": "polished_cold_basalt_side",
+    "textureRight": "polished_cold_basalt_side",
+    "textureBack": "polished_cold_basalt_side",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -32,7 +32,7 @@
         "subtract": false
       }
     ],
-    "name": "Cold Basalt",
+    "name": "Cobbled Hot Basalt",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
@@ -41,9 +41,9 @@
     "creativeTab": {
       "value": "CUSTOM:SOTMBlocks"
     },
-    "destroyTool": "pickaxe",
+    "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:CobbledColdBasalt"
+      "value": ""
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 0,
+    "breakHarvestLevel": 1,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -121,22 +121,16 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Nether"
-    ],
-    "restrictionBiomes": [
-      {
-        "value": "basalt_deltas"
-      }
-    ],
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.BASALT"
+        "value": "Blocks.STONE"
       }
     ],
-    "frequencyPerChunks": 23,
-    "frequencyOnChunk": 23,
-    "minGenerateHeight": 25,
-    "maxGenerateHeight": 255
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
   }
 }

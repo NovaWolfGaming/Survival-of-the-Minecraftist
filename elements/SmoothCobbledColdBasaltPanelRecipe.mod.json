@@ -5,7 +5,7 @@
     "recipeType": "Crafting",
     "xpReward": 0.0,
     "cookingTime": 200,
-    "recipeRetstackSize": 4,
+    "recipeRetstackSize": 2,
     "group": "",
     "recipeShapeless": false,
     "recipeSlots": [
@@ -22,25 +22,25 @@
         "value": ""
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:CobbledColdBasalt"
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "CUSTOM:CobbledColdBasalt"
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "Blocks.POLISHED_BLACKSTONE_SLAB"
       },
       {
-        "value": "CUSTOM:PolishedColdBasalt"
+        "value": "Blocks.POLISHED_BLACKSTONE_SLAB"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:ColdBasaltPanel"
+      "value": "CUSTOM:SmoothCobbledColdBasaltPanel"
     },
-    "name": "cold_basalt_panel_recipe",
+    "name": "smooth_cobbled_cold_basalt_panel_recipe",
     "namespace": "mod"
   }
 }

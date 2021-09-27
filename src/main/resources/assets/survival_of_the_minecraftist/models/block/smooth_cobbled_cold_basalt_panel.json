@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth",
+    "up": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth",
+    "north": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth_panel",
+    "east": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth_panel",
+    "south": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth_panel",
+    "west": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth_panel",
+    "particle": "survival_of_the_minecraftist:blocks/cold_cobbled_basalt_smooth"
+  }
+}
