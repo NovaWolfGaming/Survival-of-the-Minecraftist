@@ -2149,6 +2149,213 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hell_coal_ore"
+    },
+    {
+      "name": "PolishedStone",
+      "type": "block",
+      "sortid": 230,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_stone"
+    },
+    {
+      "name": "PolishedStoneRecipe",
+      "type": "recipe",
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_stone_recipe"
+    },
+    {
+      "name": "PolishedStone2StoneBricks",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_stone_2_stone_bricks"
+    },
+    {
+      "name": "SulphurQuartz",
+      "type": "item",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz"
+    },
+    {
+      "name": "SulphurQuartzOre",
+      "type": "block",
+      "sortid": 234,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_ore"
+    },
+    {
+      "name": "BlockOfSulphurQuartz",
+      "type": "block",
+      "sortid": 235,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_sulphur_quartz"
+    },
+    {
+      "name": "BlockOfSulphurQuartzRecipe",
+      "type": "recipe",
+      "sortid": 236,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_sulphur_quartz_recipe"
+    },
+    {
+      "name": "SulphurQuartzStairs",
+      "type": "block",
+      "sortid": 237,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_stairs"
+    },
+    {
+      "name": "BlockOfSulphurQuartzStairsRecipe",
+      "type": "recipe",
+      "sortid": 238,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_sulphur_quartz_stairs_recipe"
+    },
+    {
+      "name": "SulphurQuartzSlab",
+      "type": "block",
+      "sortid": 239,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_slab"
+    },
+    {
+      "name": "SulphurQuartzSlabRecipe",
+      "type": "recipe",
+      "sortid": 240,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_slab_recipe"
+    },
+    {
+      "name": "ChiseledSulphurQuartz",
+      "type": "block",
+      "sortid": 241,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_sulphur_quartz"
+    },
+    {
+      "name": "ChiseledSulphurQuartzRecipe",
+      "type": "recipe",
+      "sortid": 242,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chiseled_sulphur_quartz_recipe"
+    },
+    {
+      "name": "SulphurQuartzPillar",
+      "type": "block",
+      "sortid": 243,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_pillar"
+    },
+    {
+      "name": "SulphurQuartzPillarRecipe",
+      "type": "recipe",
+      "sortid": 244,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_pillar_recipe"
+    },
+    {
+      "name": "SulphurQuartzBricks",
+      "type": "block",
+      "sortid": 245,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_bricks"
+    },
+    {
+      "name": "SulphurQuartzBricksRecipe",
+      "type": "recipe",
+      "sortid": 246,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sulphur_quartz_bricks_recipe"
+    },
+    {
+      "name": "SmoothSulphurQuartz",
+      "type": "block",
+      "sortid": 247,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz"
+    },
+    {
+      "name": "SmoothSulphurQuartzRecipe",
+      "type": "recipe",
+      "sortid": 248,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz_recipe"
+    },
+    {
+      "name": "SmoothSulphurQuartzStairs",
+      "type": "block",
+      "sortid": 249,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz_stairs"
+    },
+    {
+      "name": "SmoothSulphurQuartzStairsRecipe",
+      "type": "recipe",
+      "sortid": 250,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz_stairs_recipe"
+    },
+    {
+      "name": "SmoothSulphurQuartzSlab",
+      "type": "block",
+      "sortid": 251,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz_slab"
+    },
+    {
+      "name": "SmoothSulphurQuartzSlabRecipe",
+      "type": "recipe",
+      "sortid": 252,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "smooth_sulphur_quartz_slab_recipe"
     }
   ],
   "variable_elements": [],
@@ -2168,14 +2375,14 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
-      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
-      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
+      "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt_panel": "Smooth Cobbled Hot Basalt Panel",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
       "block.survival_of_the_minecraftist.hell_coal_ore": "Hell Coal Ore",
-      "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt": "Polished Cobbled Basalt",
+      "block.survival_of_the_minecraftist.pumice": "Pumice",
       "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.polished_hot_basalt": "Polished Hot Basalt",
       "block.survival_of_the_minecraftist.blood": "Blood",
@@ -2209,7 +2416,9 @@
       "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "itemGroup.tabsotm_items": "SOTM Items",
       "block.survival_of_the_minecraftist.nether_iron_ore": "Nether Iron Ore",
+      "block.survival_of_the_minecraftist.sulphur_quartz_bricks": "Sulphur Quartz Bricks",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
+      "block.survival_of_the_minecraftist.sulphur_quartz_pillar": "Sulphur Quartz Pillar",
       "block.survival_of_the_minecraftist.cold_basalt_bricks": "Cold Basalt Bricks",
       "block.survival_of_the_minecraftist.dark_quartz_block": "Block of Dark Quartz",
       "block.survival_of_the_minecraftist.polished_limestone": "Polished Limestone",
@@ -2220,10 +2429,12 @@
       "block.survival_of_the_minecraftist.blood_quartz_pillar": "Blood Quartz Pillar",
       "block.survival_of_the_minecraftist.black_marble_polished": "Polished Black Marble",
       "item.survival_of_the_minecraftist.split_coconut": "Split Coconut",
+      "block.survival_of_the_minecraftist.sulphur_quartz_stairs": "Sulphur Quartz Stairs",
       "item.survival_of_the_minecraftist.pebble": "Pebble",
       "item.minecraft.lingering_potion.effect.vacuum_potion": "Lingering Potion of Vacuum ",
       "block.survival_of_the_minecraftist.cobbled_black_marble": "Cobbled Black Marble",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt_panel": "Polished Cobbled Basalt Panel",
+      "block.survival_of_the_minecraftist.smooth_sulphur_quartz_slab": "Smooth Sulphur Quartz Slab",
       "itemGroup.tabsotm_plants": "SOTM Plants",
       "block.survival_of_the_minecraftist.iron_panel_block": "Iron Panel Block",
       "item.survival_of_the_minecraftist.chisel": "Chisel",
@@ -2231,6 +2442,7 @@
       "item.survival_of_the_minecraftist.topaz_shear": "Topaz Shears",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
+      "block.survival_of_the_minecraftist.polished_stone": "Polished Stone",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
       "block.minecraft.basalt": "Warm Basalt",
       "block.survival_of_the_minecraftist.topaz": "Topaz Ore",
@@ -2249,10 +2461,13 @@
       "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
       "block.minecraft.polished_basalt": "Polished Warm Basalt",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
+      "block.survival_of_the_minecraftist.block_of_sulphur_quartz": "Block Of Sulphur Quartz",
       "block.survival_of_the_minecraftist.blood_quartz_stairs": "Blood Quartz Stairs",
       "block.survival_of_the_minecraftist.white_marble_bricks": "White Marble Bricks",
       "block.survival_of_the_minecraftist.cobbled_white_marble": "Cobbled White Marble",
       "itemGroup.tabsotm_tools_and_weapons": "SOTM Tools and Weapons",
+      "block.survival_of_the_minecraftist.smooth_sulphur_quartz": "Smooth Sulphur Quartz",
+      "block.survival_of_the_minecraftist.smooth_sulphur_quartz_stairs": "Smooth Sulphur Quartz Stairs",
       "block.survival_of_the_minecraftist.red_mushroom": "Red Hellshroom",
       "block.survival_of_the_minecraftist.basalt_bricks": "Warm Basalt Bricks",
       "block.survival_of_the_minecraftist.white_marble": "White Marble",
@@ -2263,6 +2478,7 @@
       "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
       "item.survival_of_the_minecraftist.slingshot": "Slingshot",
       "item.minecraft.splash_potion.effect.vacuum_potion": "Splash Potion of Vacuum ",
+      "block.survival_of_the_minecraftist.sulphur_quartz_slab": "Sulphur Quartz Slab",
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
       "item.survival_of_the_minecraftist.husk": "Husk",
@@ -2285,14 +2501,17 @@
       "block.survival_of_the_minecraftist.smooth_dark_quartz_slab": "Smooth Dark Quartz Slab",
       "item.survival_of_the_minecraftist.leather_strips": "Leather Strips",
       "block.survival_of_the_minecraftist.dark_quartz_bricks": "Dark Quartz Bricks",
+      "item.survival_of_the_minecraftist.sulphur_quartz": "Sulphur Quartz",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_slab": "Smooth Blood Quartz Slab",
       "item.survival_of_the_minecraftist.blood_quartz": "Blood Quartz",
       "item.survival_of_the_minecraftist.dehusked_coconut": "Dehusked Coconut",
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
+      "block.survival_of_the_minecraftist.chiseled_sulphur_quartz": "Chiseled Sulphur Quartz",
       "block.survival_of_the_minecraftist.renite": "Renite",
       "block.survival_of_the_minecraftist.cobbled_basalt": "Cobbled Basalt",
-      "effect.fire_starter": "Fire Starter"
+      "effect.fire_starter": "Fire Starter",
+      "block.survival_of_the_minecraftist.sulphur_quartz_ore": "Sulphur Quartz Ore"
     }
   },
   "foldersRoot": {
