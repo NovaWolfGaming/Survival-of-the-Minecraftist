@@ -111,8 +111,8 @@ public class SulphurQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(255)
-					.square().func_242731_b(10);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 6)).range(255)
+					.square().func_242731_b(26);
 			event.getRegistry().register(feature.setRegistryName("sulphur_quartz_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:sulphur_quartz_ore"),
 					configuredFeature);
