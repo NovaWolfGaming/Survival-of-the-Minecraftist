@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "up": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "north": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "east": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "south": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "west": "survival_of_the_minecraftist:blocks/nether_dirt",
+    "particle": "survival_of_the_minecraftist:blocks/nether_dirt"
+  }
+}

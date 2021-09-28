@@ -24,8 +24,6 @@ import net.minecraft.util.registry.Registry;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.util.RegistryKey;
-import net.minecraft.loot.LootContext;
-import net.minecraft.item.ItemStack;
 import net.minecraft.item.Item;
 import net.minecraft.item.BlockItem;
 import net.minecraft.block.material.Material;
@@ -34,20 +32,17 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMOresItemGroup;
-import net.mcreator.survivaloftheminecraftist.item.DarkQuartzItem;
+import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.Random;
-import java.util.List;
-import java.util.Collections;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
-public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
-	@ObjectHolder("survival_of_the_minecraftist:dark_quartz_ore")
+public class SulphuredBasaltBlock extends SurvivalOfTheMinecraftistModElements.ModElement {
+	@ObjectHolder("survival_of_the_minecraftist:sulphured_basalt")
 	public static final Block block = null;
-	public DarkQuartzOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 87);
+	public SulphuredBasaltBlock(SurvivalOfTheMinecraftistModElements instance) {
+		super(instance, 253);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -55,25 +50,17 @@ public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMOresItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
-			setRegistryName("dark_quartz_ore");
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.BASALT).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0));
+			setRegistryName("sulphured_basalt");
 		}
 
 		@Override
 		public int getOpacity(BlockState state, IBlockReader worldIn, BlockPos pos) {
 			return 15;
-		}
-
-		@Override
-		public List<ItemStack> getDrops(BlockState state, LootContext.Builder builder) {
-			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
-			if (!dropsOriginal.isEmpty())
-				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(DarkQuartzItem.block, (int) (3)));
 		}
 	}
 	private static Feature<OreFeatureConfig> feature = null;
@@ -84,7 +71,7 @@ public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 		static final com.mojang.serialization.Codec<CustomRuleTest> codec = com.mojang.serialization.Codec.unit(() -> INSTANCE);
 		public boolean test(BlockState blockAt, Random random) {
 			boolean blockCriteria = false;
-			if (blockAt.getBlock() == Blocks.NETHERRACK)
+			if (blockAt.getBlock() == Blocks.BASALT)
 				blockCriteria = true;
 			return blockCriteria;
 		}
@@ -97,7 +84,7 @@ public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	private static class FeatureRegisterHandler {
 		@SubscribeEvent
 		public void registerFeature(RegistryEvent.Register<Feature<?>> event) {
-			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:dark_quartz_ore_match"),
+			CUSTOM_MATCH = Registry.register(Registry.RULE_TEST, new ResourceLocation("survival_of_the_minecraftist:sulphured_basalt_match"),
 					() -> CustomRuleTest.codec);
 			feature = new OreFeature(OreFeatureConfig.CODEC) {
 				@Override
@@ -111,10 +98,10 @@ public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 6)).range(255)
-					.square().func_242731_b(25);
-			event.getRegistry().register(feature.setRegistryName("dark_quartz_ore"));
-			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:dark_quartz_ore"),
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 16)).range(255)
+					.square().func_242731_b(20);
+			event.getRegistry().register(feature.setRegistryName("sulphured_basalt"));
+			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:sulphured_basalt"),
 					configuredFeature);
 		}
 	}

@@ -112,7 +112,7 @@ public class BloodQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mo
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 6)).range(255)
-					.square().func_242731_b(16);
+					.square().func_242731_b(25);
 			event.getRegistry().register(feature.setRegistryName("blood_quartz_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:blood_quartz_ore"),
 					configuredFeature);

@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "soul_sythe",
+    "customModelName": "Normal",
+    "name": "Soul Scythe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:SOTMToolsAndWeapons"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 5,
+    "efficiency": 4.0,
+    "attackSpeed": 7.0,
+    "enchantability": 2,
+    "damageVsEntity": 13.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SoulOrb"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

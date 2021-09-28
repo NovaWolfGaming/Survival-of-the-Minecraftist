@@ -1,0 +1,30 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:soul_orb"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:soul_orb"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:soul_orb"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:soul_scythe",
+    "count": 1
+  }
+}

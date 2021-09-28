@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "dark_quartz_ore_2",
-    "textureTop": "dark_quartz_ore_2",
-    "textureLeft": "dark_quartz_ore_2",
-    "textureFront": "dark_quartz_ore_2",
-    "textureRight": "dark_quartz_ore_2",
-    "textureBack": "dark_quartz_ore_2",
+    "texture": "soul_sand_disturbed",
+    "textureTop": "soul_sand_disturbed",
+    "textureLeft": "soul_sand_disturbed",
+    "textureFront": "soul_sand_disturbed",
+    "textureRight": "soul_sand_disturbed",
+    "textureBack": "soul_sand_disturbed",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,27 +32,27 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartz Ore",
+    "name": "Disturbed Soul Sand",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMOres"
+      "value": "CUSTOM:SOTMBlocks"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "shovel",
     "customDrop": {
-      "value": "CUSTOM:DarkQuartz"
+      "value": "CUSTOM:Soul"
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
-      "value": "ROCK"
+      "value": "SAND"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "SOUL_SAND"
     },
     "breakSound": {
       "value": ""
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 0,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -124,14 +124,18 @@
     "spawnWorldTypes": [
       "Nether"
     ],
-    "restrictionBiomes": [],
-    "blocksToReplace": [
+    "restrictionBiomes": [
       {
-        "value": "Blocks.NETHERRACK"
+        "value": "soul_sand_valley"
       }
     ],
-    "frequencyPerChunks": 25,
-    "frequencyOnChunk": 6,
+    "blocksToReplace": [
+      {
+        "value": "Blocks.SOUL_SAND"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 255
   }

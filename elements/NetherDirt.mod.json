@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "dark_quartz_ore_2",
-    "textureTop": "dark_quartz_ore_2",
-    "textureLeft": "dark_quartz_ore_2",
-    "textureFront": "dark_quartz_ore_2",
-    "textureRight": "dark_quartz_ore_2",
-    "textureBack": "dark_quartz_ore_2",
+    "texture": "nether_dirt",
+    "textureTop": "nether_dirt",
+    "textureLeft": "nether_dirt",
+    "textureFront": "nether_dirt",
+    "textureRight": "nether_dirt",
+    "textureBack": "nether_dirt",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,27 +32,27 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartz Ore",
+    "name": "Nether Dirt",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMOres"
+      "value": "CUSTOM:SOTMBlocks"
     },
-    "destroyTool": "Not specified",
+    "destroyTool": "shovel",
     "customDrop": {
-      "value": "CUSTOM:DarkQuartz"
+      "value": ""
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canRedstoneConnect": false,
     "lightOpacity": 15,
     "material": {
-      "value": "ROCK"
+      "value": "EARTH"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "SOUL_SOIL"
     },
     "breakSound": {
       "value": ""
@@ -96,7 +96,7 @@
     },
     "luminance": 0,
     "unbreakable": false,
-    "breakHarvestLevel": 1,
+    "breakHarvestLevel": 0,
     "spawnParticles": false,
     "particleToSpawn": {
       "value": "EXPLOSION_NORMAL"
@@ -127,11 +127,11 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.NETHERRACK"
+        "value": "Blocks.SOUL_SAND"
       }
     ],
-    "frequencyPerChunks": 25,
-    "frequencyOnChunk": 6,
+    "frequencyPerChunks": 20,
+    "frequencyOnChunk": 26,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 255
   }

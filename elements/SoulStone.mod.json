@@ -2,12 +2,12 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "dark_quartz_ore_2",
-    "textureTop": "dark_quartz_ore_2",
-    "textureLeft": "dark_quartz_ore_2",
-    "textureFront": "dark_quartz_ore_2",
-    "textureRight": "dark_quartz_ore_2",
-    "textureBack": "dark_quartz_ore_2",
+    "texture": "soul_stone",
+    "textureTop": "soul_stone",
+    "textureLeft": "soul_stone",
+    "textureFront": "soul_stone",
+    "textureRight": "soul_stone",
+    "textureBack": "soul_stone",
     "renderType": 10,
     "customModelName": "Normal",
     "rotationMode": 0,
@@ -32,20 +32,20 @@
         "subtract": false
       }
     ],
-    "name": "Dark Quartz Ore",
+    "name": "Soul Stone",
     "specialInfo": [],
     "hardness": 1.0,
     "resistance": 10.0,
     "hasGravity": false,
     "isWaterloggable": false,
     "creativeTab": {
-      "value": "CUSTOM:SOTMOres"
+      "value": "CUSTOM:SOTMBlocks"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": "CUSTOM:DarkQuartz"
+      "value": ""
     },
-    "dropAmount": 3,
+    "dropAmount": 1,
     "useLootTableForDrops": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
@@ -77,7 +77,7 @@
     "isNotColidable": false,
     "isCustomSoundType": false,
     "soundOnStep": {
-      "value": "STONE"
+      "value": "LODESTONE"
     },
     "breakSound": {
       "value": ""
@@ -127,11 +127,11 @@
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.NETHERRACK"
+        "value": "Blocks.SOUL_SAND"
       }
     ],
     "frequencyPerChunks": 25,
-    "frequencyOnChunk": 6,
+    "frequencyOnChunk": 26,
     "minGenerateHeight": 1,
     "maxGenerateHeight": 255
   }
