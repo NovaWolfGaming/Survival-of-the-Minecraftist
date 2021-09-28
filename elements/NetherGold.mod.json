@@ -14,7 +14,7 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:IronCluster"
+              "value": "CUSTOM:GoldCluster"
             },
             "weight": 1,
             "minCount": 1,
@@ -28,7 +28,7 @@
         ]
       }
     ],
-    "name": "blocks/nether_iron_ore",
-    "namespace": "mod"
+    "name": "blocks/nether_gold_ore",
+    "namespace": "minecraft"
   }
 }

@@ -101,7 +101,7 @@ public class BonePlantBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
 									.tries(12).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(5);
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(25);
 			event.getRegistry().register(feature.setRegistryName("bone_plant"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:bone_plant"),
 					configuredFeature);

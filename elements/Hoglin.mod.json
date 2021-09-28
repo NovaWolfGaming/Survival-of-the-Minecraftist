@@ -14,11 +14,11 @@
           {
             "type": "item",
             "item": {
-              "value": "CUSTOM:IronCluster"
+              "value": "CUSTOM:RAWhOGCHOP"
             },
             "weight": 1,
             "minCount": 1,
-            "maxCount": 6,
+            "maxCount": 3,
             "minEnchantmentLevel": 0,
             "maxEnchantmentLevel": 0,
             "affectedByFortune": false,
@@ -28,7 +28,7 @@
         ]
       }
     ],
-    "name": "blocks/nether_iron_ore",
+    "name": "entities/hoglin",
     "namespace": "mod"
   }
 }

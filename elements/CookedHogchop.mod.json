@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "hogchop_cooked",
+    "customModelName": "Normal",
+    "name": "Cooked Hogchop",
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 10,
+    "saturation": 13.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

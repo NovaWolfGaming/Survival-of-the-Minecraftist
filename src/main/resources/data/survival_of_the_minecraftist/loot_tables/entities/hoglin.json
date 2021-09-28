@@ -6,14 +6,14 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "survival_of_the_minecraftist:iron_cluster",
+          "name": "survival_of_the_minecraftist:ra_wh_ogchop",
           "weight": 1,
           "functions": [
             {
               "function": "set_count",
               "count": {
                 "min": 1,
-                "max": 6
+                "max": 3
               }
             }
           ]
