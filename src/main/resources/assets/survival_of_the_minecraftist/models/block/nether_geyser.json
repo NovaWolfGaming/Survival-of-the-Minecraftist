@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/netherrack",
+    "up": "survival_of_the_minecraftist:blocks/nether_geyser",
+    "north": "survival_of_the_minecraftist:blocks/netherrack",
+    "east": "survival_of_the_minecraftist:blocks/netherrack",
+    "south": "survival_of_the_minecraftist:blocks/netherrack",
+    "west": "survival_of_the_minecraftist:blocks/netherrack",
+    "particle": "survival_of_the_minecraftist:blocks/netherrack"
+  }
+}

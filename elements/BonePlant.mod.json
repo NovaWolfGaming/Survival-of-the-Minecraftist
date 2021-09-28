@@ -77,8 +77,12 @@
     "fireSpreadSpeed": 60,
     "jumpFactor": 1.0,
     "speedFactor": 1.0,
-    "canBePlacedOn": [],
-    "frequencyOnChunks": 25,
+    "canBePlacedOn": [
+      {
+        "value": "Blocks.SOUL_SOIL"
+      }
+    ],
+    "frequencyOnChunks": 35,
     "spawnWorldTypes": [
       "Nether"
     ],
@@ -87,6 +91,6 @@
         "value": "soul_sand_valley"
       }
     ],
-    "patchSize": 12
+    "patchSize": 2
   }
 }

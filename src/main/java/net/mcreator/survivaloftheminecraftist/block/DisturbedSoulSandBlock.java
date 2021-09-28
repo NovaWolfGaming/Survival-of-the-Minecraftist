@@ -60,7 +60,7 @@ public class DisturbedSoulSandBlock extends SurvivalOfTheMinecraftistModElements
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.SAND).sound(SoundType.SOUL_SAND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 0)
+			super(Block.Properties.create(Material.SAND).sound(SoundType.SOUL_SAND).hardnessAndResistance(1f, 10f).setLightLevel(s -> 13)
 					.harvestLevel(0).harvestTool(ToolType.SHOVEL).setRequiresTool());
 			setRegistryName("disturbed_soul_sand");
 		}

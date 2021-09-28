@@ -2574,15 +2574,6 @@
       "registry_name": "cooked_hogchop_campfire_recipe"
     },
     {
-      "name": "Hoglin",
-      "type": "loottable",
-      "sortid": 277,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "hoglin"
-    },
-    {
       "name": "NetherCactus2PaperRecipe",
       "type": "recipe",
       "sortid": 278,
@@ -2644,6 +2635,130 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "nether_gold"
+    },
+    {
+      "name": "SOTMFoods",
+      "type": "tab",
+      "sortid": 285,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sotm_foods"
+    },
+    {
+      "name": "SoulSalt",
+      "type": "item",
+      "sortid": 286,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_salt"
+    },
+    {
+      "name": "CuredJerky",
+      "type": "food",
+      "sortid": 287,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cured_jerky"
+    },
+    {
+      "name": "RottenFlesh2CuredMeat",
+      "type": "recipe",
+      "sortid": 288,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotten_flesh_2_cured_meat"
+    },
+    {
+      "name": "SoulBeastLoot",
+      "type": "loottable",
+      "sortid": 289,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "soul_beast_loot"
+    },
+    {
+      "name": "VenomVines",
+      "type": "plant",
+      "sortid": 290,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "venom_vines"
+    },
+    {
+      "name": "VenomBerries",
+      "type": "food",
+      "sortid": 291,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "venom_berries"
+    },
+    {
+      "name": "VenomBerriesFoodEaten",
+      "type": "procedure",
+      "sortid": 292,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "venom_berries_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NetherGeyserEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_geyser_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "NetherGeyser",
+      "type": "block",
+      "sortid": 294,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_geyser"
+    },
+    {
+      "name": "BasaltGeyser",
+      "type": "block",
+      "sortid": 295,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_geyser"
+    },
+    {
+      "name": "Hoglin",
+      "type": "loottable",
+      "sortid": 296,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hoglin"
     }
   ],
   "variable_elements": [],
@@ -2665,6 +2780,7 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
+      "item.survival_of_the_minecraftist.soul_salt": "Soul Salt",
       "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
@@ -2720,6 +2836,7 @@
       "fluid.survival_of_the_minecraftist.blood": "Blood",
       "block.survival_of_the_minecraftist.blood_quartz_ore": "Blood Quartz Ore",
       "block.survival_of_the_minecraftist.cobbled_cold_basalt": "Cobbled Cold Basalt",
+      "block.survival_of_the_minecraftist.basalt_geyser": "Basalt Geyser",
       "block.survival_of_the_minecraftist.blood_quartz_pillar": "Blood Quartz Pillar",
       "item.survival_of_the_minecraftist.gold_cluster": "Gold Cluster",
       "block.survival_of_the_minecraftist.nether_grass_2": "Nether Grass",
@@ -2747,10 +2864,13 @@
       "block.minecraft.basalt": "Warm Basalt",
       "block.survival_of_the_minecraftist.topaz": "Topaz Ore",
       "item.survival_of_the_minecraftist.soul": "Soul",
+      "itemGroup.tabsotm_foods": "SOTM Foods",
       "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
       "block.survival_of_the_minecraftist.lamp": "Lamp",
+      "block.survival_of_the_minecraftist.venom_vines": "Venom Vines",
       "block.survival_of_the_minecraftist.blood_quartz_slab": "Blood Quartz Slab",
+      "block.survival_of_the_minecraftist.nether_geyser": "Nether Geyser",
       "block.survival_of_the_minecraftist.black_marble": "Black Marble",
       "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_stairs": "Smooth Blood Quartz Stairs",
@@ -2778,6 +2898,7 @@
       "item.survival_of_the_minecraftist.topaz_crystal": "Topaz",
       "item.survival_of_the_minecraftist.soul_orb": "Soul Orb",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt": "Smooth Cobbled Hot Basalt",
+      "item.survival_of_the_minecraftist.cured_jerky": "Cured Meat",
       "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
       "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
       "item.survival_of_the_minecraftist.slingshot": "Slingshot",
@@ -2802,6 +2923,7 @@
       "block.survival_of_the_minecraftist.hot_basalt_panel": "Hot Basalt Panel",
       "block.survival_of_the_minecraftist.polished_nether_fungus": "Polished Crimson Nether Fungus",
       "block.survival_of_the_minecraftist.warped_netherbricks": "Warped Nether Bricks",
+      "item.survival_of_the_minecraftist.venom_berries": "Venom Berries",
       "item.survival_of_the_minecraftist.potassium": "Potassium",
       "block.survival_of_the_minecraftist.limestone_bricks": "Limestone Bricks",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_slab": "Smooth Dark Quartz Slab",

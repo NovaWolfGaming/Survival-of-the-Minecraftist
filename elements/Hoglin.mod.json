@@ -29,6 +29,6 @@
       }
     ],
     "name": "entities/hoglin",
-    "namespace": "mod"
+    "namespace": "minecraft"
   }
 }

@@ -22,6 +22,7 @@ import net.minecraft.world.gen.blockplacer.SimpleBlockPlacer;
 import net.minecraft.world.gen.GenerationStage;
 import net.minecraft.world.gen.ChunkGenerator;
 import net.minecraft.world.World;
+import net.minecraft.world.IWorldReader;
 import net.minecraft.world.ISeedReader;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.util.registry.WorldGenRegistries;
@@ -43,6 +44,7 @@ import net.minecraft.client.renderer.RenderType;
 import net.minecraft.block.material.Material;
 import net.minecraft.block.SoundType;
 import net.minecraft.block.FlowerBlock;
+import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
@@ -100,8 +102,8 @@ public class BonePlantBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 			configuredFeature = feature
 					.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
-									.tries(12).build())
-					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(25);
+									.tries(2).build())
+					.withPlacement(Features.Placements.VEGETATION_PLACEMENT).withPlacement(Features.Placements.HEIGHTMAP_PLACEMENT).func_242731_b(35);
 			event.getRegistry().register(feature.setRegistryName("bone_plant"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:bone_plant"),
 					configuredFeature);
@@ -144,6 +146,20 @@ public class BonePlantBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
 			return Collections.singletonList(new ItemStack(Items.BONE, (int) (3)));
+		}
+
+		@Override
+		public boolean isValidGround(BlockState state, IBlockReader worldIn, BlockPos pos) {
+			Block ground = state.getBlock();
+			return (ground == Blocks.SOUL_SOIL);
+		}
+
+		@Override
+		public boolean isValidPosition(BlockState blockstate, IWorldReader worldIn, BlockPos pos) {
+			BlockPos blockpos = pos.down();
+			BlockState groundState = worldIn.getBlockState(blockpos);
+			Block ground = groundState.getBlock();
+			return this.isValidGround(groundState, worldIn, blockpos);
 		}
 
 		@Override

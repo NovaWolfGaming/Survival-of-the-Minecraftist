@@ -112,7 +112,7 @@ public class BlazeFlowerBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	public static class BlockCustomFlower extends FlowerBlock {
 		public BlockCustomFlower() {
 			super(Effects.FIRE_RESISTANCE, 5, Block.Properties.create(Material.PLANTS).doesNotBlockMovement().sound(SoundType.NETHER_SPROUT)
-					.hardnessAndResistance(0f, 0f).setLightLevel(s -> 0));
+					.hardnessAndResistance(0f, 0f).setLightLevel(s -> 10));
 			setRegistryName("blaze_flower");
 		}
 

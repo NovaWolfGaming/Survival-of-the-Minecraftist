@@ -46,7 +46,7 @@ public class SoulScytheItem extends SurvivalOfTheMinecraftistModElements.ModElem
 				builder.put(Attributes.ATTACK_DAMAGE,
 						new AttributeModifier(ATTACK_DAMAGE_MODIFIER, "Tool modifier", 11f, AttributeModifier.Operation.ADDITION));
 				builder.put(Attributes.ATTACK_SPEED,
-						new AttributeModifier(ATTACK_SPEED_MODIFIER, "Tool modifier", 3, AttributeModifier.Operation.ADDITION));
+						new AttributeModifier(ATTACK_SPEED_MODIFIER, "Tool modifier", 13, AttributeModifier.Operation.ADDITION));
 				return builder.build();
 			}
 			return super.getAttributeModifiers(equipmentSlot);
