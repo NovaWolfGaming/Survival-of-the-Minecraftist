@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "up": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "north": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "east": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "south": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "west": "survival_of_the_minecraftist:blocks/soul_sand_disturbed",
+    "particle": "survival_of_the_minecraftist:blocks/soul_sand_disturbed"
+  }
+}

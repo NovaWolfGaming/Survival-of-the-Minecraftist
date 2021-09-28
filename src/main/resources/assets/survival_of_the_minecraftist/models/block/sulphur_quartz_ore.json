@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_top",
+    "up": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_top",
+    "north": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_side",
+    "east": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_side",
+    "south": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_side",
+    "west": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_side",
+    "particle": "survival_of_the_minecraftist:blocks/sulpur_quartz_ore_top"
+  }
+}

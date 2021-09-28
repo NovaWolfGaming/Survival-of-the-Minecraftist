@@ -1,0 +1,16 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survival_of_the_minecraftist:sulphur_dust"
+    },
+    {
+      "item": "survival_of_the_minecraftist:sulphur_dust"
+    }
+  ],
+  "result": {
+    "item": "survival_of_the_minecraftist:sulphur",
+    "count": 1
+  }
+}

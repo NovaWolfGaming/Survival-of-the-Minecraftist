@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:polished_basalt"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:polished_basalt"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:polished_basalt"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:polished_basalt"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:basalt_bricks",
+    "count": 4
+  }
+}

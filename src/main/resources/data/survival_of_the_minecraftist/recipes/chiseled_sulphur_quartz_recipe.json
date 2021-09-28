@@ -1,0 +1,20 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:sulphur_quartz_slab"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:sulphur_quartz_slab"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:chiseled_sulphur_quartz",
+    "count": 1
+  }
+}

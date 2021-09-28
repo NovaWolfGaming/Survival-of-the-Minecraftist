@@ -1,0 +1,22 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:smooth_sulphur_quartz"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:smooth_sulphur_quartz"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:smooth_sulphur_quartz"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:smooth_sulphur_quartz_slab",
+    "count": 6
+  }
+}

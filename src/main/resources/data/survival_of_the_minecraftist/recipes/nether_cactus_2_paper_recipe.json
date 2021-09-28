@@ -1,0 +1,16 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survival_of_the_minecraftist:nether_cactus"
+    },
+    {
+      "item": "survival_of_the_minecraftist:nether_cactus"
+    }
+  ],
+  "result": {
+    "item": "minecraft:paper",
+    "count": 2
+  }
+}

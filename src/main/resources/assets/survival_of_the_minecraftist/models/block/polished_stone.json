@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/polished_stone",
+    "up": "survival_of_the_minecraftist:blocks/polished_stone",
+    "north": "survival_of_the_minecraftist:blocks/polished_stone",
+    "east": "survival_of_the_minecraftist:blocks/polished_stone",
+    "south": "survival_of_the_minecraftist:blocks/polished_stone",
+    "west": "survival_of_the_minecraftist:blocks/polished_stone",
+    "particle": "survival_of_the_minecraftist:blocks/polished_stone"
+  }
+}
