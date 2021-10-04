@@ -8,7 +8,7 @@
     "name": "Topaz Shears",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:SOTMToolsAndWeapons"
     },
     "toolType": "Shears",
     "harvestLevel": 1,

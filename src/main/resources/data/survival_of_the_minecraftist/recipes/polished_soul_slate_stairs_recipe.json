@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:polished_soul_slate"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:polished_soul_slate_stairs",
+    "count": 6
+  }
+}

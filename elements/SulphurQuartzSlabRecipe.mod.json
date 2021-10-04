@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DarkQuartzSlab"
+      "value": "CUSTOM:SulphurQuartzSlab"
     },
     "name": "sulphur_quartz_slab_recipe",
     "namespace": "mod"

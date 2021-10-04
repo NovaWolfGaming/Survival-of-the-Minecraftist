@@ -5,10 +5,10 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.ShearsItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMToolsAndWeaponsItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
@@ -21,7 +21,7 @@ public class TopazShearItem extends SurvivalOfTheMinecraftistModElements.ModElem
 
 	@Override
 	public void initElements() {
-		elements.items.add(() -> new ShearsItem(new Item.Properties().group(ItemGroup.TOOLS).maxDamage(470)) {
+		elements.items.add(() -> new ShearsItem(new Item.Properties().group(SOTMToolsAndWeaponsItemGroup.tab).maxDamage(470)) {
 			@Override
 			public int getItemEnchantability() {
 				return 16;

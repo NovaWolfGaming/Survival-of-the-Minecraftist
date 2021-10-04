@@ -1,0 +1,27 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:amberr_hoe",
+    "count": 1
+  }
+}

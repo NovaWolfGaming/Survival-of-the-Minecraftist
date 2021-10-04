@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:soul_slate_brick"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:soul_slate_bricks_stairs_recipe",
+    "count": 6
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_beef"
+    },
+    "1": {
+      "item": "minecraft:potato"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "4": {
+      "item": "minecraft:carrot"
+    },
+    "5": {
+      "item": "minecraft:beetroot"
+    },
+    "7": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:stuffed_bread",
+    "count": 1
+  }
+}

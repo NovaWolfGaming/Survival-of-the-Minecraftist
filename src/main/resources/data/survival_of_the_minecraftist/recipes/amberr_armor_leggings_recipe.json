@@ -1,0 +1,36 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "5": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:amberr"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:amberr"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:amberr_armor_leggings",
+    "count": 1
+  }
+}

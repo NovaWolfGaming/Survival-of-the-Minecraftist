@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:soul_slate"
+  },
+  "result": "survival_of_the_minecraftist:soul_slate_brick_slab"
+}

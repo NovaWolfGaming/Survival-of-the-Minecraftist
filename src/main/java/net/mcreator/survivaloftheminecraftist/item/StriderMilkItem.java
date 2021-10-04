@@ -34,7 +34,7 @@ public class StriderMilkItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	}
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
-			super(new Item.Properties().group(SOTMFoodsItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON)
+			super(new Item.Properties().group(SOTMFoodsItemGroup.tab).maxStackSize(16).rarity(Rarity.COMMON)
 					.food((new Food.Builder()).hunger(2).saturation(0.9f).setAlwaysEdible().build()));
 			setRegistryName("strider_milk");
 		}

@@ -1,0 +1,13 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "survival_of_the_minecraftist:amberr_block"
+    }
+  ],
+  "result": {
+    "item": "survival_of_the_minecraftist:amberr",
+    "count": 9
+  }
+}

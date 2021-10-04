@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "survival_of_the_minecraftist:block/soul_quartz_bricks",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "survival_of_the_minecraftist:block/soul_quartz_bricks"
+    },
+    "axis=z": {
+      "model": "survival_of_the_minecraftist:block/soul_quartz_bricks",
+      "x": 90
+    }
+  }
+}

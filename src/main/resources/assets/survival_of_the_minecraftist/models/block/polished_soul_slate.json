@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "up": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "north": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "east": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "south": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "west": "survival_of_the_minecraftist:blocks/soul_slate_polished",
+    "particle": "survival_of_the_minecraftist:blocks/soul_slate_polished"
+  }
+}
