@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "survival_of_the_minecraftist:blocks/marble_black_polished2",
-    "particle": "survival_of_the_minecraftist:blocks/marble_black_polished2"
+    "all": "survival_of_the_minecraftist:blocks/marble_black_polished4",
+    "particle": "survival_of_the_minecraftist:blocks/marble_black_polished4"
   }
 }

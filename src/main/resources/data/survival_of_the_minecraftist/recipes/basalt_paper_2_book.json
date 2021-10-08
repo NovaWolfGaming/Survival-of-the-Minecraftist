@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "3": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:book",
+    "count": 1
+  }
+}

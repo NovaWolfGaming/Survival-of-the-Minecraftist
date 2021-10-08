@@ -1,0 +1,42 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "4": {
+      "item": "minecraft:compass"
+    },
+    "5": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    }
+  },
+  "result": {
+    "item": "minecraft:map",
+    "count": 1
+  }
+}

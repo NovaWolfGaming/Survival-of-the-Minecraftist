@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:sweet_berries",
+    "survival_of_the_minecraftist:venom_berries",
+    "survival_of_the_minecraftist:crimson_berries",
+    "survival_of_the_minecraftist:warped_berries"
+  ]
+}

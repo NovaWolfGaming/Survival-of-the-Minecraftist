@@ -2,14 +2,14 @@
   "_fv": 24,
   "_type": "block",
   "definition": {
-    "texture": "pumice2",
+    "texture": "new_pumice",
     "textureTop": "pumice2",
     "textureLeft": "pumice2",
     "textureFront": "pumice2",
     "textureRight": "pumice2",
     "textureBack": "pumice2",
-    "renderType": 10,
-    "customModelName": "Normal",
+    "renderType": 11,
+    "customModelName": "Single texture",
     "rotationMode": 0,
     "emissiveRendering": false,
     "displayFluidOverlay": false,
@@ -121,18 +121,16 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [
-      "Surface"
-    ],
+    "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {
-        "value": "Blocks.STONE"
+        "value": "Blocks.GLASS_PANE"
       }
     ],
     "frequencyPerChunks": 20,
     "frequencyOnChunk": 26,
-    "minGenerateHeight": 0,
-    "maxGenerateHeight": 256
+    "minGenerateHeight": 1,
+    "maxGenerateHeight": 255
   }
 }

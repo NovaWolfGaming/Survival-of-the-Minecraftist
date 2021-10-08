@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "survival_of_the_minecraftist:blocks/pumice_bricks",
-    "particle": "survival_of_the_minecraftist:blocks/pumice_bricks"
+    "all": "survival_of_the_minecraftist:blocks/new_pumice_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/new_pumice_bricks"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "up": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "north": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "east": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "south": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "west": "survival_of_the_minecraftist:blocks/netherrack_orange",
+    "particle": "survival_of_the_minecraftist:blocks/netherrack_orange"
+  }
+}

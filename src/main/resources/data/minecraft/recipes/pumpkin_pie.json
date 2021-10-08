@@ -1,0 +1,23 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:pumpkin_slice"
+    },
+    "1": {
+      "item": "minecraft:sugar"
+    },
+    "3": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:pumpkin_pie",
+    "count": 1
+  }
+}

@@ -3494,6 +3494,416 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "stuffed_bread_recipe"
+    },
+    {
+      "name": "ApplePie",
+      "type": "food",
+      "sortid": 378,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apple_pie"
+    },
+    {
+      "name": "ApplePieRecipe",
+      "type": "recipe",
+      "sortid": 379,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "apple_pie_recipe"
+    },
+    {
+      "name": "BerryPie",
+      "type": "food",
+      "sortid": 380,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_pie"
+    },
+    {
+      "name": "Berries",
+      "type": "tag",
+      "sortid": 381,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berries"
+    },
+    {
+      "name": "BerryPieRecipe",
+      "type": "recipe",
+      "sortid": 382,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "berry_pie_recipe"
+    },
+    {
+      "name": "PumpkinSlice",
+      "type": "food",
+      "sortid": 383,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin_slice"
+    },
+    {
+      "name": "PumpkinGuts",
+      "type": "food",
+      "sortid": 384,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin_guts"
+    },
+    {
+      "name": "PumpkinLoot",
+      "type": "loottable",
+      "sortid": 385,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin_loot"
+    },
+    {
+      "name": "PumpkinPieRecipeRemove",
+      "type": "recipe",
+      "sortid": 386,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin_pie_recipe_remove"
+    },
+    {
+      "name": "PumpkinPie",
+      "type": "recipe",
+      "sortid": 387,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pumpkin_pie"
+    },
+    {
+      "name": "Flamerack",
+      "type": "block",
+      "sortid": 388,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flamerack"
+    },
+    {
+      "name": "FlameNetherbrick",
+      "type": "item",
+      "sortid": 389,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_netherbrick"
+    },
+    {
+      "name": "FlameNetherBricks",
+      "type": "block",
+      "sortid": 390,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_nether_bricks"
+    },
+    {
+      "name": "FlameNetherBrickRecipe",
+      "type": "recipe",
+      "sortid": 391,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_nether_brick_recipe"
+    },
+    {
+      "name": "FlameNetherBricksRecipe",
+      "type": "recipe",
+      "sortid": 392,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flame_nether_bricks_recipe"
+    },
+    {
+      "name": "Darkrack",
+      "type": "block",
+      "sortid": 393,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "darkrack"
+    },
+    {
+      "name": "DarkNetherBrick",
+      "type": "item",
+      "sortid": 394,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_nether_brick"
+    },
+    {
+      "name": "DarkNetherBricks",
+      "type": "block",
+      "sortid": 395,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_nether_bricks"
+    },
+    {
+      "name": "DarkNetherBrickRecipe",
+      "type": "recipe",
+      "sortid": 396,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_nether_brick_recipe"
+    },
+    {
+      "name": "DarkNetherBricksRecipe",
+      "type": "recipe",
+      "sortid": 397,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_nether_bricks_recipe"
+    },
+    {
+      "name": "MagmaPumice",
+      "type": "block",
+      "sortid": 398,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_pumice"
+    },
+    {
+      "name": "MagmaPumiceEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 399,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_pumice_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MagmaPumiceOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 400,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magma_pumice_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WitherBone",
+      "type": "item",
+      "sortid": 401,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_bone"
+    },
+    {
+      "name": "WitherSkeleton",
+      "type": "loottable",
+      "sortid": 402,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_skeleton"
+    },
+    {
+      "name": "WitherPowder",
+      "type": "item",
+      "sortid": 403,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_powder"
+    },
+    {
+      "name": "WitherPowderRecipe",
+      "type": "recipe",
+      "sortid": 404,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_powder_recipe"
+    },
+    {
+      "name": "WitherPotion",
+      "type": "potion",
+      "sortid": 405,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_potion"
+    },
+    {
+      "name": "WitherPotionRecipe",
+      "type": "recipe",
+      "sortid": 406,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wither_potion_recipe"
+    },
+    {
+      "name": "NetherWartPlant",
+      "type": "plant",
+      "sortid": 407,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nether_wart_plant"
+    },
+    {
+      "name": "WarpedNetherWartPlant",
+      "type": "plant",
+      "sortid": 408,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nether_wart_plant"
+    },
+    {
+      "name": "WarpedNetherWart",
+      "type": "item",
+      "sortid": 409,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_nether_wart"
+    },
+    {
+      "name": "CrackledNetherWart",
+      "type": "food",
+      "sortid": 410,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackled_nether_wart"
+    },
+    {
+      "name": "WarpedCrackledNetherWart",
+      "type": "food",
+      "sortid": 411,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_crackled_nether_wart"
+    },
+    {
+      "name": "CrackledNetherWartRecipe",
+      "type": "recipe",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "crackled_nether_wart_recipe"
+    },
+    {
+      "name": "WarpedCrackledNetherWartRecipe",
+      "type": "recipe",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "warped_crackled_nether_wart_recipe"
+    },
+    {
+      "name": "BasaltPaper",
+      "type": "item",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_paper"
+    },
+    {
+      "name": "GlowBug",
+      "type": "livingentity",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glow_bug"
+    },
+    {
+      "name": "BasaltPaper2Book",
+      "type": "recipe",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_paper_2_book"
+    },
+    {
+      "name": "BasaltPaper2Map",
+      "type": "recipe",
+      "sortid": 416,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_paper_2_map"
+    },
+    {
+      "name": "CartographyTableRecipe2",
+      "type": "recipe",
+      "sortid": 417,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cartography_table_recipe_2"
+    },
+    {
+      "name": "BasaltPaper2PaperRecipe",
+      "type": "recipe",
+      "sortid": 418,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basalt_paper_2_paper_recipe"
     }
   ],
   "variable_elements": [],
@@ -3504,14 +3914,15 @@
       "block.survival_of_the_minecraftist.warped_netherrack": "Warped Netherrack",
       "item.survival_of_the_minecraftist.soul_scythe": "Soul Scythe",
       "item.survival_of_the_minecraftist.hell_coal": "Hell Coal",
-      "block.survival_of_the_minecraftist.block_of_blood_quartz": "Block Of Blood Quartz",
       "item.minecraft.splash_potion.effect.fire_starter_potion": "Splash Potion of Fire Starter",
+      "block.survival_of_the_minecraftist.block_of_blood_quartz": "Block Of Blood Quartz",
+      "block.survival_of_the_minecraftist.magma_pumice": "Magma Pumice",
       "block.survival_of_the_minecraftist.sulphur_ore": "Sulphur Ore",
-      "entity.survival_of_the_minecraftist.ghost": "Ghost",
       "item.survival_of_the_minecraftist.soul_salt": "Soul Salt",
+      "entity.survival_of_the_minecraftist.ghost": "Ghost",
       "item.survival_of_the_minecraftist.amberr_pickaxe": "Amber Pickaxe",
-      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
+      "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
       "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.polished_hot_basalt": "Polished Hot Basalt",
@@ -3520,6 +3931,8 @@
       "item.survival_of_the_minecraftist.sulphur": "Sulphur",
       "block.survival_of_the_minecraftist.smooth_soul_quartz": "Smooth Soul Quartz",
       "item.minecraft.tipped_arrow.effect.fire_starter_potion": "Arrow of Fire Starter",
+      "item.survival_of_the_minecraftist.berry_pie": "Berry Pie",
+      "block.survival_of_the_minecraftist.flamerack": "Flamerack",
       "block.survival_of_the_minecraftist.block_of_soul_quartz": "Block Of Soul Quartz",
       "block.survival_of_the_minecraftist.smooth_cobblestone": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.soul_stone": "Soul Stone",
@@ -3527,8 +3940,8 @@
       "block.survival_of_the_minecraftist.lamp_rod": "Lamp Rod",
       "item.survival_of_the_minecraftist.ghoul_spawn_egg": "Ghoul Spawn Egg",
       "item.survival_of_the_minecraftist.amberr_axe": "Amber Axe",
-      "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.nether_iron_ore": "Nether Iron Ore",
+      "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.sulphur_quartz_bricks": "Sulphur Quartz Bricks",
       "block.survival_of_the_minecraftist.sulphur_quartz_pillar": "Sulphur Quartz Pillar",
       "item.survival_of_the_minecraftist.crimson_berries": "Crimson Berries",
@@ -3551,6 +3964,7 @@
       "item.survival_of_the_minecraftist.chisel": "Chisel",
       "item.survival_of_the_minecraftist.warped_berries": "Warped Berries",
       "item.survival_of_the_minecraftist.topaz_shear": "Topaz Shears",
+      "entity.survival_of_the_minecraftist.glow_bug": "Glow Bug",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.smooth_soul_quartz_slab": "Smooth Soul Quartz Slab",
@@ -3560,16 +3974,21 @@
       "item.survival_of_the_minecraftist.soul": "Soul",
       "block.survival_of_the_minecraftist.lamp": "Lamp",
       "block.survival_of_the_minecraftist.nether_geyser": "Nether Geyser",
-      "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
       "item.survival_of_the_minecraftist.amberr": "Amber",
+      "block.survival_of_the_minecraftist.nether_cactus": "Nether Cactus",
+      "block.survival_of_the_minecraftist.darkrack": "Darkrack",
+      "item.survival_of_the_minecraftist.warped_crackled_nether_wart": "Crackled Warped Nether Wart",
       "effect.milked": "Milk ",
       "itemGroup.tabsotm_ores": "SOTM Ores",
       "block.survival_of_the_minecraftist.polished_soul_stone": "Polished Soul Stone",
       "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
+      "block.survival_of_the_minecraftist.flame_nether_bricks": "Flame Nether Bricks",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
       "block.survival_of_the_minecraftist.red_mushroom": "Red Hellshroom",
       "block.survival_of_the_minecraftist.basalt_bricks": "Warm Basalt Bricks",
       "effect.vacuum_effect": "Vacuum",
+      "item.survival_of_the_minecraftist.dark_nether_brick": "Dark Netherbrick",
+      "item.survival_of_the_minecraftist.warped_nether_wart": "Warped Nether Wart",
       "item.survival_of_the_minecraftist.soul_orb": "Soul Orb",
       "block.survival_of_the_minecraftist.smooth_soul_quartz_stairs": "Smooth Soul Quartz Stairs",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt": "Smooth Cobbled Hot Basalt",
@@ -3577,6 +3996,7 @@
       "block.survival_of_the_minecraftist.renite_bricks": "Renite Bricks",
       "block.survival_of_the_minecraftist.pumice_bricks": "Pumice Bricks",
       "item.survival_of_the_minecraftist.amberr_armor_leggings": "Amber Leggings",
+      "block.survival_of_the_minecraftist.warped_nether_wart_plant": "Warped Nether Wart Plant",
       "block.survival_of_the_minecraftist.polished_renite": "Polished Renite",
       "item.survival_of_the_minecraftist.soul_beast_spawn_egg": "Soul Beast Spawn Egg",
       "item.survival_of_the_minecraftist.amberr_shovel": "Amber Shovel",
@@ -3589,19 +4009,23 @@
       "block.survival_of_the_minecraftist.blood_quartz_bricks": "Blood Quartz Bricks",
       "item.minecraft.tipped_arrow.effect.bottled_milk": "Arrow of Milk",
       "block.survival_of_the_minecraftist.soul_quartz_stairs": "Soul Quartz Stairs",
+      "item.minecraft.splash_potion.effect.wither_potion": "Splash Potion of Wither",
       "item.survival_of_the_minecraftist.dark_quartz": "Dark Quartz",
       "item.survival_of_the_minecraftist.coconut": "Coconut",
       "item.survival_of_the_minecraftist.venom_berries": "Venom Berries",
       "item.survival_of_the_minecraftist.potassium": "Potassium",
       "block.survival_of_the_minecraftist.limestone_bricks": "Limestone Bricks",
+      "item.survival_of_the_minecraftist.flame_netherbrick": "Flame Netherbrick",
       "item.survival_of_the_minecraftist.leather_strips": "Leather Strips",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_slab": "Smooth Blood Quartz Slab",
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
+      "item.survival_of_the_minecraftist.wither_bone": "Wither Bone",
       "block.survival_of_the_minecraftist.chiseled_sulphur_quartz": "Chiseled Sulphur Quartz",
       "effect.fire_starter": "Fire Starter",
       "block.survival_of_the_minecraftist.sulphur_quartz_ore": "Sulphur Quartz Ore",
       "block.survival_of_the_minecraftist.glowing_obsidian": "Glowing Obsidian",
+      "block.survival_of_the_minecraftist.nether_wart_plant": "Nether Wart Plant",
       "block.survival_of_the_minecraftist.glowstone_lamp": "Glowstone Lamp",
       "block.survival_of_the_minecraftist.soul_quartz_bricks": "Soul Quartz Bricks",
       "itemGroup.tabsotm_decorations": "SOTM Decorations",
@@ -3614,6 +4038,7 @@
       "block.survival_of_the_minecraftist.trodden_flower": "Trodden Flower",
       "block.survival_of_the_minecraftist.gold_panel_block": "Gold Panel Block",
       "item.survival_of_the_minecraftist.amberr_hoe": "Amber Hoe",
+      "item.survival_of_the_minecraftist.pumpkin_guts": "Pumpkin Guts",
       "block.survival_of_the_minecraftist.polished_soul_slate_slab": "Polished Soul Slate Slab",
       "item.survival_of_the_minecraftist.amberr_armor_chestplate": "Amber Chestplate",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
@@ -3642,6 +4067,8 @@
       "block.survival_of_the_minecraftist.bone_plant": "Bones",
       "block.survival_of_the_minecraftist.amberr_ore": "Amber Ore",
       "item.survival_of_the_minecraftist.warped_netherbrick": "Warped Netherbrick",
+      "item.minecraft.lingering_potion.effect.wither_potion": "Lingering Potion of Wither",
+      "item.survival_of_the_minecraftist.apple_pie": "Apple Pie",
       "item.survival_of_the_minecraftist.iron_shears": "Iron Shears",
       "block.survival_of_the_minecraftist.smooth_blood_quartz": "Smooth Blood Quartz",
       "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
@@ -3659,8 +4086,11 @@
       "block.survival_of_the_minecraftist.nether_grass_2": "Nether Grass",
       "item.survival_of_the_minecraftist.iron_cluster": "Iron Cluster",
       "block.survival_of_the_minecraftist.sulphur_quartz_stairs": "Sulphur Quartz Stairs",
+      "item.minecraft.potion.effect.wither_potion": "Potion of Wither",
+      "item.survival_of_the_minecraftist.pumpkin_slice": "Pumpkin Slice",
       "block.survival_of_the_minecraftist.polished_soul_slate": "Polished Soul Slate",
       "item.minecraft.lingering_potion.effect.vacuum_potion": "Lingering Potion of Vacuum ",
+      "item.survival_of_the_minecraftist.crackled_nether_wart": "Crackled Nether Wart",
       "block.survival_of_the_minecraftist.cobbled_black_marble": "Cobbled Black Marble",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt_panel": "Polished Cobbled Basalt Panel",
       "block.survival_of_the_minecraftist.smooth_sulphur_quartz_slab": "Smooth Sulphur Quartz Slab",
@@ -3675,6 +4105,7 @@
       "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
       "block.survival_of_the_minecraftist.venom_vines": "Venom Vines",
+      "item.survival_of_the_minecraftist.glow_bug_spawn_egg": "Glow Bug Spawn Egg",
       "block.survival_of_the_minecraftist.blood_quartz_slab": "Blood Quartz Slab",
       "block.survival_of_the_minecraftist.black_marble": "Black Marble",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_stairs": "Smooth Blood Quartz Stairs",
@@ -3704,6 +4135,7 @@
       "block.survival_of_the_minecraftist.warped_berry_roots": "Warped Berries Roots",
       "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
       "block.survival_of_the_minecraftist.cold_basalt_panel": "Cold Basalt Panel",
+      "item.survival_of_the_minecraftist.basalt_paper": "Basalt Paper",
       "block.survival_of_the_minecraftist.black_mushroom": "Black Hellshroom",
       "item.minecraft.lingering_potion.effect.fire_starter_potion": "Lingering Potion of Fire Starter",
       "block.survival_of_the_minecraftist.crimson_nether_fungus": "Crimson Nether Fungus",
@@ -3718,7 +4150,10 @@
       "block.survival_of_the_minecraftist.chiseled_soul_quartz": "Chiseled Soul Quartz",
       "item.survival_of_the_minecraftist.blood_quartz": "Blood Quartz",
       "item.survival_of_the_minecraftist.dehusked_coconut": "Dehusked Coconut",
+      "item.minecraft.tipped_arrow.effect.wither_potion": "Arrow of Wither",
       "block.survival_of_the_minecraftist.sulphured_basalt": "Sulphured Basalt",
+      "block.survival_of_the_minecraftist.dark_nether_bricks": "Dark Nether Bricks",
+      "item.survival_of_the_minecraftist.wither_powder": "Wither Powder",
       "block.survival_of_the_minecraftist.renite": "Renite",
       "block.survival_of_the_minecraftist.cobbled_basalt": "Cobbled Basalt"
     }

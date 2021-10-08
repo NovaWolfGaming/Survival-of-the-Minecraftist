@@ -1,12 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_all",
   "textures": {
-    "down": "survival_of_the_minecraftist:blocks/pumice2",
-    "up": "survival_of_the_minecraftist:blocks/pumice2",
-    "north": "survival_of_the_minecraftist:blocks/pumice2",
-    "east": "survival_of_the_minecraftist:blocks/pumice2",
-    "south": "survival_of_the_minecraftist:blocks/pumice2",
-    "west": "survival_of_the_minecraftist:blocks/pumice2",
-    "particle": "survival_of_the_minecraftist:blocks/pumice2"
+    "all": "survival_of_the_minecraftist:blocks/new_pumice",
+    "particle": "survival_of_the_minecraftist:blocks/new_pumice"
   }
 }

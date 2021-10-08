@@ -1,0 +1,19 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:basalt_paper"
+    }
+  },
+  "result": {
+    "item": "minecraft:paper",
+    "count": 4
+  }
+}

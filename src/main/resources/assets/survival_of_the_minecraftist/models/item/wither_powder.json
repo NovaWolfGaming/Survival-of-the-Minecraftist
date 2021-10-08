@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "survival_of_the_minecraftist:items/wither_powder_2"
+  }
+}

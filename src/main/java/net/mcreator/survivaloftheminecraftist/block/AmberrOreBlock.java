@@ -115,7 +115,7 @@ public class AmberrOreBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 1)).range(255)
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(255)
 					.square().func_242731_b(1);
 			event.getRegistry().register(feature.setRegistryName("amberr_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("survival_of_the_minecraftist:amberr_ore"),

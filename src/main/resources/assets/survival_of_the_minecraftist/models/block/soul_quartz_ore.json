@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "survival_of_the_minecraftist:blocks/soul_quartz_ore",
-    "particle": "survival_of_the_minecraftist:blocks/soul_quartz_ore"
+    "all": "survival_of_the_minecraftist:blocks/soul_quartz_ore_2",
+    "particle": "survival_of_the_minecraftist:blocks/soul_quartz_ore_2"
   }
 }

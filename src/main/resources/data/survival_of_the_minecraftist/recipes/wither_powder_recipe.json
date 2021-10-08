@@ -1,0 +1,16 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:wither_bone"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:wither_powder",
+    "count": 2
+  }
+}
