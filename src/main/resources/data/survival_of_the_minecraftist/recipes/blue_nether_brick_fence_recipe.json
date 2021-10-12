@@ -1,0 +1,32 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:warped_netherbrick"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:warped_netherbrick"
+    },
+    "5": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:blue_nether_brick_fence",
+    "count": 6
+  }
+}

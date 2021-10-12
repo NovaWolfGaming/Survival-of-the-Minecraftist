@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks"
+  }
+}

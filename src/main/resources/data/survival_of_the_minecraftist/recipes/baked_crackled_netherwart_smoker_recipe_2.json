@@ -1,0 +1,12 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:warped_crackled_nether_wart"
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:baked_crackled_netherwart"
+  }
+}

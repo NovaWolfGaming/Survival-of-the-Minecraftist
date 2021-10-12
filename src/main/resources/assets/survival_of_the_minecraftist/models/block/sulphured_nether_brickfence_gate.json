@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "survival_of_the_minecraftist:blocks/nether_bricks_orange",
+    "top": "survival_of_the_minecraftist:blocks/nether_bricks_orange",
+    "side": "survival_of_the_minecraftist:blocks/nether_bricks_orange"
+  }
+}

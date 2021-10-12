@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks",
+    "top": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks",
+    "side": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks"
+  }
+}

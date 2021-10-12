@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/sulphur_nether_bricks"
+  }
+}

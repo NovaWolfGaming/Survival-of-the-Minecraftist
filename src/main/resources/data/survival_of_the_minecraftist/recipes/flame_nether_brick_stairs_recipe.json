@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:flame_nether_bricks"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:flame_nether_brick_stairs",
+    "count": 6
+  }
+}

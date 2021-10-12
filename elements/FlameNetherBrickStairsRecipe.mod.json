@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 6,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      },
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      },
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      },
+      {
+        "value": "CUSTOM:FlameNetherBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FlameNetherBrickStairs"
+    },
+    "name": "flame_nether_brick_stairs_recipe",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "6": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "7": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "8": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:warped_nether_brick_stairs",
+    "count": 6
+  }
+}

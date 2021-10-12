@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "survival_of_the_minecraftist:blocks/blue_nether_bricks"
+  }
+}

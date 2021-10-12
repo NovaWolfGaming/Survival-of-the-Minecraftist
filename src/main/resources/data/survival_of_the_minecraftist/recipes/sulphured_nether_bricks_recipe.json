@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:sulphured_nether_wart_item"
+    },
+    "1": {
+      "item": "minecraft:nether_brick"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:sulphured_nether_wart_item"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:sulphured_nether_bricks",
+    "count": 1
+  }
+}

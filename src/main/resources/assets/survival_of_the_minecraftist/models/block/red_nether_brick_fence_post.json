@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "survival_of_the_minecraftist:blocks/red_nether_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/red_nether_bricks"
+  }
+}

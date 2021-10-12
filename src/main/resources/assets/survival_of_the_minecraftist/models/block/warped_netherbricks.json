@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "up": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "north": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "east": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "south": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "west": "survival_of_the_minecraftist:blocks/warped_nether_bricks",
-    "particle": "survival_of_the_minecraftist:blocks/warped_nether_bricks"
+    "down": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "up": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "north": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "east": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "south": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "west": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/blue_nether_bricks"
   }
 }

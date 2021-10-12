@@ -1,0 +1,22 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:warped_netherbricks"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:warped_nether_brick_slab",
+    "count": 6
+  }
+}

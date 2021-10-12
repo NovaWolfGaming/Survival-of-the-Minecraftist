@@ -46,7 +46,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMDecorationsItemGroup;
+import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMPlantsItemGroup;
 import net.mcreator.survivaloftheminecraftist.item.VenomBerriesItem;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
@@ -67,8 +67,7 @@ public class VenomVinesBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new BlockCustomFlower());
-		elements.items
-				.add(() -> new BlockItem(block, new Item.Properties().group(SOTMDecorationsItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMPlantsItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 
 	@Override

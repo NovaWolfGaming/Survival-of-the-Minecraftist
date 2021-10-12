@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "survival_of_the_minecraftist:blocks/blue_nether_bricks",
+    "particle": "survival_of_the_minecraftist:blocks/blue_nether_bricks"
+  }
+}

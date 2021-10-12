@@ -1,0 +1,32 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:dark_nether_brick"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:dark_nether_bricks"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:dark_nether_brick"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:dark_nether_brick"
+    },
+    "4": {
+      "item": "survival_of_the_minecraftist:dark_nether_bricks"
+    },
+    "5": {
+      "item": "survival_of_the_minecraftist:dark_nether_brick"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:dark_nether_brick_gate",
+    "count": 1
+  }
+}
