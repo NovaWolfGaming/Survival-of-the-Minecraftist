@@ -48,7 +48,7 @@ public class AmberrOreBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:amberr_ore")
 	public static final Block block = null;
 	public AmberrOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 356);
+		super(instance, 119);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -61,7 +61,7 @@ public class AmberrOreBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.NETHERRACK).hardnessAndResistance(21f, 23.716381969016833f)
-					.setLightLevel(s -> 0).harvestLevel(14).harvestTool(ToolType.PICKAXE).setRequiresTool());
+					.setLightLevel(s -> 0).harvestLevel(3).harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("amberr_ore");
 		}
 

@@ -34,7 +34,7 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
+import net.mcreator.survivaloftheminecraftist.itemgroup.StonesAndRocksItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.Random;
@@ -46,7 +46,7 @@ public class BlackMarbleBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:black_marble")
 	public static final Block block = null;
 	public BlackMarbleBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 67);
+		super(instance, 41);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -54,7 +54,8 @@ public class BlackMarbleBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(StonesAndRocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {

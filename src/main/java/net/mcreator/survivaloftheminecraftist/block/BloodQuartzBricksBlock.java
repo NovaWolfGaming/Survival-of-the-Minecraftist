@@ -31,7 +31,7 @@ public class BloodQuartzBricksBlock extends SurvivalOfTheMinecraftistModElements
 	@ObjectHolder("survival_of_the_minecraftist:blood_quartz_bricks")
 	public static final Block block = null;
 	public BloodQuartzBricksBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 149);
+		super(instance, 144);
 	}
 
 	@Override

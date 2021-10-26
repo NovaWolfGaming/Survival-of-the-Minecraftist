@@ -57,7 +57,7 @@ public class NetherWeedsBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:nether_weeds")
 	public static final Block block = null;
 	public NetherWeedsBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 8);
+		super(instance, 14);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

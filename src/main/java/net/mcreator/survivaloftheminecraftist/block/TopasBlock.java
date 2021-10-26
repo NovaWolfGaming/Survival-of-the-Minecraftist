@@ -46,7 +46,7 @@ public class TopasBlock extends SurvivalOfTheMinecraftistModElements.ModElement 
 	@ObjectHolder("survival_of_the_minecraftist:topaz")
 	public static final Block block = null;
 	public TopasBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 115);
+		super(instance, 113);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

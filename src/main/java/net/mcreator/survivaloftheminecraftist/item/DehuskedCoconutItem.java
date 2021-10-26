@@ -30,7 +30,7 @@ public class DehuskedCoconutItem extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:dehusked_coconut")
 	public static final Item block = null;
 	public DehuskedCoconutItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 38);
+		super(instance, 2);
 	}
 
 	@Override

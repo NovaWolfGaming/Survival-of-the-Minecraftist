@@ -17,7 +17,7 @@ public class PumpkinGutsItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:pumpkin_guts")
 	public static final Item block = null;
 	public PumpkinGutsItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 384);
+		super(instance, 210);
 	}
 
 	@Override

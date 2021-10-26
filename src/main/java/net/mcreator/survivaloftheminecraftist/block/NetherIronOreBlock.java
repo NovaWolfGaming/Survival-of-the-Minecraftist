@@ -42,7 +42,7 @@ public class NetherIronOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:nether_iron_ore")
 	public static final Block block = null;
 	public NetherIronOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 217);
+		super(instance, 115);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

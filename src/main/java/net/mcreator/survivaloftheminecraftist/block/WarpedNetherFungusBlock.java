@@ -46,7 +46,7 @@ public class WarpedNetherFungusBlock extends SurvivalOfTheMinecraftistModElement
 	@ObjectHolder("survival_of_the_minecraftist:warped_nether_fungus")
 	public static final Block block = null;
 	public WarpedNetherFungusBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 46);
+		super(instance, 126);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

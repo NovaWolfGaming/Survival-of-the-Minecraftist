@@ -80,9 +80,13 @@
     "canBePlacedOn": [],
     "frequencyOnChunks": 5,
     "spawnWorldTypes": [
-      "Surface"
+      "Nether"
     ],
-    "restrictionBiomes": [],
+    "restrictionBiomes": [
+      {
+        "value": "basalt_deltas"
+      }
+    ],
     "patchSize": 64
   }
 }

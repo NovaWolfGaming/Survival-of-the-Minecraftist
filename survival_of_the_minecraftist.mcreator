@@ -16,7 +16,7 @@
     {
       "name": "BlazeFlower",
       "type": "plant",
-      "sortid": 2,
+      "sortid": 9,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -25,7 +25,7 @@
     {
       "name": "RedNetherBush",
       "type": "plant",
-      "sortid": 3,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -34,7 +34,7 @@
     {
       "name": "YellownetherBush",
       "type": "plant",
-      "sortid": 4,
+      "sortid": 11,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -43,7 +43,7 @@
     {
       "name": "SOTMPlants",
       "type": "tab",
-      "sortid": 5,
+      "sortid": 241,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -52,7 +52,7 @@
     {
       "name": "SproutingPlant",
       "type": "plant",
-      "sortid": 6,
+      "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -61,7 +61,7 @@
     {
       "name": "NetherCactus",
       "type": "plant",
-      "sortid": 7,
+      "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -70,7 +70,7 @@
     {
       "name": "NetherWeeds",
       "type": "plant",
-      "sortid": 8,
+      "sortid": 14,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -79,7 +79,7 @@
     {
       "name": "TroddenFlower",
       "type": "plant",
-      "sortid": 9,
+      "sortid": 15,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -88,7 +88,7 @@
     {
       "name": "TroddenFlower2",
       "type": "plant",
-      "sortid": 10,
+      "sortid": 16,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -97,7 +97,7 @@
     {
       "name": "TroddenFlower3",
       "type": "plant",
-      "sortid": 11,
+      "sortid": 17,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -106,7 +106,7 @@
     {
       "name": "TroddenFlower4",
       "type": "plant",
-      "sortid": 12,
+      "sortid": 18,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -115,7 +115,7 @@
     {
       "name": "TroddenFlower2DyeRecipe",
       "type": "recipe",
-      "sortid": 13,
+      "sortid": 242,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -124,7 +124,7 @@
     {
       "name": "TroddenFlower2Dye2",
       "type": "recipe",
-      "sortid": 14,
+      "sortid": 243,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -133,7 +133,7 @@
     {
       "name": "TroddenFlower2Dye3",
       "type": "recipe",
-      "sortid": 15,
+      "sortid": 244,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -142,7 +142,7 @@
     {
       "name": "TroddenFlower2Dye4",
       "type": "recipe",
-      "sortid": 16,
+      "sortid": 245,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -151,7 +151,7 @@
     {
       "name": "Renite",
       "type": "block",
-      "sortid": 17,
+      "sortid": 28,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -160,7 +160,7 @@
     {
       "name": "PolishedRenite",
       "type": "block",
-      "sortid": 18,
+      "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -169,7 +169,7 @@
     {
       "name": "PolishedReniteRecipe",
       "type": "recipe",
-      "sortid": 19,
+      "sortid": 246,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -178,7 +178,7 @@
     {
       "name": "ReniteBricks",
       "type": "block",
-      "sortid": 20,
+      "sortid": 30,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -187,7 +187,7 @@
     {
       "name": "ReniteBricksRecipe",
       "type": "recipe",
-      "sortid": 21,
+      "sortid": 247,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -196,7 +196,7 @@
     {
       "name": "PolishedReniteSCRecipe",
       "type": "recipe",
-      "sortid": 22,
+      "sortid": 248,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -205,7 +205,7 @@
     {
       "name": "ReniteBricksSCRecipe",
       "type": "recipe",
-      "sortid": 23,
+      "sortid": 249,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -214,7 +214,7 @@
     {
       "name": "Pumice",
       "type": "block",
-      "sortid": 25,
+      "sortid": 31,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -223,7 +223,7 @@
     {
       "name": "PumiceBricks",
       "type": "block",
-      "sortid": 28,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -232,7 +232,7 @@
     {
       "name": "FireStarterPotion",
       "type": "potion",
-      "sortid": 31,
+      "sortid": 250,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -241,7 +241,7 @@
     {
       "name": "PolishedPumice",
       "type": "block",
-      "sortid": 26,
+      "sortid": 32,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -250,7 +250,7 @@
     {
       "name": "FireStarter",
       "type": "potioneffect",
-      "sortid": 30,
+      "sortid": 251,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -259,7 +259,7 @@
     {
       "name": "PolishedPumiceRecipe",
       "type": "recipe",
-      "sortid": 27,
+      "sortid": 252,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -268,7 +268,7 @@
     {
       "name": "PumiceBricksRecipe",
       "type": "recipe",
-      "sortid": 29,
+      "sortid": 253,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -277,7 +277,7 @@
     {
       "name": "FireStarterEffectStartedapplied",
       "type": "procedure",
-      "sortid": 30,
+      "sortid": 254,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -294,7 +294,7 @@
     {
       "name": "SOTMBlocks",
       "type": "tab",
-      "sortid": 24,
+      "sortid": 255,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -303,7 +303,7 @@
     {
       "name": "BottledMilk",
       "type": "potion",
-      "sortid": 24,
+      "sortid": 256,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -312,7 +312,7 @@
     {
       "name": "MilkedEffectStartedapplied",
       "type": "procedure",
-      "sortid": 25,
+      "sortid": 257,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -329,7 +329,7 @@
     {
       "name": "Milked",
       "type": "potioneffect",
-      "sortid": 25,
+      "sortid": 258,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -338,7 +338,7 @@
     {
       "name": "Sulphur2GunpowderRecipe",
       "type": "recipe",
-      "sortid": 35,
+      "sortid": 259,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -347,7 +347,7 @@
     {
       "name": "FireStarterPotionRecipe",
       "type": "recipe",
-      "sortid": 32,
+      "sortid": 260,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -356,7 +356,7 @@
     {
       "name": "PotassiumOre",
       "type": "block",
-      "sortid": 36,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -365,7 +365,7 @@
     {
       "name": "Sulphur",
       "type": "item",
-      "sortid": 33,
+      "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -374,7 +374,7 @@
     {
       "name": "Potassium",
       "type": "item",
-      "sortid": 35,
+      "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -383,7 +383,7 @@
     {
       "name": "SulphurOre",
       "type": "block",
-      "sortid": 34,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -392,7 +392,7 @@
     {
       "name": "VacuumPotion",
       "type": "potion",
-      "sortid": 32,
+      "sortid": 261,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -401,7 +401,7 @@
     {
       "name": "VacuumEffectEffectStartedapplied",
       "type": "procedure",
-      "sortid": 32,
+      "sortid": 262,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -418,7 +418,7 @@
     {
       "name": "VacuumEffect",
       "type": "potioneffect",
-      "sortid": 32,
+      "sortid": 263,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -427,7 +427,7 @@
     {
       "name": "VaccumEffectRecipe",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 264,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -436,7 +436,7 @@
     {
       "name": "SOTMOres",
       "type": "tab",
-      "sortid": 74,
+      "sortid": 265,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -445,7 +445,7 @@
     {
       "name": "PolishedWarpedNetherFungusRecipe",
       "type": "recipe",
-      "sortid": 48,
+      "sortid": 266,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -454,7 +454,7 @@
     {
       "name": "LampRodRecipe",
       "type": "recipe",
-      "sortid": 59,
+      "sortid": 267,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -463,7 +463,7 @@
     {
       "name": "BlackMarbleBricksRecipe",
       "type": "recipe",
-      "sortid": 71,
+      "sortid": 268,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -472,7 +472,7 @@
     {
       "name": "CobbledWhiteMarble",
       "type": "block",
-      "sortid": 77,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -481,7 +481,7 @@
     {
       "name": "GlowstoneLamp",
       "type": "block",
-      "sortid": 38,
+      "sortid": 121,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -490,7 +490,7 @@
     {
       "name": "BlackMarbleBricks",
       "type": "block",
-      "sortid": 68,
+      "sortid": 44,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -499,7 +499,7 @@
     {
       "name": "Limestone",
       "type": "block",
-      "sortid": 51,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -508,7 +508,7 @@
     {
       "name": "WhiteMarble",
       "type": "block",
-      "sortid": 60,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -517,7 +517,7 @@
     {
       "name": "PolishedBlackMarbleBricksRecipe",
       "type": "recipe",
-      "sortid": 73,
+      "sortid": 269,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -526,7 +526,7 @@
     {
       "name": "PolishedBlackMarbleSCRecipe",
       "type": "recipe",
-      "sortid": 72,
+      "sortid": 270,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -535,7 +535,7 @@
     {
       "name": "GlowstoneLampRecipe",
       "type": "recipe",
-      "sortid": 39,
+      "sortid": 271,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -544,7 +544,7 @@
     {
       "name": "WhiteMarbleBricks",
       "type": "block",
-      "sortid": 61,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -553,7 +553,7 @@
     {
       "name": "WhiteMarblePolished",
       "type": "block",
-      "sortid": 62,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -562,7 +562,7 @@
     {
       "name": "GlowingObsidian",
       "type": "block",
-      "sortid": 42,
+      "sortid": 123,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -571,7 +571,7 @@
     {
       "name": "CobbledMarble2Marble",
       "type": "recipe",
-      "sortid": 79,
+      "sortid": 272,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -580,7 +580,7 @@
     {
       "name": "PolishedWhiteMarbleRecipe",
       "type": "recipe",
-      "sortid": 63,
+      "sortid": 273,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -589,7 +589,7 @@
     {
       "name": "SOTMDecorations",
       "type": "tab",
-      "sortid": 76,
+      "sortid": 274,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -598,7 +598,7 @@
     {
       "name": "PolishedCrimsonNetherFungusRecipe",
       "type": "recipe",
-      "sortid": 45,
+      "sortid": 275,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -607,7 +607,7 @@
     {
       "name": "LimestoneBricks",
       "type": "block",
-      "sortid": 52,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -616,7 +616,7 @@
     {
       "name": "PolishedLimestoneSCRecipe",
       "type": "recipe",
-      "sortid": 56,
+      "sortid": 276,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -625,7 +625,7 @@
     {
       "name": "WhiteMarbleBricksRecipe",
       "type": "recipe",
-      "sortid": 64,
+      "sortid": 277,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -634,7 +634,7 @@
     {
       "name": "Lamp",
       "type": "block",
-      "sortid": 40,
+      "sortid": 122,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -643,7 +643,7 @@
     {
       "name": "BlackMarble",
       "type": "block",
-      "sortid": 67,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -652,7 +652,7 @@
     {
       "name": "BlackMarblePolished",
       "type": "block",
-      "sortid": 69,
+      "sortid": 43,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -661,7 +661,7 @@
     {
       "name": "PolishedWarpedNetherFungus",
       "type": "block",
-      "sortid": 47,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -670,7 +670,7 @@
     {
       "name": "LampRecipe",
       "type": "recipe",
-      "sortid": 41,
+      "sortid": 278,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -679,7 +679,7 @@
     {
       "name": "PolishedLimestone",
       "type": "block",
-      "sortid": 53,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -688,7 +688,7 @@
     {
       "name": "PolishedNetherFungus",
       "type": "block",
-      "sortid": 44,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -697,7 +697,7 @@
     {
       "name": "PolishedBlackMarbleRecipe",
       "type": "recipe",
-      "sortid": 70,
+      "sortid": 279,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -706,7 +706,7 @@
     {
       "name": "LimestoneBricksRecipe",
       "type": "recipe",
-      "sortid": 55,
+      "sortid": 280,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -715,7 +715,7 @@
     {
       "name": "CobbledBlackMarble",
       "type": "block",
-      "sortid": 78,
+      "sortid": 42,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -724,7 +724,7 @@
     {
       "name": "PolishedLimestoneRecipe",
       "type": "recipe",
-      "sortid": 54,
+      "sortid": 281,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -733,7 +733,7 @@
     {
       "name": "WarpedNetherFungus",
       "type": "block",
-      "sortid": 46,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -742,7 +742,7 @@
     {
       "name": "SOTMItems",
       "type": "tab",
-      "sortid": 75,
+      "sortid": 282,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -751,7 +751,7 @@
     {
       "name": "PolishedOumiceSCRecipe",
       "type": "recipe",
-      "sortid": 49,
+      "sortid": 283,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -760,7 +760,7 @@
     {
       "name": "PolishedWhiteMarbleSCRecipe",
       "type": "recipe",
-      "sortid": 65,
+      "sortid": 284,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -769,7 +769,7 @@
     {
       "name": "CobbledMarble2Marble2",
       "type": "recipe",
-      "sortid": 80,
+      "sortid": 285,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -778,7 +778,7 @@
     {
       "name": "PumiceBricksSCRecipe",
       "type": "recipe",
-      "sortid": 50,
+      "sortid": 286,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -787,7 +787,7 @@
     {
       "name": "LimestoneBricksCSRecipe",
       "type": "recipe",
-      "sortid": 57,
+      "sortid": 287,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -796,7 +796,7 @@
     {
       "name": "CrimsonNetherFungus",
       "type": "block",
-      "sortid": 43,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -805,7 +805,7 @@
     {
       "name": "LampRod",
       "type": "block",
-      "sortid": 58,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -814,7 +814,7 @@
     {
       "name": "PolishedWhiteMarbleBricksRecipe",
       "type": "recipe",
-      "sortid": 66,
+      "sortid": 288,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -823,7 +823,7 @@
     {
       "name": "SplitCoconut",
       "type": "food",
-      "sortid": 39,
+      "sortid": 197,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -832,7 +832,7 @@
     {
       "name": "Coconut",
       "type": "item",
-      "sortid": 38,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -841,7 +841,7 @@
     {
       "name": "Husk",
       "type": "item",
-      "sortid": 81,
+      "sortid": 196,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -850,7 +850,7 @@
     {
       "name": "HuskRecipe",
       "type": "recipe",
-      "sortid": 82,
+      "sortid": 289,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -859,7 +859,7 @@
     {
       "name": "DehuskedCoconut",
       "type": "item",
-      "sortid": 38,
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -868,7 +868,7 @@
     {
       "name": "CoconutRightClickedOnBlock",
       "type": "procedure",
-      "sortid": 82,
+      "sortid": 290,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -885,7 +885,7 @@
     {
       "name": "DehuskedCoconutRightClickedOnBlock",
       "type": "procedure",
-      "sortid": 85,
+      "sortid": 291,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -902,7 +902,7 @@
     {
       "name": "HuskItemIsCraftedsmelted",
       "type": "procedure",
-      "sortid": 83,
+      "sortid": 292,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -919,7 +919,7 @@
     {
       "name": "Coconut2MilkRecipe",
       "type": "recipe",
-      "sortid": 86,
+      "sortid": 293,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -928,7 +928,7 @@
     {
       "name": "DarkQuartz",
       "type": "item",
-      "sortid": 87,
+      "sortid": 85,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -937,7 +937,7 @@
     {
       "name": "DarkQuartzOre",
       "type": "block",
-      "sortid": 87,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -946,7 +946,7 @@
     {
       "name": "BlockOfDarkQuartz",
       "type": "block",
-      "sortid": 88,
+      "sortid": 128,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -955,7 +955,7 @@
     {
       "name": "BlockOfdarkQuartzRecipe",
       "type": "recipe",
-      "sortid": 89,
+      "sortid": 294,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -964,7 +964,7 @@
     {
       "name": "DarkQuartzStairs",
       "type": "block",
-      "sortid": 90,
+      "sortid": 129,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -973,7 +973,7 @@
     {
       "name": "DarkQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 91,
+      "sortid": 295,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -982,7 +982,7 @@
     {
       "name": "DarkQuartzSlab",
       "type": "block",
-      "sortid": 92,
+      "sortid": 130,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -991,7 +991,7 @@
     {
       "name": "DarkQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 93,
+      "sortid": 296,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1000,7 +1000,7 @@
     {
       "name": "ChiseledDarkQuartz",
       "type": "block",
-      "sortid": 94,
+      "sortid": 131,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1009,7 +1009,7 @@
     {
       "name": "ChiseledDarkQuartzRecipe",
       "type": "recipe",
-      "sortid": 95,
+      "sortid": 297,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1018,7 +1018,7 @@
     {
       "name": "DarkQuartzPillar",
       "type": "block",
-      "sortid": 96,
+      "sortid": 132,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1027,7 +1027,7 @@
     {
       "name": "DarkQuartzPillarRecipe",
       "type": "recipe",
-      "sortid": 97,
+      "sortid": 298,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1036,7 +1036,7 @@
     {
       "name": "DarkQuartzBricks",
       "type": "block",
-      "sortid": 98,
+      "sortid": 133,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1045,7 +1045,7 @@
     {
       "name": "DarkQuartzBricksdRecipe",
       "type": "recipe",
-      "sortid": 99,
+      "sortid": 299,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1054,7 +1054,7 @@
     {
       "name": "SmoothDarkQuartz",
       "type": "block",
-      "sortid": 100,
+      "sortid": 134,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1063,7 +1063,7 @@
     {
       "name": "SmoothDarkQuartzStairs",
       "type": "block",
-      "sortid": 101,
+      "sortid": 135,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1072,7 +1072,7 @@
     {
       "name": "SmoothDarkQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 102,
+      "sortid": 300,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1081,7 +1081,7 @@
     {
       "name": "SmoothDarkQuartzSlab",
       "type": "block",
-      "sortid": 103,
+      "sortid": 136,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1090,7 +1090,7 @@
     {
       "name": "SmoothDarkQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 104,
+      "sortid": 301,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1099,7 +1099,7 @@
     {
       "name": "GoldPanelBlock",
       "type": "block",
-      "sortid": 105,
+      "sortid": 137,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1108,7 +1108,7 @@
     {
       "name": "GoldPanelBlockRecipe",
       "type": "recipe",
-      "sortid": 106,
+      "sortid": 302,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1117,7 +1117,7 @@
     {
       "name": "IronPanelBlock",
       "type": "block",
-      "sortid": 107,
+      "sortid": 138,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1126,7 +1126,7 @@
     {
       "name": "IronPanelBlockRecipe",
       "type": "recipe",
-      "sortid": 108,
+      "sortid": 303,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1135,7 +1135,7 @@
     {
       "name": "SmoothCobblestone",
       "type": "block",
-      "sortid": 109,
+      "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1144,7 +1144,7 @@
     {
       "name": "SmoothCobblestoneRecipe",
       "type": "recipe",
-      "sortid": 110,
+      "sortid": 304,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1153,7 +1153,7 @@
     {
       "name": "SmoothCobblestonePanel",
       "type": "block",
-      "sortid": 111,
+      "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1162,7 +1162,7 @@
     {
       "name": "SmoothCobblestonePanelRecipe",
       "type": "recipe",
-      "sortid": 112,
+      "sortid": 305,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1171,7 +1171,7 @@
     {
       "name": "SmoothCobblestoneSCRecipe",
       "type": "recipe",
-      "sortid": 113,
+      "sortid": 306,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1180,7 +1180,7 @@
     {
       "name": "SmoothCobblestonePanelSCRecipe",
       "type": "recipe",
-      "sortid": 114,
+      "sortid": 307,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1189,7 +1189,7 @@
     {
       "name": "Topas",
       "type": "block",
-      "sortid": 115,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1198,7 +1198,7 @@
     {
       "name": "BlackMarbleBricksSCRecipe",
       "type": "recipe",
-      "sortid": 115,
+      "sortid": 308,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1207,7 +1207,7 @@
     {
       "name": "TopasCrystal",
       "type": "item",
-      "sortid": 116,
+      "sortid": 86,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1216,7 +1216,7 @@
     {
       "name": "Slingshot",
       "type": "rangeditem",
-      "sortid": 117,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1225,7 +1225,7 @@
     {
       "name": "SlingshotRecipe",
       "type": "recipe",
-      "sortid": 118,
+      "sortid": 309,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1234,7 +1234,7 @@
     {
       "name": "SOTMToolsAndWeapons",
       "type": "tab",
-      "sortid": 117,
+      "sortid": 310,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1243,7 +1243,7 @@
     {
       "name": "LeatherStrips",
       "type": "item",
-      "sortid": 116,
+      "sortid": 87,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1252,7 +1252,7 @@
     {
       "name": "Pebble",
       "type": "item",
-      "sortid": 119,
+      "sortid": 88,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1261,7 +1261,7 @@
     {
       "name": "LeatherStripsRecipe",
       "type": "recipe",
-      "sortid": 121,
+      "sortid": 311,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1270,7 +1270,7 @@
     {
       "name": "ChiselRecipe",
       "type": "recipe",
-      "sortid": 122,
+      "sortid": 312,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1279,7 +1279,7 @@
     {
       "name": "Chisel",
       "type": "item",
-      "sortid": 120,
+      "sortid": 231,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1288,7 +1288,7 @@
     {
       "name": "Cobblestone2PebbelRecipe",
       "type": "recipe",
-      "sortid": 123,
+      "sortid": 313,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1297,7 +1297,7 @@
     {
       "name": "SlingshotBulletHitsLivingEntity",
       "type": "procedure",
-      "sortid": 124,
+      "sortid": 314,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1314,7 +1314,7 @@
     {
       "name": "CobbledBasalt",
       "type": "block",
-      "sortid": 125,
+      "sortid": 45,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1323,7 +1323,7 @@
     {
       "name": "CobbledBasaltRecipe",
       "type": "recipe",
-      "sortid": 127,
+      "sortid": 315,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1332,7 +1332,7 @@
     {
       "name": "PolishedCobbledBasalt",
       "type": "block",
-      "sortid": 128,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1341,7 +1341,7 @@
     {
       "name": "PolishedCobbledBasaltPanel",
       "type": "block",
-      "sortid": 129,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1350,7 +1350,7 @@
     {
       "name": "PolishedCobbledBasaltRecipe",
       "type": "recipe",
-      "sortid": 130,
+      "sortid": 316,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1359,7 +1359,7 @@
     {
       "name": "PolishedCobbledBasaltPanelrecipe",
       "type": "recipe",
-      "sortid": 131,
+      "sortid": 317,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1368,7 +1368,7 @@
     {
       "name": "Basalt",
       "type": "loottable",
-      "sortid": 132,
+      "sortid": 318,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1377,7 +1377,7 @@
     {
       "name": "Acacialeaves",
       "type": "loottable",
-      "sortid": 133,
+      "sortid": 319,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1386,34 +1386,16 @@
     {
       "name": "IronShears",
       "type": "tool",
-      "sortid": 134,
+      "sortid": 233,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "iron_shears"
     },
     {
-      "name": "IronShearsRecipe",
-      "type": "recipe",
-      "sortid": 135,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "iron_shears_recipe"
-    },
-    {
-      "name": "ShearsRecipe",
-      "type": "recipe",
-      "sortid": 136,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "shears_recipe"
-    },
-    {
       "name": "TopazShear",
       "type": "tool",
-      "sortid": 133,
+      "sortid": 232,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1422,7 +1404,7 @@
     {
       "name": "TopazShearsRecipe",
       "type": "recipe",
-      "sortid": 134,
+      "sortid": 320,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1440,7 +1422,7 @@
     {
       "name": "ChiseledBloodQuartzRecipe",
       "type": "recipe",
-      "sortid": 146,
+      "sortid": 321,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1449,7 +1431,7 @@
     {
       "name": "SmoothBloodQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 155,
+      "sortid": 322,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1458,7 +1440,7 @@
     {
       "name": "BloodQuartzOre",
       "type": "block",
-      "sortid": 138,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1467,7 +1449,7 @@
     {
       "name": "BloodQuartzPillar",
       "type": "block",
-      "sortid": 147,
+      "sortid": 143,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1476,7 +1458,7 @@
     {
       "name": "BlockOfBloodQuartzRecipe",
       "type": "recipe",
-      "sortid": 140,
+      "sortid": 323,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1485,7 +1467,7 @@
     {
       "name": "SmoothBloodQuartz",
       "type": "block",
-      "sortid": 151,
+      "sortid": 145,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1494,7 +1476,7 @@
     {
       "name": "ChiseledBloodQuartz",
       "type": "block",
-      "sortid": 145,
+      "sortid": 142,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1503,7 +1485,7 @@
     {
       "name": "SmoothDarkQuartzRecipe",
       "type": "recipe",
-      "sortid": 156,
+      "sortid": 324,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1512,7 +1494,7 @@
     {
       "name": "BloodQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 144,
+      "sortid": 325,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1521,7 +1503,7 @@
     {
       "name": "BloodQuartz",
       "type": "item",
-      "sortid": 137,
+      "sortid": 89,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1530,7 +1512,7 @@
     {
       "name": "BloodQuartzStairs",
       "type": "block",
-      "sortid": 141,
+      "sortid": 140,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1539,7 +1521,7 @@
     {
       "name": "BloodQuartzBricksRecipe",
       "type": "recipe",
-      "sortid": 150,
+      "sortid": 326,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1548,7 +1530,7 @@
     {
       "name": "BloodQuartzSlab",
       "type": "block",
-      "sortid": 143,
+      "sortid": 141,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1557,7 +1539,7 @@
     {
       "name": "BloodQuartzPilalrRecipe",
       "type": "recipe",
-      "sortid": 148,
+      "sortid": 327,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1566,7 +1548,7 @@
     {
       "name": "SmoothBloodQuartzRecipe",
       "type": "recipe",
-      "sortid": 157,
+      "sortid": 328,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1575,7 +1557,7 @@
     {
       "name": "BloodQuartzBricks",
       "type": "block",
-      "sortid": 149,
+      "sortid": 144,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1584,7 +1566,7 @@
     {
       "name": "SmoothBloodQuartzSlab",
       "type": "block",
-      "sortid": 154,
+      "sortid": 147,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1593,7 +1575,7 @@
     {
       "name": "SmoothBloodQuartzStairs",
       "type": "block",
-      "sortid": 152,
+      "sortid": 146,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1602,7 +1584,7 @@
     {
       "name": "BloodQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 142,
+      "sortid": 329,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1611,7 +1593,7 @@
     {
       "name": "SmoothBloodQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 153,
+      "sortid": 330,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1620,7 +1602,7 @@
     {
       "name": "WarpedNylium2",
       "type": "block",
-      "sortid": 158,
+      "sortid": 148,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1629,7 +1611,7 @@
     {
       "name": "WarpedNetherrack",
       "type": "block",
-      "sortid": 159,
+      "sortid": 149,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1638,7 +1620,7 @@
     {
       "name": "WarpedNetherbrick",
       "type": "item",
-      "sortid": 160,
+      "sortid": 90,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1647,7 +1629,7 @@
     {
       "name": "WarpedNetherbrickRecipe",
       "type": "recipe",
-      "sortid": 161,
+      "sortid": 331,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1656,7 +1638,7 @@
     {
       "name": "WarpedNetherbricks",
       "type": "block",
-      "sortid": 162,
+      "sortid": 150,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1665,7 +1647,7 @@
     {
       "name": "WarpedNetherBricksRecipe",
       "type": "recipe",
-      "sortid": 163,
+      "sortid": 332,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1674,7 +1656,7 @@
     {
       "name": "PolishedBasalt",
       "type": "block",
-      "sortid": 164,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1683,7 +1665,7 @@
     {
       "name": "PolishedBasaltRecipe",
       "type": "recipe",
-      "sortid": 165,
+      "sortid": 333,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1692,7 +1674,7 @@
     {
       "name": "BasaltBricks",
       "type": "block",
-      "sortid": 166,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1701,7 +1683,7 @@
     {
       "name": "BasaltBricksRecipe",
       "type": "recipe",
-      "sortid": 167,
+      "sortid": 334,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1710,7 +1692,7 @@
     {
       "name": "WarpedNylium2UpdateTick",
       "type": "procedure",
-      "sortid": 187,
+      "sortid": 335,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1739,7 +1721,7 @@
     {
       "name": "WarpedNetherrackUpdateTick",
       "type": "procedure",
-      "sortid": 188,
+      "sortid": 336,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1768,7 +1750,7 @@
     {
       "name": "ColdBasalt",
       "type": "block",
-      "sortid": 189,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1777,7 +1759,7 @@
     {
       "name": "PolishedColdBasalt",
       "type": "block",
-      "sortid": 190,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1786,7 +1768,7 @@
     {
       "name": "SmoothBasalt",
       "type": "block",
-      "sortid": 191,
+      "sortid": 52,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1795,7 +1777,7 @@
     {
       "name": "PolishedColdBasaltRecipe",
       "type": "recipe",
-      "sortid": 192,
+      "sortid": 337,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1804,7 +1786,7 @@
     {
       "name": "SmoothColdBasaltRecipe",
       "type": "recipe",
-      "sortid": 193,
+      "sortid": 338,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1813,7 +1795,7 @@
     {
       "name": "ColdBasaltPanel",
       "type": "block",
-      "sortid": 194,
+      "sortid": 53,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1822,7 +1804,7 @@
     {
       "name": "ColdBasaltPanelRecipe",
       "type": "recipe",
-      "sortid": 195,
+      "sortid": 339,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1831,7 +1813,7 @@
     {
       "name": "ColdBasaltBricks",
       "type": "block",
-      "sortid": 196,
+      "sortid": 54,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1840,7 +1822,7 @@
     {
       "name": "ColdBasaltBricksRecipe",
       "type": "recipe",
-      "sortid": 197,
+      "sortid": 340,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1849,7 +1831,7 @@
     {
       "name": "CobbledColdBasalt",
       "type": "block",
-      "sortid": 198,
+      "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1858,7 +1840,7 @@
     {
       "name": "SmoothCobbledColdBasalt",
       "type": "block",
-      "sortid": 199,
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1867,7 +1849,7 @@
     {
       "name": "SmoothCobbledColdBasaltRecipe",
       "type": "recipe",
-      "sortid": 200,
+      "sortid": 341,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1876,7 +1858,7 @@
     {
       "name": "SmoothCobbledColdBasaltPanel",
       "type": "block",
-      "sortid": 201,
+      "sortid": 57,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1885,7 +1867,7 @@
     {
       "name": "SmoothCobbledColdBasaltPanelRecipe",
       "type": "recipe",
-      "sortid": 202,
+      "sortid": 342,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1894,7 +1876,7 @@
     {
       "name": "HotBasalt",
       "type": "block",
-      "sortid": 203,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1903,7 +1885,7 @@
     {
       "name": "PolishedHotBasalt",
       "type": "block",
-      "sortid": 204,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1912,7 +1894,7 @@
     {
       "name": "PolisherdHotBasaltRecipe",
       "type": "recipe",
-      "sortid": 205,
+      "sortid": 343,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1921,7 +1903,7 @@
     {
       "name": "SmoothHotBasalt",
       "type": "block",
-      "sortid": 206,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1930,7 +1912,7 @@
     {
       "name": "SmoothHotBasaltRecipe",
       "type": "recipe",
-      "sortid": 207,
+      "sortid": 344,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1939,7 +1921,7 @@
     {
       "name": "HotBasaltPanel",
       "type": "block",
-      "sortid": 208,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1948,7 +1930,7 @@
     {
       "name": "HotBasaltPanelRecipe",
       "type": "recipe",
-      "sortid": 209,
+      "sortid": 345,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1957,7 +1939,7 @@
     {
       "name": "HotBasaltBricks",
       "type": "block",
-      "sortid": 210,
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1966,7 +1948,7 @@
     {
       "name": "HotBasaltBricksRecipe",
       "type": "recipe",
-      "sortid": 211,
+      "sortid": 346,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1975,7 +1957,7 @@
     {
       "name": "CobbledHotBasalt",
       "type": "block",
-      "sortid": 212,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1984,7 +1966,7 @@
     {
       "name": "SmoothCobbledHotBasalt",
       "type": "block",
-      "sortid": 213,
+      "sortid": 64,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1993,7 +1975,7 @@
     {
       "name": "SmoothCobbledHotBasaltRecipe",
       "type": "recipe",
-      "sortid": 214,
+      "sortid": 347,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2002,7 +1984,7 @@
     {
       "name": "SmoothCobbledHotBasaltPanel",
       "type": "block",
-      "sortid": 215,
+      "sortid": 65,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2011,7 +1993,7 @@
     {
       "name": "SmoothCobbledHotBasaltPanelRecipe",
       "type": "recipe",
-      "sortid": 216,
+      "sortid": 348,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2020,7 +2002,7 @@
     {
       "name": "NetherIronOre",
       "type": "block",
-      "sortid": 217,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2029,7 +2011,7 @@
     {
       "name": "StriderMilkFoodEaten",
       "type": "procedure",
-      "sortid": 218,
+      "sortid": 349,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2046,7 +2028,7 @@
     {
       "name": "StriderMilk",
       "type": "food",
-      "sortid": 218,
+      "sortid": 198,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2055,7 +2037,7 @@
     {
       "name": "SoupaMagicaFoodEaten",
       "type": "procedure",
-      "sortid": 219,
+      "sortid": 350,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2072,7 +2054,7 @@
     {
       "name": "SoupaMagica",
       "type": "food",
-      "sortid": 219,
+      "sortid": 199,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2081,7 +2063,7 @@
     {
       "name": "StriderMilk2SoupaMagica",
       "type": "recipe",
-      "sortid": 221,
+      "sortid": 351,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2090,7 +2072,7 @@
     {
       "name": "HellCoal",
       "type": "item",
-      "sortid": 222,
+      "sortid": 91,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2099,7 +2081,7 @@
     {
       "name": "HellCoalFuel",
       "type": "fuel",
-      "sortid": 223,
+      "sortid": 352,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2108,7 +2090,7 @@
     {
       "name": "NetherIronOreLoot",
       "type": "loottable",
-      "sortid": 225,
+      "sortid": 353,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2117,7 +2099,7 @@
     {
       "name": "BlackMushroom",
       "type": "plant",
-      "sortid": 226,
+      "sortid": 19,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2126,7 +2108,7 @@
     {
       "name": "RedMushroom",
       "type": "plant",
-      "sortid": 227,
+      "sortid": 20,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2135,7 +2117,7 @@
     {
       "name": "MushroomStewHell",
       "type": "recipe",
-      "sortid": 228,
+      "sortid": 354,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2144,7 +2126,7 @@
     {
       "name": "HellCoalOre",
       "type": "block",
-      "sortid": 229,
+      "sortid": 116,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2153,7 +2135,7 @@
     {
       "name": "PolishedStone",
       "type": "block",
-      "sortid": 230,
+      "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2162,7 +2144,7 @@
     {
       "name": "PolishedStoneRecipe",
       "type": "recipe",
-      "sortid": 231,
+      "sortid": 355,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2171,7 +2153,7 @@
     {
       "name": "PolishedStone2StoneBricks",
       "type": "recipe",
-      "sortid": 232,
+      "sortid": 356,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2180,7 +2162,7 @@
     {
       "name": "SulphurQuartz",
       "type": "item",
-      "sortid": 233,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2189,7 +2171,7 @@
     {
       "name": "SulphurQuartzOre",
       "type": "block",
-      "sortid": 234,
+      "sortid": 117,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2198,7 +2180,7 @@
     {
       "name": "BlockOfSulphurQuartz",
       "type": "block",
-      "sortid": 235,
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2207,7 +2189,7 @@
     {
       "name": "BlockOfSulphurQuartzRecipe",
       "type": "recipe",
-      "sortid": 236,
+      "sortid": 357,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2216,7 +2198,7 @@
     {
       "name": "SulphurQuartzStairs",
       "type": "block",
-      "sortid": 237,
+      "sortid": 152,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2225,7 +2207,7 @@
     {
       "name": "BlockOfSulphurQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 238,
+      "sortid": 358,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2234,7 +2216,7 @@
     {
       "name": "SulphurQuartzSlab",
       "type": "block",
-      "sortid": 239,
+      "sortid": 153,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2243,7 +2225,7 @@
     {
       "name": "SulphurQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 240,
+      "sortid": 359,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2252,7 +2234,7 @@
     {
       "name": "ChiseledSulphurQuartz",
       "type": "block",
-      "sortid": 241,
+      "sortid": 154,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2261,7 +2243,7 @@
     {
       "name": "ChiseledSulphurQuartzRecipe",
       "type": "recipe",
-      "sortid": 242,
+      "sortid": 360,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2270,7 +2252,7 @@
     {
       "name": "SulphurQuartzPillar",
       "type": "block",
-      "sortid": 243,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2279,7 +2261,7 @@
     {
       "name": "SulphurQuartzPillarRecipe",
       "type": "recipe",
-      "sortid": 244,
+      "sortid": 361,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2288,7 +2270,7 @@
     {
       "name": "SulphurQuartzBricks",
       "type": "block",
-      "sortid": 245,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2297,7 +2279,7 @@
     {
       "name": "SulphurQuartzBricksRecipe",
       "type": "recipe",
-      "sortid": 246,
+      "sortid": 362,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2306,7 +2288,7 @@
     {
       "name": "SmoothSulphurQuartz",
       "type": "block",
-      "sortid": 247,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2315,7 +2297,7 @@
     {
       "name": "SmoothSulphurQuartzRecipe",
       "type": "recipe",
-      "sortid": 248,
+      "sortid": 363,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2324,7 +2306,7 @@
     {
       "name": "SmoothSulphurQuartzStairs",
       "type": "block",
-      "sortid": 249,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2333,7 +2315,7 @@
     {
       "name": "SmoothSulphurQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 250,
+      "sortid": 364,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2342,7 +2324,7 @@
     {
       "name": "SmoothSulphurQuartzSlab",
       "type": "block",
-      "sortid": 251,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2351,7 +2333,7 @@
     {
       "name": "SmoothSulphurQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 252,
+      "sortid": 365,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2360,7 +2342,7 @@
     {
       "name": "SulphuredBasalt",
       "type": "block",
-      "sortid": 253,
+      "sortid": 160,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2369,7 +2351,7 @@
     {
       "name": "SulphurDust",
       "type": "item",
-      "sortid": 254,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2378,7 +2360,7 @@
     {
       "name": "SulphurDust2Sulphur",
       "type": "recipe",
-      "sortid": 255,
+      "sortid": 366,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2387,7 +2369,7 @@
     {
       "name": "SulphuredBasaltLootTable",
       "type": "loottable",
-      "sortid": 256,
+      "sortid": 367,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2396,7 +2378,7 @@
     {
       "name": "BonePlant",
       "type": "plant",
-      "sortid": 257,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2405,7 +2387,7 @@
     {
       "name": "DisturbedSoulSand",
       "type": "block",
-      "sortid": 258,
+      "sortid": 161,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2414,7 +2396,7 @@
     {
       "name": "SoulStone",
       "type": "block",
-      "sortid": 259,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2423,7 +2405,7 @@
     {
       "name": "PolishedSoulStone",
       "type": "block",
-      "sortid": 260,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2432,7 +2414,7 @@
     {
       "name": "PolishedSoulStoneRecipe",
       "type": "recipe",
-      "sortid": 261,
+      "sortid": 368,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2441,7 +2423,7 @@
     {
       "name": "SoulStoneBricks",
       "type": "block",
-      "sortid": 262,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2450,7 +2432,7 @@
     {
       "name": "SoulStoneBricksRecipe",
       "type": "recipe",
-      "sortid": 263,
+      "sortid": 369,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2459,7 +2441,7 @@
     {
       "name": "NetherDirt",
       "type": "block",
-      "sortid": 264,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2468,7 +2450,7 @@
     {
       "name": "NetherGrass",
       "type": "block",
-      "sortid": 265,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2477,7 +2459,7 @@
     {
       "name": "NetherGrass2",
       "type": "block",
-      "sortid": 266,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2486,7 +2468,7 @@
     {
       "name": "Soul",
       "type": "item",
-      "sortid": 267,
+      "sortid": 94,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2495,7 +2477,7 @@
     {
       "name": "SoulOrb",
       "type": "item",
-      "sortid": 268,
+      "sortid": 95,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2504,7 +2486,7 @@
     {
       "name": "SoulorbRecipe",
       "type": "recipe",
-      "sortid": 269,
+      "sortid": 370,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2513,7 +2495,7 @@
     {
       "name": "SoulScythe",
       "type": "tool",
-      "sortid": 270,
+      "sortid": 234,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2522,7 +2504,7 @@
     {
       "name": "SoulScytheRecipe",
       "type": "recipe",
-      "sortid": 271,
+      "sortid": 371,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2531,7 +2513,7 @@
     {
       "name": "RAWhOGCHOP",
       "type": "food",
-      "sortid": 272,
+      "sortid": 200,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2540,7 +2522,7 @@
     {
       "name": "CookedHogchop",
       "type": "food",
-      "sortid": 273,
+      "sortid": 201,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2549,7 +2531,7 @@
     {
       "name": "CookedHogchopRecipe",
       "type": "recipe",
-      "sortid": 274,
+      "sortid": 372,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2558,7 +2540,7 @@
     {
       "name": "CookedHogchopSmokerRecipe",
       "type": "recipe",
-      "sortid": 275,
+      "sortid": 373,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2567,7 +2549,7 @@
     {
       "name": "CookedHogchopCampfireRecipe",
       "type": "recipe",
-      "sortid": 276,
+      "sortid": 374,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2576,7 +2558,7 @@
     {
       "name": "NetherCactus2PaperRecipe",
       "type": "recipe",
-      "sortid": 278,
+      "sortid": 375,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2585,7 +2567,7 @@
     {
       "name": "SoulBeast",
       "type": "livingentity",
-      "sortid": 279,
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2594,7 +2576,7 @@
     {
       "name": "IronCluster",
       "type": "item",
-      "sortid": 280,
+      "sortid": 96,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2603,7 +2585,7 @@
     {
       "name": "IronCluster2IronIngo",
       "type": "recipe",
-      "sortid": 281,
+      "sortid": 376,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2612,7 +2594,7 @@
     {
       "name": "GoldCluster",
       "type": "item",
-      "sortid": 282,
+      "sortid": 97,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2621,7 +2603,7 @@
     {
       "name": "GoldCluster2Gold",
       "type": "recipe",
-      "sortid": 283,
+      "sortid": 377,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2630,7 +2612,7 @@
     {
       "name": "NetherGold",
       "type": "loottable",
-      "sortid": 284,
+      "sortid": 378,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2639,7 +2621,7 @@
     {
       "name": "SOTMFoods",
       "type": "tab",
-      "sortid": 285,
+      "sortid": 379,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2648,7 +2630,7 @@
     {
       "name": "SoulSalt",
       "type": "item",
-      "sortid": 286,
+      "sortid": 98,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2657,7 +2639,7 @@
     {
       "name": "CuredJerky",
       "type": "food",
-      "sortid": 287,
+      "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2666,7 +2648,7 @@
     {
       "name": "RottenFlesh2CuredMeat",
       "type": "recipe",
-      "sortid": 288,
+      "sortid": 380,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2675,7 +2657,7 @@
     {
       "name": "SoulBeastLoot",
       "type": "loottable",
-      "sortid": 289,
+      "sortid": 381,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2684,7 +2666,7 @@
     {
       "name": "VenomVines",
       "type": "plant",
-      "sortid": 290,
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2693,7 +2675,7 @@
     {
       "name": "VenomBerries",
       "type": "food",
-      "sortid": 291,
+      "sortid": 203,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2702,7 +2684,7 @@
     {
       "name": "VenomBerriesFoodEaten",
       "type": "procedure",
-      "sortid": 292,
+      "sortid": 382,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2719,7 +2701,7 @@
     {
       "name": "NetherGeyserEntityWalksOnTheBlock",
       "type": "procedure",
-      "sortid": 294,
+      "sortid": 383,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2736,7 +2718,7 @@
     {
       "name": "NetherGeyser",
       "type": "block",
-      "sortid": 294,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2745,7 +2727,7 @@
     {
       "name": "BasaltGeyser",
       "type": "block",
-      "sortid": 295,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2754,7 +2736,7 @@
     {
       "name": "Hoglin",
       "type": "loottable",
-      "sortid": 296,
+      "sortid": 384,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2763,7 +2745,7 @@
     {
       "name": "FlyingWitherSkull",
       "type": "livingentity",
-      "sortid": 297,
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2772,7 +2754,7 @@
     {
       "name": "SoulQuartz",
       "type": "item",
-      "sortid": 298,
+      "sortid": 99,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2781,7 +2763,7 @@
     {
       "name": "SoulQuartzOre",
       "type": "block",
-      "sortid": 299,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2790,7 +2772,7 @@
     {
       "name": "BlockOfSoulQuartz",
       "type": "block",
-      "sortid": 300,
+      "sortid": 167,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2799,7 +2781,7 @@
     {
       "name": "BlockOfSoulQuartzRecipe",
       "type": "recipe",
-      "sortid": 301,
+      "sortid": 385,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2808,7 +2790,7 @@
     {
       "name": "SoulQuartzStairs",
       "type": "block",
-      "sortid": 302,
+      "sortid": 168,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2817,7 +2799,7 @@
     {
       "name": "SoulQuartzStairsrecipe",
       "type": "recipe",
-      "sortid": 303,
+      "sortid": 386,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2826,7 +2808,7 @@
     {
       "name": "SoulQuartzSlab",
       "type": "block",
-      "sortid": 304,
+      "sortid": 169,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2835,7 +2817,7 @@
     {
       "name": "SoulQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 305,
+      "sortid": 387,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2844,7 +2826,7 @@
     {
       "name": "ChiseledSoulQuartz",
       "type": "block",
-      "sortid": 306,
+      "sortid": 170,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2853,7 +2835,7 @@
     {
       "name": "ChiseledSoulQuartzRecipe",
       "type": "recipe",
-      "sortid": 307,
+      "sortid": 388,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2862,7 +2844,7 @@
     {
       "name": "SoulQuartzPillar",
       "type": "block",
-      "sortid": 308,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2871,7 +2853,7 @@
     {
       "name": "SoulQuartzPillarRecipe",
       "type": "recipe",
-      "sortid": 309,
+      "sortid": 389,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2880,7 +2862,7 @@
     {
       "name": "SoulQuartzBricks",
       "type": "block",
-      "sortid": 310,
+      "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2889,7 +2871,7 @@
     {
       "name": "SoulQuartzBricksRecipe",
       "type": "recipe",
-      "sortid": 311,
+      "sortid": 390,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2898,7 +2880,7 @@
     {
       "name": "SmoothSoulQuartz",
       "type": "block",
-      "sortid": 312,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2907,7 +2889,7 @@
     {
       "name": "SmoothSoulQuartzRecipe",
       "type": "recipe",
-      "sortid": 313,
+      "sortid": 391,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2916,7 +2898,7 @@
     {
       "name": "SmoothSoulQuartzStairs",
       "type": "block",
-      "sortid": 314,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2925,7 +2907,7 @@
     {
       "name": "SmoothSoulQuartzStairsRecipe",
       "type": "recipe",
-      "sortid": 315,
+      "sortid": 392,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2934,7 +2916,7 @@
     {
       "name": "SmoothSoulQuartzSlab",
       "type": "block",
-      "sortid": 316,
+      "sortid": 175,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2943,7 +2925,7 @@
     {
       "name": "SmoothSoulQuartzSlabRecipe",
       "type": "recipe",
-      "sortid": 317,
+      "sortid": 393,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2952,7 +2934,7 @@
     {
       "name": "CrimsonBerries",
       "type": "food",
-      "sortid": 318,
+      "sortid": 204,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2961,7 +2943,7 @@
     {
       "name": "CrimsonBerriesRoots",
       "type": "plant",
-      "sortid": 319,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2970,7 +2952,7 @@
     {
       "name": "WarpedBerries",
       "type": "food",
-      "sortid": 320,
+      "sortid": 205,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2979,7 +2961,7 @@
     {
       "name": "WarpedBerryRoots",
       "type": "plant",
-      "sortid": 321,
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2988,7 +2970,7 @@
     {
       "name": "Ghost",
       "type": "livingentity",
-      "sortid": 322,
+      "sortid": 5,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -2997,7 +2979,7 @@
     {
       "name": "Ghoul",
       "type": "livingentity",
-      "sortid": 323,
+      "sortid": 6,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3006,7 +2988,7 @@
     {
       "name": "SoulSlate",
       "type": "block",
-      "sortid": 324,
+      "sortid": 69,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3015,7 +2997,7 @@
     {
       "name": "PolishedSoulSlate",
       "type": "block",
-      "sortid": 325,
+      "sortid": 70,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3024,7 +3006,7 @@
     {
       "name": "PolishedSoulSlateRecipe",
       "type": "recipe",
-      "sortid": 326,
+      "sortid": 394,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3033,7 +3015,7 @@
     {
       "name": "PolishedSoulSlateSCRecipe",
       "type": "recipe",
-      "sortid": 327,
+      "sortid": 395,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3042,7 +3024,7 @@
     {
       "name": "SoulSlateBrick",
       "type": "block",
-      "sortid": 328,
+      "sortid": 71,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3051,7 +3033,7 @@
     {
       "name": "SoulSlateBricksRecipe",
       "type": "recipe",
-      "sortid": 329,
+      "sortid": 396,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3060,7 +3042,7 @@
     {
       "name": "SoulSlateBricksaSCRecipe",
       "type": "recipe",
-      "sortid": 330,
+      "sortid": 397,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3069,7 +3051,7 @@
     {
       "name": "ChiseledSoulSlate",
       "type": "block",
-      "sortid": 331,
+      "sortid": 72,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3078,7 +3060,7 @@
     {
       "name": "SoulSlateBricksStairsRecipe",
       "type": "block",
-      "sortid": 332,
+      "sortid": 73,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3087,7 +3069,7 @@
     {
       "name": "SoulSlateBrickStairsRecipe",
       "type": "recipe",
-      "sortid": 333,
+      "sortid": 398,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3096,7 +3078,7 @@
     {
       "name": "SoulSlateBrickStairsSCRecipe1",
       "type": "recipe",
-      "sortid": 334,
+      "sortid": 399,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3105,7 +3087,7 @@
     {
       "name": "SoulSlateBrickStairsRecipe2",
       "type": "recipe",
-      "sortid": 335,
+      "sortid": 400,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3114,7 +3096,7 @@
     {
       "name": "SoulSlateBrickSlab",
       "type": "block",
-      "sortid": 336,
+      "sortid": 74,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3123,7 +3105,7 @@
     {
       "name": "SoulSlateBrickSlabRecipe",
       "type": "recipe",
-      "sortid": 337,
+      "sortid": 401,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3132,7 +3114,7 @@
     {
       "name": "SoulSlateBrickSlabSCRecipe1",
       "type": "recipe",
-      "sortid": 338,
+      "sortid": 402,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3141,7 +3123,7 @@
     {
       "name": "SoulSlateBrickSlabSCRecipe2",
       "type": "recipe",
-      "sortid": 339,
+      "sortid": 403,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3150,7 +3132,7 @@
     {
       "name": "PolishedSoulSlateStairs",
       "type": "block",
-      "sortid": 340,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3159,7 +3141,7 @@
     {
       "name": "PolishedSoulSlateStairsRecipe",
       "type": "recipe",
-      "sortid": 341,
+      "sortid": 404,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3168,7 +3150,7 @@
     {
       "name": "PolishedSoulSlateStairsSCRecipe",
       "type": "recipe",
-      "sortid": 342,
+      "sortid": 405,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3177,7 +3159,7 @@
     {
       "name": "PolishedSoulSlateSCRecipe2",
       "type": "recipe",
-      "sortid": 343,
+      "sortid": 406,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3186,7 +3168,7 @@
     {
       "name": "PolishedSoulSlateSlab",
       "type": "block",
-      "sortid": 344,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3195,7 +3177,7 @@
     {
       "name": "PolishedSoulSlateSlabRecipe",
       "type": "recipe",
-      "sortid": 345,
+      "sortid": 407,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3204,7 +3186,7 @@
     {
       "name": "PolishedSoulSlateSlabSCRecipe1",
       "type": "recipe",
-      "sortid": 346,
+      "sortid": 408,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3213,7 +3195,7 @@
     {
       "name": "PolishedSoulSlateSlabSCRecipe2",
       "type": "recipe",
-      "sortid": 347,
+      "sortid": 409,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3222,7 +3204,7 @@
     {
       "name": "ChiseledSoulSlateRecipe",
       "type": "recipe",
-      "sortid": 348,
+      "sortid": 410,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3231,7 +3213,7 @@
     {
       "name": "ChiseledSoulSlateSCRecipe",
       "type": "recipe",
-      "sortid": 349,
+      "sortid": 411,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3240,7 +3222,7 @@
     {
       "name": "ChiseledSoulSlateSCRecipe2",
       "type": "recipe",
-      "sortid": 350,
+      "sortid": 412,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3249,7 +3231,7 @@
     {
       "name": "SkeletonCreeper",
       "type": "livingentity",
-      "sortid": 351,
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3258,7 +3240,7 @@
     {
       "name": "SkeletonCreeperloot",
       "type": "loottable",
-      "sortid": 352,
+      "sortid": 413,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3267,7 +3249,7 @@
     {
       "name": "HoglinLeather",
       "type": "item",
-      "sortid": 353,
+      "sortid": 100,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3276,7 +3258,7 @@
     {
       "name": "HoglinLeather2Leather",
       "type": "recipe",
-      "sortid": 354,
+      "sortid": 414,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3285,7 +3267,7 @@
     {
       "name": "Amberr",
       "type": "item",
-      "sortid": 355,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3294,7 +3276,7 @@
     {
       "name": "AmberrOre",
       "type": "block",
-      "sortid": 356,
+      "sortid": 119,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3303,7 +3285,7 @@
     {
       "name": "AmberrBlock",
       "type": "block",
-      "sortid": 357,
+      "sortid": 176,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3312,7 +3294,7 @@
     {
       "name": "AmberrOreBlockRecipe",
       "type": "recipe",
-      "sortid": 358,
+      "sortid": 415,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3321,7 +3303,7 @@
     {
       "name": "AmberrBlockOreRecipe",
       "type": "recipe",
-      "sortid": 359,
+      "sortid": 416,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3330,7 +3312,7 @@
     {
       "name": "AmberrOreSmelting",
       "type": "recipe",
-      "sortid": 360,
+      "sortid": 417,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3339,7 +3321,7 @@
     {
       "name": "AmberrPickaxe",
       "type": "tool",
-      "sortid": 361,
+      "sortid": 235,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3348,7 +3330,7 @@
     {
       "name": "AmberrAxe",
       "type": "tool",
-      "sortid": 362,
+      "sortid": 236,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3357,7 +3339,7 @@
     {
       "name": "AmberrSword",
       "type": "tool",
-      "sortid": 363,
+      "sortid": 237,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3366,7 +3348,7 @@
     {
       "name": "AmberrShovel",
       "type": "tool",
-      "sortid": 364,
+      "sortid": 238,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3375,7 +3357,7 @@
     {
       "name": "AmberrHoe",
       "type": "tool",
-      "sortid": 365,
+      "sortid": 239,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3384,7 +3366,7 @@
     {
       "name": "AmberrPickaxeRecipe",
       "type": "recipe",
-      "sortid": 366,
+      "sortid": 418,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3393,7 +3375,7 @@
     {
       "name": "AmberrAxeRecipe",
       "type": "recipe",
-      "sortid": 367,
+      "sortid": 419,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3402,7 +3384,7 @@
     {
       "name": "AmberrSwordRecipe",
       "type": "recipe",
-      "sortid": 368,
+      "sortid": 420,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3411,7 +3393,7 @@
     {
       "name": "AmberrShovelRecipe",
       "type": "recipe",
-      "sortid": 369,
+      "sortid": 421,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3420,7 +3402,7 @@
     {
       "name": "AmberrHoeRecipe",
       "type": "recipe",
-      "sortid": 370,
+      "sortid": 422,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3429,7 +3411,7 @@
     {
       "name": "AmberrArmor",
       "type": "armor",
-      "sortid": 371,
+      "sortid": 240,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3444,7 +3426,7 @@
     {
       "name": "AmberrArmorHelmetRecipe",
       "type": "recipe",
-      "sortid": 372,
+      "sortid": 423,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3453,7 +3435,7 @@
     {
       "name": "AmberrArmorBodyRecipe",
       "type": "recipe",
-      "sortid": 373,
+      "sortid": 424,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3462,7 +3444,7 @@
     {
       "name": "AmberrArmorLeggingsRecipe",
       "type": "recipe",
-      "sortid": 374,
+      "sortid": 425,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3471,7 +3453,7 @@
     {
       "name": "AmberrArmorBootsRecipe",
       "type": "recipe",
-      "sortid": 375,
+      "sortid": 426,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3480,7 +3462,7 @@
     {
       "name": "StuffedBread",
       "type": "food",
-      "sortid": 376,
+      "sortid": 206,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3489,7 +3471,7 @@
     {
       "name": "StuffedBreadRecipe",
       "type": "recipe",
-      "sortid": 377,
+      "sortid": 427,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3498,7 +3480,7 @@
     {
       "name": "ApplePie",
       "type": "food",
-      "sortid": 378,
+      "sortid": 207,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3507,7 +3489,7 @@
     {
       "name": "ApplePieRecipe",
       "type": "recipe",
-      "sortid": 379,
+      "sortid": 428,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3516,7 +3498,7 @@
     {
       "name": "BerryPie",
       "type": "food",
-      "sortid": 380,
+      "sortid": 208,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3525,7 +3507,7 @@
     {
       "name": "Berries",
       "type": "tag",
-      "sortid": 381,
+      "sortid": 429,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3534,7 +3516,7 @@
     {
       "name": "BerryPieRecipe",
       "type": "recipe",
-      "sortid": 382,
+      "sortid": 430,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3543,7 +3525,7 @@
     {
       "name": "PumpkinSlice",
       "type": "food",
-      "sortid": 383,
+      "sortid": 209,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3552,7 +3534,7 @@
     {
       "name": "PumpkinGuts",
       "type": "food",
-      "sortid": 384,
+      "sortid": 210,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3561,7 +3543,7 @@
     {
       "name": "PumpkinLoot",
       "type": "loottable",
-      "sortid": 385,
+      "sortid": 431,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3570,7 +3552,7 @@
     {
       "name": "PumpkinPieRecipeRemove",
       "type": "recipe",
-      "sortid": 386,
+      "sortid": 432,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3579,7 +3561,7 @@
     {
       "name": "PumpkinPie",
       "type": "recipe",
-      "sortid": 387,
+      "sortid": 433,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3588,7 +3570,7 @@
     {
       "name": "Flamerack",
       "type": "block",
-      "sortid": 388,
+      "sortid": 177,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3597,7 +3579,7 @@
     {
       "name": "FlameNetherbrick",
       "type": "item",
-      "sortid": 389,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3606,7 +3588,7 @@
     {
       "name": "FlameNetherBricks",
       "type": "block",
-      "sortid": 390,
+      "sortid": 178,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3615,7 +3597,7 @@
     {
       "name": "FlameNetherBrickRecipe",
       "type": "recipe",
-      "sortid": 391,
+      "sortid": 434,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3624,7 +3606,7 @@
     {
       "name": "FlameNetherBricksRecipe",
       "type": "recipe",
-      "sortid": 392,
+      "sortid": 435,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3633,7 +3615,7 @@
     {
       "name": "Darkrack",
       "type": "block",
-      "sortid": 393,
+      "sortid": 179,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3642,7 +3624,7 @@
     {
       "name": "DarkNetherBrick",
       "type": "item",
-      "sortid": 394,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3651,7 +3633,7 @@
     {
       "name": "DarkNetherBricks",
       "type": "block",
-      "sortid": 395,
+      "sortid": 180,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3660,7 +3642,7 @@
     {
       "name": "DarkNetherBrickRecipe",
       "type": "recipe",
-      "sortid": 396,
+      "sortid": 436,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3669,7 +3651,7 @@
     {
       "name": "DarkNetherBricksRecipe",
       "type": "recipe",
-      "sortid": 397,
+      "sortid": 437,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3678,7 +3660,7 @@
     {
       "name": "MagmaPumice",
       "type": "block",
-      "sortid": 398,
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3687,7 +3669,7 @@
     {
       "name": "MagmaPumiceEntityWalksOnTheBlock",
       "type": "procedure",
-      "sortid": 399,
+      "sortid": 438,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3704,7 +3686,7 @@
     {
       "name": "MagmaPumiceOnBlockRightClicked",
       "type": "procedure",
-      "sortid": 400,
+      "sortid": 439,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3737,7 +3719,7 @@
     {
       "name": "WitherBone",
       "type": "item",
-      "sortid": 401,
+      "sortid": 104,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3746,7 +3728,7 @@
     {
       "name": "WitherSkeleton",
       "type": "loottable",
-      "sortid": 402,
+      "sortid": 440,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3755,7 +3737,7 @@
     {
       "name": "WitherPowder",
       "type": "item",
-      "sortid": 403,
+      "sortid": 105,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3764,7 +3746,7 @@
     {
       "name": "WitherPowderRecipe",
       "type": "recipe",
-      "sortid": 404,
+      "sortid": 441,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3773,7 +3755,7 @@
     {
       "name": "WitherPotion",
       "type": "potion",
-      "sortid": 405,
+      "sortid": 442,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3782,7 +3764,7 @@
     {
       "name": "WitherPotionRecipe",
       "type": "recipe",
-      "sortid": 406,
+      "sortid": 443,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3791,7 +3773,7 @@
     {
       "name": "NetherWartPlant",
       "type": "plant",
-      "sortid": 407,
+      "sortid": 25,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3800,7 +3782,7 @@
     {
       "name": "WarpedNetherWartPlant",
       "type": "plant",
-      "sortid": 408,
+      "sortid": 26,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3809,7 +3791,7 @@
     {
       "name": "WarpedNetherWart",
       "type": "item",
-      "sortid": 409,
+      "sortid": 106,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3818,7 +3800,7 @@
     {
       "name": "CrackledNetherWart",
       "type": "food",
-      "sortid": 410,
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3827,7 +3809,7 @@
     {
       "name": "WarpedCrackledNetherWart",
       "type": "food",
-      "sortid": 411,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3836,7 +3818,7 @@
     {
       "name": "CrackledNetherWartRecipe",
       "type": "recipe",
-      "sortid": 412,
+      "sortid": 444,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3845,7 +3827,7 @@
     {
       "name": "WarpedCrackledNetherWartRecipe",
       "type": "recipe",
-      "sortid": 413,
+      "sortid": 445,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3854,7 +3836,7 @@
     {
       "name": "BasaltPaper",
       "type": "item",
-      "sortid": 414,
+      "sortid": 107,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3863,7 +3845,7 @@
     {
       "name": "GlowBug",
       "type": "livingentity",
-      "sortid": 414,
+      "sortid": 8,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3872,7 +3854,7 @@
     {
       "name": "BasaltPaper2Book",
       "type": "recipe",
-      "sortid": 415,
+      "sortid": 446,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3881,7 +3863,7 @@
     {
       "name": "BasaltPaper2Map",
       "type": "recipe",
-      "sortid": 416,
+      "sortid": 447,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3890,7 +3872,7 @@
     {
       "name": "CartographyTableRecipe2",
       "type": "recipe",
-      "sortid": 417,
+      "sortid": 448,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3899,7 +3881,7 @@
     {
       "name": "BasaltPaper2PaperRecipe",
       "type": "recipe",
-      "sortid": 418,
+      "sortid": 449,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3908,7 +3890,7 @@
     {
       "name": "DarkNetherBricksFence",
       "type": "block",
-      "sortid": 419,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3917,7 +3899,7 @@
     {
       "name": "FlameNetherBrickFence",
       "type": "block",
-      "sortid": 420,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3926,7 +3908,7 @@
     {
       "name": "RedNetherBrickFence",
       "type": "block",
-      "sortid": 421,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3935,7 +3917,7 @@
     {
       "name": "DarkNetherBrickFenceRecipe",
       "type": "recipe",
-      "sortid": 422,
+      "sortid": 450,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3944,7 +3926,7 @@
     {
       "name": "FlameNetherBrickFenceRecipe",
       "type": "recipe",
-      "sortid": 423,
+      "sortid": 451,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3953,7 +3935,7 @@
     {
       "name": "RedNetherBricksRecipe",
       "type": "recipe",
-      "sortid": 424,
+      "sortid": 452,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3962,7 +3944,7 @@
     {
       "name": "BlueNetherBrickFenceRecipe",
       "type": "recipe",
-      "sortid": 425,
+      "sortid": 453,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3971,7 +3953,7 @@
     {
       "name": "BlueNetherBrickFence",
       "type": "block",
-      "sortid": 426,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3980,7 +3962,7 @@
     {
       "name": "DarkNetherBrickGate",
       "type": "block",
-      "sortid": 427,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3989,7 +3971,7 @@
     {
       "name": "DarkNetherFenceGateRecipe",
       "type": "recipe",
-      "sortid": 428,
+      "sortid": 454,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -3998,7 +3980,7 @@
     {
       "name": "FlameNetherBrickFenceGate",
       "type": "block",
-      "sortid": 429,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4007,7 +3989,7 @@
     {
       "name": "FlameNetherBrickFenceGateRecipe",
       "type": "recipe",
-      "sortid": 430,
+      "sortid": 455,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4016,7 +3998,7 @@
     {
       "name": "RedNetherBrickFenceGate",
       "type": "block",
-      "sortid": 431,
+      "sortid": 222,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4025,7 +4007,7 @@
     {
       "name": "RedNetherBrickFenceGateRecipe",
       "type": "recipe",
-      "sortid": 432,
+      "sortid": 456,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4034,7 +4016,7 @@
     {
       "name": "BlueNetherBrickFenceGate",
       "type": "block",
-      "sortid": 433,
+      "sortid": 223,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4043,7 +4025,7 @@
     {
       "name": "BlueNetherBrickFenceGateRecipe",
       "type": "recipe",
-      "sortid": 434,
+      "sortid": 457,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4052,7 +4034,7 @@
     {
       "name": "DarkNetherBrickWall",
       "type": "block",
-      "sortid": 435,
+      "sortid": 224,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4061,7 +4043,7 @@
     {
       "name": "DarkNetherBrickWallRecipe",
       "type": "recipe",
-      "sortid": 436,
+      "sortid": 458,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4070,7 +4052,7 @@
     {
       "name": "FlameNetherBrickWall",
       "type": "block",
-      "sortid": 437,
+      "sortid": 225,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4079,7 +4061,7 @@
     {
       "name": "FlameNetherBrickWallRecipe",
       "type": "recipe",
-      "sortid": 438,
+      "sortid": 459,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4088,7 +4070,7 @@
     {
       "name": "BlueNetherBrickWall",
       "type": "block",
-      "sortid": 439,
+      "sortid": 226,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4097,7 +4079,7 @@
     {
       "name": "BlueNetherBrickWallRecipe",
       "type": "recipe",
-      "sortid": 440,
+      "sortid": 460,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4106,7 +4088,7 @@
     {
       "name": "WarpedNetherBrickStairs",
       "type": "block",
-      "sortid": 441,
+      "sortid": 182,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4115,7 +4097,7 @@
     {
       "name": "WarpedNetherBrickStairsrecipe",
       "type": "recipe",
-      "sortid": 442,
+      "sortid": 461,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4124,7 +4106,7 @@
     {
       "name": "WarpedNetherBrickSlab",
       "type": "block",
-      "sortid": 443,
+      "sortid": 183,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4133,7 +4115,7 @@
     {
       "name": "WarpedNetherBricksSlabRecipe",
       "type": "recipe",
-      "sortid": 444,
+      "sortid": 462,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4142,7 +4124,7 @@
     {
       "name": "FlameNetherBrickStairs",
       "type": "block",
-      "sortid": 445,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4151,7 +4133,7 @@
     {
       "name": "FlameNetherBrickStairsRecipe",
       "type": "recipe",
-      "sortid": 446,
+      "sortid": 463,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4160,7 +4142,7 @@
     {
       "name": "FlameNetherBrickSlab",
       "type": "block",
-      "sortid": 447,
+      "sortid": 185,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4169,7 +4151,7 @@
     {
       "name": "FlameNetherBrickSlabRecipe",
       "type": "recipe",
-      "sortid": 448,
+      "sortid": 464,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4178,7 +4160,7 @@
     {
       "name": "DarkNetherBricksStairs",
       "type": "block",
-      "sortid": 449,
+      "sortid": 186,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4187,7 +4169,7 @@
     {
       "name": "DarkNetherBrickStairsRecipe",
       "type": "recipe",
-      "sortid": 450,
+      "sortid": 465,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4196,7 +4178,7 @@
     {
       "name": "DarkNetherBrickSlab",
       "type": "block",
-      "sortid": 451,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4205,7 +4187,7 @@
     {
       "name": "DarkNetherBrickSlabRecipe",
       "type": "recipe",
-      "sortid": 452,
+      "sortid": 466,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4214,7 +4196,7 @@
     {
       "name": "BakedCrackledNetherwart",
       "type": "food",
-      "sortid": 453,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4223,7 +4205,7 @@
     {
       "name": "BakedCrackledNetherwartRecipe",
       "type": "recipe",
-      "sortid": 454,
+      "sortid": 467,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4232,7 +4214,7 @@
     {
       "name": "BakedCrackledNetherwart2Recipe",
       "type": "recipe",
-      "sortid": 455,
+      "sortid": 468,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4241,7 +4223,7 @@
     {
       "name": "BakedCrackledNetherwartSmokerRecipe",
       "type": "recipe",
-      "sortid": 456,
+      "sortid": 469,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4250,7 +4232,7 @@
     {
       "name": "BakedCrackledNetherwartSmokerRecipe2",
       "type": "recipe",
-      "sortid": 457,
+      "sortid": 470,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4259,7 +4241,7 @@
     {
       "name": "BakedCrackledNetherwartCampfireRecipe",
       "type": "recipe",
-      "sortid": 458,
+      "sortid": 471,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4268,7 +4250,7 @@
     {
       "name": "BakedCrackledNetherwartCampfireRecipe2",
       "type": "recipe",
-      "sortid": 459,
+      "sortid": 472,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4277,7 +4259,7 @@
     {
       "name": "SulphuredNetherWartItem",
       "type": "item",
-      "sortid": 460,
+      "sortid": 108,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4286,7 +4268,7 @@
     {
       "name": "SulphuredNetherWart",
       "type": "plant",
-      "sortid": 460,
+      "sortid": 27,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4295,7 +4277,7 @@
     {
       "name": "SulphuredNetherBricks",
       "type": "block",
-      "sortid": 461,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4304,7 +4286,7 @@
     {
       "name": "SulphuredNetherBrickFence",
       "type": "block",
-      "sortid": 462,
+      "sortid": 227,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4313,7 +4295,7 @@
     {
       "name": "SulphuredNetherBirkcFenceRecipe",
       "type": "recipe",
-      "sortid": 463,
+      "sortid": 473,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4322,7 +4304,7 @@
     {
       "name": "SulphuredNetherBrickfenceGate",
       "type": "block",
-      "sortid": 464,
+      "sortid": 228,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4331,7 +4313,7 @@
     {
       "name": "SulphuredNetherBrickFenceGateRecipe",
       "type": "recipe",
-      "sortid": 465,
+      "sortid": 474,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4340,7 +4322,7 @@
     {
       "name": "SulphuredNetherBrickWallRecipe",
       "type": "recipe",
-      "sortid": 466,
+      "sortid": 475,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4349,7 +4331,7 @@
     {
       "name": "SulphuredNetherBrickWall",
       "type": "block",
-      "sortid": 467,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4358,7 +4340,7 @@
     {
       "name": "SulphuredNetherBrickStairs",
       "type": "block",
-      "sortid": 468,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4367,7 +4349,7 @@
     {
       "name": "SulphuredNetherBrickStairsRecipe",
       "type": "recipe",
-      "sortid": 469,
+      "sortid": 476,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4376,7 +4358,7 @@
     {
       "name": "SulphuredNetherBrickSlab",
       "type": "block",
-      "sortid": 470,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4385,7 +4367,7 @@
     {
       "name": "SulphuredNetherBrickSlabRecipe",
       "type": "recipe",
-      "sortid": 471,
+      "sortid": 477,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4394,7 +4376,7 @@
     {
       "name": "SulphuredNetherBricksRecipe",
       "type": "recipe",
-      "sortid": 472,
+      "sortid": 478,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4403,7 +4385,7 @@
     {
       "name": "SulphuredCrackledNetherWartRecipe",
       "type": "food",
-      "sortid": 473,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4412,7 +4394,7 @@
     {
       "name": "SulphuredCrackledNetherwart",
       "type": "recipe",
-      "sortid": 474,
+      "sortid": 479,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -4421,15 +4403,950 @@
     {
       "name": "BakedCrackledNetherwart3Recipe",
       "type": "recipe",
-      "sortid": 475,
+      "sortid": 480,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "baked_crackled_netherwart_3_recipe"
+    },
+    {
+      "name": "DirtBlocks",
+      "type": "tag",
+      "sortid": 481,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_blocks"
+    },
+    {
+      "name": "LogBlocks",
+      "type": "tag",
+      "sortid": 482,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_blocks"
+    },
+    {
+      "name": "FenceBlocks",
+      "type": "tag",
+      "sortid": 483,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fence_blocks"
+    },
+    {
+      "name": "WallBlocks",
+      "type": "tag",
+      "sortid": 484,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wall_blocks"
+    },
+    {
+      "name": "SmallFlowerBlocks",
+      "type": "tag",
+      "sortid": 485,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "small_flower_blocks"
+    },
+    {
+      "name": "PlankItems",
+      "type": "tag",
+      "sortid": 486,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "plank_items"
+    },
+    {
+      "name": "Stonecraftingmaterials",
+      "type": "tag",
+      "sortid": 487,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stonecraftingmaterials"
+    },
+    {
+      "name": "Stonetoolmaterials",
+      "type": "tag",
+      "sortid": 488,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stonetoolmaterials"
+    },
+    {
+      "name": "Coesite",
+      "type": "block",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coesite"
+    },
+    {
+      "name": "Coesite2Glass",
+      "type": "recipe",
+      "sortid": 489,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coesite_2_glass"
+    },
+    {
+      "name": "GilnoreOre",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnore_ore"
+    },
+    {
+      "name": "GilnorIngot",
+      "type": "item",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnor_ingot"
+    },
+    {
+      "name": "GilnoreIngotRecipe",
+      "type": "recipe",
+      "sortid": 490,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnore_ingot_recipe"
+    },
+    {
+      "name": "GilnorBlock",
+      "type": "block",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnor_block"
+    },
+    {
+      "name": "GilnorBlockRecipe",
+      "type": "recipe",
+      "sortid": 491,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnor_block_recipe"
+    },
+    {
+      "name": "GilnorPillar",
+      "type": "block",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnor_pillar"
+    },
+    {
+      "name": "GilnorPillarRecipe",
+      "type": "recipe",
+      "sortid": 492,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gilnor_pillar_recipe"
+    },
+    {
+      "name": "BlazeRodBundleEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 493,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_bundle_entity_walks_on_the_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "BlazeRodBundle",
+      "type": "block",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_bundle"
+    },
+    {
+      "name": "BlazeRods2BlazeRodBundle",
+      "type": "recipe",
+      "sortid": 494,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rods_2_blaze_rod_bundle"
+    },
+    {
+      "name": "BlazeRodBundle2BlazeRodRecipe",
+      "type": "recipe",
+      "sortid": 495,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blaze_rod_bundle_2_blaze_rod_recipe"
+    },
+    {
+      "name": "Ironshearsrecipe",
+      "type": "recipe",
+      "sortid": 496,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironshearsrecipe"
+    },
+    {
+      "name": "Shearsrecipe",
+      "type": "recipe",
+      "sortid": 497,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shearsrecipe"
+    },
+    {
+      "name": "Shale",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale"
+    },
+    {
+      "name": "PolishedShale",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale"
+    },
+    {
+      "name": "ShaleTiles",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles"
+    },
+    {
+      "name": "PolishedShalerecipe",
+      "type": "recipe",
+      "sortid": 498,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shalerecipe"
+    },
+    {
+      "name": "PolishedShaleSCRecipe",
+      "type": "recipe",
+      "sortid": 499,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_sc_recipe"
+    },
+    {
+      "name": "ShaleTilesRecipe",
+      "type": "recipe",
+      "sortid": 500,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_recipe"
+    },
+    {
+      "name": "ShalesTilesSCrECIPE1",
+      "type": "recipe",
+      "sortid": 501,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shales_tiles_s_cr_ecipe_1"
+    },
+    {
+      "name": "ShaleTilesSCRecipe2",
+      "type": "recipe",
+      "sortid": 502,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_sc_recipe_2"
+    },
+    {
+      "name": "StonesAndRocks",
+      "type": "tab",
+      "sortid": 503,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stones_and_rocks"
+    },
+    {
+      "name": "PolishedShaleStairs",
+      "type": "block",
+      "sortid": 504,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_stairs"
+    },
+    {
+      "name": "PolishedShaleStairsRecipe",
+      "type": "recipe",
+      "sortid": 505,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_stairs_recipe"
+    },
+    {
+      "name": "PolishedShaleSlab",
+      "type": "block",
+      "sortid": 506,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_slab"
+    },
+    {
+      "name": "PolishedShaleSlabRecipe",
+      "type": "recipe",
+      "sortid": 507,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_slab_recipe"
+    },
+    {
+      "name": "PolishedShaleStairsSCRecipe",
+      "type": "recipe",
+      "sortid": 508,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_shale_stairs_sc_recipe"
+    },
+    {
+      "name": "ShaleStairsSCRecipe2",
+      "type": "recipe",
+      "sortid": 509,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_stairs_sc_recipe_2"
+    },
+    {
+      "name": "ShaleSlabSCRecipe",
+      "type": "recipe",
+      "sortid": 510,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_slab_sc_recipe"
+    },
+    {
+      "name": "ShaleSlabSCRecipe2",
+      "type": "recipe",
+      "sortid": 511,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_slab_sc_recipe_2"
+    },
+    {
+      "name": "ShaleTilesStairs",
+      "type": "block",
+      "sortid": 512,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_stairs"
+    },
+    {
+      "name": "ShaleTileStairsRecipe",
+      "type": "recipe",
+      "sortid": 513,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tile_stairs_recipe"
+    },
+    {
+      "name": "ShaleTileStairsSCRecipe1",
+      "type": "recipe",
+      "sortid": 514,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tile_stairs_sc_recipe_1"
+    },
+    {
+      "name": "ShaleStairsSCRecipe1",
+      "type": "recipe",
+      "sortid": 515,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_stairs_sc_recipe_1"
+    },
+    {
+      "name": "ShaleTileStairsSCRecipe3",
+      "type": "recipe",
+      "sortid": 516,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tile_stairs_sc_recipe_3"
+    },
+    {
+      "name": "ShaleTilesSlab",
+      "type": "block",
+      "sortid": 517,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_slab"
+    },
+    {
+      "name": "ShaleTilesSlabRecipe",
+      "type": "recipe",
+      "sortid": 518,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_slab_recipe"
+    },
+    {
+      "name": "ShaleTilesSlabSCRecipe",
+      "type": "recipe",
+      "sortid": 519,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_slab_sc_recipe"
+    },
+    {
+      "name": "ShaleTilesSlabSCRecipe2",
+      "type": "recipe",
+      "sortid": 520,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_slab_sc_recipe_2"
+    },
+    {
+      "name": "ShaleTilesSlabSCRecipe3",
+      "type": "recipe",
+      "sortid": 521,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "shale_tiles_slab_sc_recipe_3"
+    },
+    {
+      "name": "Tuff",
+      "type": "block",
+      "sortid": 522,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff"
+    },
+    {
+      "name": "PolishedTuff",
+      "type": "block",
+      "sortid": 523,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff"
+    },
+    {
+      "name": "TuffTiles",
+      "type": "block",
+      "sortid": 524,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tiles"
+    },
+    {
+      "name": "PolishedTuffRecipe",
+      "type": "recipe",
+      "sortid": 525,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_recipe"
+    },
+    {
+      "name": "PolishedTuffSCRecipe",
+      "type": "recipe",
+      "sortid": 526,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_sc_recipe"
+    },
+    {
+      "name": "TuffTilesRecipe",
+      "type": "recipe",
+      "sortid": 527,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tiles_recipe"
+    },
+    {
+      "name": "TuffTilesSCRecipe",
+      "type": "recipe",
+      "sortid": 528,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tiles_sc_recipe"
+    },
+    {
+      "name": "TuffTilesSCRecipe2",
+      "type": "recipe",
+      "sortid": 529,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tiles_sc_recipe_2"
+    },
+    {
+      "name": "PolishedTuffStairs",
+      "type": "block",
+      "sortid": 530,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_stairs"
+    },
+    {
+      "name": "PolishedTuffStairsRecipe",
+      "type": "recipe",
+      "sortid": 531,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_stairs_recipe"
+    },
+    {
+      "name": "PolishedTuffStairsRecipe1",
+      "type": "recipe",
+      "sortid": 532,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_stairs_recipe_1"
+    },
+    {
+      "name": "PolishedTuffStairsSCRecipe2",
+      "type": "recipe",
+      "sortid": 533,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_stairs_sc_recipe_2"
+    },
+    {
+      "name": "PolishedTuffSlab",
+      "type": "block",
+      "sortid": 534,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_slab"
+    },
+    {
+      "name": "PolishedTuffSlabRecipe",
+      "type": "recipe",
+      "sortid": 535,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_slab_recipe"
+    },
+    {
+      "name": "PolishedTuffSlabSCRecipe",
+      "type": "recipe",
+      "sortid": 536,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_slab_sc_recipe"
+    },
+    {
+      "name": "PolishedTuffSlabSCRecipe2",
+      "type": "recipe",
+      "sortid": 537,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_tuff_slab_sc_recipe_2"
+    },
+    {
+      "name": "TuffTileStairs",
+      "type": "block",
+      "sortid": 538,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs"
+    },
+    {
+      "name": "TuffTileStairsRecipe",
+      "type": "recipe",
+      "sortid": 539,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs_recipe"
+    },
+    {
+      "name": "TuffTileStairsSCRecipe1",
+      "type": "recipe",
+      "sortid": 540,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs_sc_recipe_1"
+    },
+    {
+      "name": "TuffTileStairsSCRecipe2",
+      "type": "recipe",
+      "sortid": 541,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs_sc_recipe_2"
+    },
+    {
+      "name": "TuffTileStairsSCRecipe3",
+      "type": "recipe",
+      "sortid": 542,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs_sc_recipe_3"
+    },
+    {
+      "name": "TuffTileSlab",
+      "type": "block",
+      "sortid": 543,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_slab"
+    },
+    {
+      "name": "TuffTileSlabRecipe",
+      "type": "recipe",
+      "sortid": 544,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_slab_recipe"
+    },
+    {
+      "name": "TuffTileStairsSCRecipe",
+      "type": "recipe",
+      "sortid": 545,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_stairs_sc_recipe"
+    },
+    {
+      "name": "TuffTileSlabSCRecipe2",
+      "type": "recipe",
+      "sortid": 546,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_slab_sc_recipe_2"
+    },
+    {
+      "name": "TuffTileSlabSCRecipe3",
+      "type": "recipe",
+      "sortid": 547,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tuff_tile_slab_sc_recipe_3"
+    },
+    {
+      "name": "Calcite",
+      "type": "block",
+      "sortid": 548,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calcite"
+    },
+    {
+      "name": "PolishedCalcite",
+      "type": "block",
+      "sortid": 549,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_calcite"
+    },
+    {
+      "name": "CalciteBricks",
+      "type": "block",
+      "sortid": 550,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calcite_bricks"
+    },
+    {
+      "name": "PolishedCalciteRecipe",
+      "type": "recipe",
+      "sortid": 551,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_calcite_recipe"
+    },
+    {
+      "name": "PolishedCalciteSCRecipe",
+      "type": "recipe",
+      "sortid": 552,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_calcite_sc_recipe"
+    },
+    {
+      "name": "CalciteBricksRecipe",
+      "type": "recipe",
+      "sortid": 553,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calcite_bricks_recipe"
+    },
+    {
+      "name": "CalciteBrickSCRecipe",
+      "type": "recipe",
+      "sortid": 554,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calcite_brick_sc_recipe"
+    },
+    {
+      "name": "CalciteBrickSCRecipe2",
+      "type": "recipe",
+      "sortid": 555,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "calcite_brick_sc_recipe_2"
+    },
+    {
+      "name": "DirtyCalcite",
+      "type": "block",
+      "sortid": 556,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_calcite"
+    },
+    {
+      "name": "PolishedDirtyCalcite",
+      "type": "block",
+      "sortid": 557,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_dirty_calcite"
+    },
+    {
+      "name": "DirtyCalciteBricks",
+      "type": "block",
+      "sortid": 558,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_calcite_bricks"
+    },
+    {
+      "name": "PolishedDirtyCalciteRecipe",
+      "type": "recipe",
+      "sortid": 559,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_dirty_calcite_recipe"
+    },
+    {
+      "name": "PolishedDirtyCalciteSCRecipe",
+      "type": "recipe",
+      "sortid": 560,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_dirty_calcite_sc_recipe"
+    },
+    {
+      "name": "DirtyCalciteBricksRecipe",
+      "type": "recipe",
+      "sortid": 561,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_calcite_bricks_recipe"
+    },
+    {
+      "name": "DirtyCalciteBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 562,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_calcite_bricks_sc_recipe"
+    },
+    {
+      "name": "DirtyCalciteBricksSCRecipe2",
+      "type": "recipe",
+      "sortid": 563,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_calcite_bricks_sc_recipe_2"
+    },
+    {
+      "name": "DirtyWhiteMarble",
+      "type": "block",
+      "sortid": 564,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble"
+    },
+    {
+      "name": "DirtyPolishedWhiteMarble",
+      "type": "block",
+      "sortid": 565,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_polished_white_marble"
+    },
+    {
+      "name": "DirtyWhiteMarbleBricks",
+      "type": "block",
+      "sortid": 566,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_bricks"
+    },
+    {
+      "name": "PolishedDirtyWhiteMarbleRecipe",
+      "type": "recipe",
+      "sortid": 567,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_dirty_white_marble_recipe"
+    },
+    {
+      "name": "PolishedDirtyWhiteMarbleSCRecipe",
+      "type": "recipe",
+      "sortid": 568,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "polished_dirty_white_marble_sc_recipe"
+    },
+    {
+      "name": "DirtyWhiteMarbleBricksRecipe",
+      "type": "recipe",
+      "sortid": 569,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_bricks_recipe"
+    },
+    {
+      "name": "DirtyWhiteMarbleBricksSCRecipe",
+      "type": "recipe",
+      "sortid": 570,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_bricks_sc_recipe"
+    },
+    {
+      "name": "DirtyWhiteMarbleBricksSCRecipe2",
+      "type": "recipe",
+      "sortid": 571,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_bricks_sc_recipe_2"
+    },
+    {
+      "name": "DirtyWhiteMarbleCobble",
+      "type": "block",
+      "sortid": 572,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_cobble"
+    },
+    {
+      "name": "DirtyWhiteMarbleCobble2DirtyWhiteMarble",
+      "type": "recipe",
+      "sortid": 573,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirty_white_marble_cobble_2_dirty_white_marble"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "soul_trap_hurt",
+      "files": [
+        "mixkit-dry-leaves-sound-2428"
+      ],
+      "category": "neutral",
+      "subtitle": "Soul Trap Hurt"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.minecraft.potion.effect.vacuum_potion": "Potion of Vacuum ",
@@ -4437,6 +5354,7 @@
       "item.survival_of_the_minecraftist.soul_scythe": "Soul Scythe",
       "item.survival_of_the_minecraftist.hell_coal": "Hell Coal",
       "block.survival_of_the_minecraftist.sulphured_nether_brick_fence": "Sulphured Nether Brick Fence",
+      "block.survival_of_the_minecraftist.polished_tuff": "Polished Tuff",
       "item.minecraft.splash_potion.effect.fire_starter_potion": "Splash Potion of Fire Starter",
       "block.survival_of_the_minecraftist.block_of_blood_quartz": "Block Of Blood Quartz",
       "block.survival_of_the_minecraftist.magma_pumice": "Magma Pumice",
@@ -4447,6 +5365,7 @@
       "block.survival_of_the_minecraftist.blaze_flower": "Blaze Flower",
       "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt_panel": "Smooth Cobbled Cold Basalt Panel",
       "block.survival_of_the_minecraftist.polished_warped_nether_fungus": "Polished Warped Nether Fungus",
+      "itemGroup.tabstones_and_rocks": "Stones And Rocks",
       "block.survival_of_the_minecraftist.sulphured_nether_brick_wall": "Sulphured Nether Brick Wall",
       "block.survival_of_the_minecraftist.warped_nylium_2": "Warped Nylium",
       "block.survival_of_the_minecraftist.sulphured_nether_brickfence_gate": "Sulphured Nether Brick Fence Gate",
@@ -4469,16 +5388,16 @@
       "item.survival_of_the_minecraftist.ghoul_spawn_egg": "Ghoul Spawn Egg",
       "block.survival_of_the_minecraftist.red_nether_brick_fence": "Red Nether Brick Fence",
       "item.survival_of_the_minecraftist.amberr_axe": "Amber Axe",
-      "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.nether_iron_ore": "Nether Iron Ore",
+      "block.survival_of_the_minecraftist.yellownether_bush": "Yellow Nether Bush",
       "block.survival_of_the_minecraftist.sulphur_quartz_bricks": "Sulphur Quartz Bricks",
       "block.survival_of_the_minecraftist.sulphur_quartz_pillar": "Sulphur Quartz Pillar",
       "item.survival_of_the_minecraftist.crimson_berries": "Crimson Berries",
       "block.survival_of_the_minecraftist.red_nether_brick_fence_gate": "Red Nether Brick Fence Gate",
       "entity.survival_of_the_minecraftist.ghoul": "Ghoul",
       "block.survival_of_the_minecraftist.cold_basalt_bricks": "Cold Basalt Bricks",
-      "block.survival_of_the_minecraftist.polished_basalt": "Warm Basalt Panel",
       "block.survival_of_the_minecraftist.polished_limestone": "Polished Limestone",
+      "block.survival_of_the_minecraftist.polished_basalt": "Warm Basalt Panel",
       "fluid.survival_of_the_minecraftist.blood": "Blood",
       "block.survival_of_the_minecraftist.blood_quartz_ore": "Blood Quartz Ore",
       "block.survival_of_the_minecraftist.cobbled_cold_basalt": "Cobbled Cold Basalt",
@@ -4498,12 +5417,15 @@
       "item.survival_of_the_minecraftist.warped_berries": "Warped Berries",
       "item.survival_of_the_minecraftist.topaz_shear": "Topaz Shears",
       "entity.survival_of_the_minecraftist.glow_bug": "Glow Bug",
+      "block.survival_of_the_minecraftist.tuff_tile_slab": "Tuff Tile Slab",
       "block.survival_of_the_minecraftist.dark_quartz_stairs": "Dark Quartz Stairs",
       "item.minecraft.potion.effect.bottled_milk": "Bottled Milk",
       "block.survival_of_the_minecraftist.smooth_soul_quartz_slab": "Smooth Soul Quartz Slab",
       "block.survival_of_the_minecraftist.polished_stone": "Polished Stone",
+      "block.survival_of_the_minecraftist.polished_tuff_stairs": "Polished Tuff Stairs",
       "item.survival_of_the_minecraftist.amberr_armor_helmet": "Amber Helmet",
       "block.minecraft.basalt": "Warm Basalt",
+      "block.survival_of_the_minecraftist.polished_shale_stairs": "Polished Shale Stairs",
       "item.survival_of_the_minecraftist.soul": "Soul",
       "block.survival_of_the_minecraftist.lamp": "Lamp",
       "block.survival_of_the_minecraftist.nether_geyser": "Nether Geyser",
@@ -4512,21 +5434,27 @@
       "block.survival_of_the_minecraftist.darkrack": "Darkrack",
       "item.survival_of_the_minecraftist.warped_crackled_nether_wart": "Crackled Warped Nether Wart",
       "block.survival_of_the_minecraftist.blue_nether_brick_wall": "Warped Nether Brick Wall",
+      "block.survival_of_the_minecraftist.dirty_calcite": "Dirty Calcite",
       "effect.milked": "Milk ",
       "itemGroup.tabsotm_ores": "SOTM Ores",
       "block.survival_of_the_minecraftist.polished_soul_stone": "Polished Soul Stone",
       "block.survival_of_the_minecraftist.warped_nether_brick_slab": "Warped Nether Brick Slab",
+      "block.survival_of_the_minecraftist.polished_calcite": "Polished Calcite",
       "block.survival_of_the_minecraftist.polished_pumice": "Polished Renite",
       "block.survival_of_the_minecraftist.flame_nether_bricks": "Flame Nether Bricks",
       "block.survival_of_the_minecraftist.red_nether_bush": "Red Nether Bush",
       "block.survival_of_the_minecraftist.flame_nether_brick_slab": "Flame Nether Bricks",
+      "block.survival_of_the_minecraftist.tuff_tiles": "Tuff Tiles",
       "block.survival_of_the_minecraftist.sulphured_nether_brick_slab": "Sulphured Nether Bricks",
+      "block.survival_of_the_minecraftist.tuff_tile_stairs": "Tuff Tile Stairs",
       "block.survival_of_the_minecraftist.dark_nether_brick_slab": "Dark Nether Bricks Slab",
       "block.survival_of_the_minecraftist.red_mushroom": "Red Hellshroom",
       "block.survival_of_the_minecraftist.basalt_bricks": "Warm Basalt Bricks",
+      "block.survival_of_the_minecraftist.dirty_white_marble_cobble": "Cobbled Dirty White Marble",
       "effect.vacuum_effect": "Vacuum",
       "item.survival_of_the_minecraftist.dark_nether_brick": "Dark Netherbrick",
       "item.survival_of_the_minecraftist.warped_nether_wart": "Warped Nether Wart",
+      "block.survival_of_the_minecraftist.gilnore_ore": "Gilnore Ore",
       "item.survival_of_the_minecraftist.soul_orb": "Soul Orb",
       "block.survival_of_the_minecraftist.smooth_soul_quartz_stairs": "Smooth Soul Quartz Stairs",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt": "Smooth Cobbled Hot Basalt",
@@ -4540,6 +5468,7 @@
       "item.survival_of_the_minecraftist.amberr_shovel": "Amber Shovel",
       "item.survival_of_the_minecraftist.amberr_armor_boots": "Amber Boots",
       "item.survival_of_the_minecraftist.husk": "Husk",
+      "block.survival_of_the_minecraftist.polished_shale_slab": "Polished Shale Slab",
       "block.survival_of_the_minecraftist.smooth_basalt": "Smooth Cold Basalt",
       "block.survival_of_the_minecraftist.nether_dirt": "Nether Dirt",
       "block.survival_of_the_minecraftist.warped_nether_fungus": "Warped Nether Fungus",
@@ -4555,6 +5484,7 @@
       "block.survival_of_the_minecraftist.limestone_bricks": "Limestone Bricks",
       "item.survival_of_the_minecraftist.flame_netherbrick": "Flame Netherbrick",
       "item.survival_of_the_minecraftist.leather_strips": "Leather Strips",
+      "subtitles.soul_trap_hurt": "Soul Trap Hurt",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_slab": "Smooth Blood Quartz Slab",
       "block.survival_of_the_minecraftist.smooth_cobblestone_panel": "Smooth Cobblestone",
       "block.survival_of_the_minecraftist.chiseled_dark_quartz": "Chiseled Dark Quartz",
@@ -4580,6 +5510,7 @@
       "item.survival_of_the_minecraftist.amberr_hoe": "Amber Hoe",
       "item.survival_of_the_minecraftist.pumpkin_guts": "Pumpkin Guts",
       "block.survival_of_the_minecraftist.polished_soul_slate_slab": "Polished Soul Slate Slab",
+      "block.survival_of_the_minecraftist.polished_dirty_calcite": "Polished Dirty Calcite",
       "item.survival_of_the_minecraftist.amberr_armor_chestplate": "Amber Chestplate",
       "block.survival_of_the_minecraftist.polished_cold_basalt": "Polished Cold Basalt",
       "block.survival_of_the_minecraftist.smooth_cobbled_hot_basalt_panel": "Smooth Cobbled Hot Basalt Panel",
@@ -4594,6 +5525,7 @@
       "itemGroup.tabsotm_blocks": "SOTM Blocks",
       "block.survival_of_the_minecraftist.dark_quartz_pillar": "Dark Quartz Pillar",
       "block.survival_of_the_minecraftist.trodden_flower_4": "Trodden Flower",
+      "block.survival_of_the_minecraftist.calcite": "Calcite",
       "block.survival_of_the_minecraftist.cobbled_hot_basalt": "Cobbled Hot Basalt",
       "block.survival_of_the_minecraftist.limestone": "Limestone",
       "block.survival_of_the_minecraftist.smooth_cobbled_cold_basalt": "Smooth Cobbled Cold Basalt",
@@ -4612,6 +5544,7 @@
       "block.survival_of_the_minecraftist.flame_nether_brick_fence": "Flame Nether Brick Fence",
       "item.survival_of_the_minecraftist.apple_pie": "Apple Pie",
       "item.survival_of_the_minecraftist.iron_shears": "Iron Shears",
+      "block.survival_of_the_minecraftist.dirty_white_marble_bricks": "Dirty White Marble Bricks",
       "block.survival_of_the_minecraftist.smooth_blood_quartz": "Smooth Blood Quartz",
       "block.survival_of_the_minecraftist.black_marble_bricks": "Black Marble Bricks",
       "block.survival_of_the_minecraftist.smooth_dark_quartz": "Smooth Dark Quartz",
@@ -4619,17 +5552,22 @@
       "block.survival_of_the_minecraftist.soul_slate_bricks_stairs_recipe": "Soul Slate Brick Stairs",
       "item.survival_of_the_minecraftist.blood_bucket": "Bucket of Blood",
       "block.survival_of_the_minecraftist.sulphured_nether_wart": "Sulphured Nether Wart Plant",
+      "block.survival_of_the_minecraftist.dirty_white_marble": "Dirty White Marble",
       "block.survival_of_the_minecraftist.dark_quartz_block": "Block of Dark Quartz",
       "item.survival_of_the_minecraftist.sulphur_dust": "Sulphur Dust",
       "block.survival_of_the_minecraftist.soul_quartz_ore": "Soul Quartz Ore",
       "item.survival_of_the_minecraftist.skeleton_creeper_spawn_egg": "Skeletal Creeper Spawn Egg",
+      "block.survival_of_the_minecraftist.shale_tiles_stairs": "Shale Tile Stairs",
       "item.survival_of_the_minecraftist.ghost_spawn_egg": "Ghost Spawn Egg",
       "block.survival_of_the_minecraftist.basalt_geyser": "Basalt Geyser",
       "block.survival_of_the_minecraftist.flame_nether_brick_wall": "Flame Nether Brick Wall",
+      "block.survival_of_the_minecraftist.gilnor_pillar": "Gilnor Pillar",
+      "block.survival_of_the_minecraftist.polished_shale": "Polished Shale",
       "item.survival_of_the_minecraftist.flying_wither_skull_spawn_egg": "Flying Wither Skull Spawn Egg",
       "block.survival_of_the_minecraftist.nether_grass_2": "Nether Grass",
       "item.survival_of_the_minecraftist.iron_cluster": "Iron Cluster",
       "block.survival_of_the_minecraftist.sulphured_nether_bricks": "Sulphured Nether Bricks",
+      "block.survival_of_the_minecraftist.tuff": "Tuff",
       "block.survival_of_the_minecraftist.sulphur_quartz_stairs": "Sulphur Quartz Stairs",
       "item.minecraft.potion.effect.wither_potion": "Potion of Wither",
       "item.survival_of_the_minecraftist.pumpkin_slice": "Pumpkin Slice",
@@ -4637,6 +5575,7 @@
       "block.survival_of_the_minecraftist.flame_nether_brick_fence_gate": "Flame Nether Brick Fence Gate",
       "item.minecraft.lingering_potion.effect.vacuum_potion": "Lingering Potion of Vacuum ",
       "item.survival_of_the_minecraftist.crackled_nether_wart": "Crackled Nether Wart",
+      "block.survival_of_the_minecraftist.shale": "Shale",
       "block.survival_of_the_minecraftist.cobbled_black_marble": "Cobbled Black Marble",
       "block.survival_of_the_minecraftist.polished_cobbled_basalt_panel": "Polished Cobbled Basalt Panel",
       "block.survival_of_the_minecraftist.smooth_sulphur_quartz_slab": "Smooth Sulphur Quartz Slab",
@@ -4646,7 +5585,9 @@
       "entity.survival_of_the_minecraftist.skeleton_creeper": "Skeletal Creeper",
       "entity.survival_of_the_minecraftist.soul_beast": "Soul Beast",
       "block.survival_of_the_minecraftist.potassium_ore": "Potassium Ore",
+      "block.survival_of_the_minecraftist.dirty_calcite_bricks": "Dirty Calcite Bricks",
       "block.survival_of_the_minecraftist.topaz": "Topaz Ore",
+      "block.survival_of_the_minecraftist.shale_tiles_slab": "Shale Tiles Slab",
       "itemGroup.tabsotm_foods": "SOTM Foods",
       "block.survival_of_the_minecraftist.dark_quartz_ore": "Dark Quartz Ore",
       "block.survival_of_the_minecraftist.dark_quartz_stairs_slab": "Dark Quartz Slab",
@@ -4656,33 +5597,41 @@
       "block.survival_of_the_minecraftist.black_marble": "Black Marble",
       "block.survival_of_the_minecraftist.smooth_blood_quartz_stairs": "Smooth Blood Quartz Stairs",
       "entity.survival_of_the_minecraftist.flying_wither_skull": "Flying Wither Skull",
+      "item.survival_of_the_minecraftist.gilnor_ingot": "Gilnor Ingot",
       "block.survival_of_the_minecraftist.soul_slate": "Soul Slate",
       "block.survival_of_the_minecraftist.nether_weeds": "Nether Weeds",
       "block.survival_of_the_minecraftist.smooth_dark_quartz_block": "Smooth Dark Quartz",
       "block.survival_of_the_minecraftist.flame_nether_brick_stairs": "Flame Nether Brick Stairs",
       "item.minecraft.splash_potion.effect.bottled_milk": "Splash Bottle of Milk",
+      "block.survival_of_the_minecraftist.gilnor_block": "Gilnor Block",
       "block.survival_of_the_minecraftist.disturbed_soul_sand": "Disturbed Soul Sand",
       "block.minecraft.polished_basalt": "Polished Warm Basalt",
       "block.survival_of_the_minecraftist.block_of_sulphur_quartz": "Block Of Sulphur Quartz",
       "block.survival_of_the_minecraftist.blood_quartz_stairs": "Blood Quartz Stairs",
+      "block.survival_of_the_minecraftist.dirty_polished_white_marble": "Polished White Marble",
       "block.survival_of_the_minecraftist.white_marble_bricks": "White Marble Bricks",
       "block.survival_of_the_minecraftist.crimson_berries_roots": "Crimson Berries Roots",
       "block.survival_of_the_minecraftist.cobbled_white_marble": "Cobbled White Marble",
+      "block.survival_of_the_minecraftist.polished_tuff_slab": "Polished Tuff Slab",
       "itemGroup.tabsotm_tools_and_weapons": "SOTM Tools and Weapons",
       "block.survival_of_the_minecraftist.smooth_sulphur_quartz": "Smooth Sulphur Quartz",
       "block.survival_of_the_minecraftist.soul_quartz_pillar": "Soul Quartz Pillar",
       "block.survival_of_the_minecraftist.soul_slate_brick": "Soul Slate Bricks",
       "item.survival_of_the_minecraftist.stuffed_bread": "Stuffed Bread",
       "block.survival_of_the_minecraftist.smooth_sulphur_quartz_stairs": "Smooth Sulphur Quartz Stairs",
+      "block.survival_of_the_minecraftist.shale_tiles": "Shale Tiles",
       "block.survival_of_the_minecraftist.white_marble": "White Marble",
       "block.survival_of_the_minecraftist.dark_nether_bricks_fence": "Dark Nether Brick Fence",
       "item.survival_of_the_minecraftist.topaz_crystal": "Topaz",
       "item.survival_of_the_minecraftist.slingshot": "Slingshot",
       "item.minecraft.splash_potion.effect.vacuum_potion": "Splash Potion of Vacuum ",
       "block.survival_of_the_minecraftist.sulphur_quartz_slab": "Sulphur Quartz Slab",
+      "block.survival_of_the_minecraftist.coesite": "Coesite",
       "block.survival_of_the_minecraftist.warped_berry_roots": "Warped Berries Roots",
+      "block.survival_of_the_minecraftist.calcite_bricks": "Calcite Bricks",
       "item.minecraft.lingering_potion.effect.bottled_milk": "Lingering Bottled Milk",
       "block.survival_of_the_minecraftist.cold_basalt_panel": "Cold Basalt Panel",
+      "block.survival_of_the_minecraftist.blaze_rod_bundle": "Blaze Rod Bundle",
       "item.survival_of_the_minecraftist.basalt_paper": "Basalt Paper",
       "block.survival_of_the_minecraftist.blue_nether_brick_fence": "Warped Nether Brick Fence",
       "block.survival_of_the_minecraftist.black_mushroom": "Black Hellshroom",

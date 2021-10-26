@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "up": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "north": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "east": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "south": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "west": "survival_of_the_minecraftist:blocks/blazerodbundle",
+    "particle": "survival_of_the_minecraftist:blocks/blazerodbundle"
+  }
+}

@@ -14,7 +14,7 @@ import net.mcreator.survivaloftheminecraftist.item.SoupaMagicaItem;
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class StriderMilk2SoupaMagicaBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public StriderMilk2SoupaMagicaBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 221);
+		super(instance, 351);
 	}
 
 	@Override

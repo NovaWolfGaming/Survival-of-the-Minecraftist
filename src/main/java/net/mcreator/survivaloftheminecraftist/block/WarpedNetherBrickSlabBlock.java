@@ -25,7 +25,7 @@ public class WarpedNetherBrickSlabBlock extends SurvivalOfTheMinecraftistModElem
 	@ObjectHolder("survival_of_the_minecraftist:warped_nether_brick_slab")
 	public static final Block block = null;
 	public WarpedNetherBrickSlabBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 443);
+		super(instance, 183);
 	}
 
 	@Override

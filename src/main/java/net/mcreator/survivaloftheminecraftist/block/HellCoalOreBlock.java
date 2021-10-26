@@ -47,7 +47,7 @@ public class HellCoalOreBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:hell_coal_ore")
 	public static final Block block = null;
 	public HellCoalOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 229);
+		super(instance, 116);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

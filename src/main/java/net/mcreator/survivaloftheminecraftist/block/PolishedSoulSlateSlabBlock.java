@@ -16,7 +16,7 @@ import net.minecraft.block.SlabBlock;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
+import net.mcreator.survivaloftheminecraftist.itemgroup.StonesAndRocksItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.List;
@@ -27,13 +27,14 @@ public class PolishedSoulSlateSlabBlock extends SurvivalOfTheMinecraftistModElem
 	@ObjectHolder("survival_of_the_minecraftist:polished_soul_slate_slab")
 	public static final Block block = null;
 	public PolishedSoulSlateSlabBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 344);
+		super(instance, 76);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(StonesAndRocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends SlabBlock {
 		public CustomBlock() {

@@ -25,7 +25,7 @@ public class VenomBerriesItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:venom_berries")
 	public static final Item block = null;
 	public VenomBerriesItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 291);
+		super(instance, 203);
 	}
 
 	@Override

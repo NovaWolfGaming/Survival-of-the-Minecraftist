@@ -57,7 +57,7 @@ public class RedNetherBushBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:red_nether_bush")
 	public static final Block block = null;
 	public RedNetherBushBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 3);
+		super(instance, 10);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

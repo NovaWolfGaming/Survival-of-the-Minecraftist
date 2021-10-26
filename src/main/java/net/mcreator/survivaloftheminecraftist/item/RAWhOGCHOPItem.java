@@ -17,7 +17,7 @@ public class RAWhOGCHOPItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:ra_wh_ogchop")
 	public static final Item block = null;
 	public RAWhOGCHOPItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 272);
+		super(instance, 200);
 	}
 
 	@Override

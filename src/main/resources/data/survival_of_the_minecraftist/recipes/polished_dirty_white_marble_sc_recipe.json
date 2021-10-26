@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:dirty_white_marble"
+  },
+  "result": "survival_of_the_minecraftist:dirty_polished_white_marble"
+}

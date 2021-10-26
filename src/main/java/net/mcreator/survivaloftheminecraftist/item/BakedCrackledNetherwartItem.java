@@ -17,7 +17,7 @@ public class BakedCrackledNetherwartItem extends SurvivalOfTheMinecraftistModEle
 	@ObjectHolder("survival_of_the_minecraftist:baked_crackled_netherwart")
 	public static final Item block = null;
 	public BakedCrackledNetherwartItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 453);
+		super(instance, 213);
 	}
 
 	@Override

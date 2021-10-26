@@ -57,7 +57,7 @@ public class YellownetherBushBlock extends SurvivalOfTheMinecraftistModElements.
 	@ObjectHolder("survival_of_the_minecraftist:yellownether_bush")
 	public static final Block block = null;
 	public YellownetherBushBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 4);
+		super(instance, 11);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

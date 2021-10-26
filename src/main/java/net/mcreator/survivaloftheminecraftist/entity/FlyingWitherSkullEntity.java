@@ -56,7 +56,7 @@ public class FlyingWitherSkullEntity extends SurvivalOfTheMinecraftistModElement
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.6f, 1.8f)).build("flying_wither_skull").setRegistryName("flying_wither_skull");
 	public FlyingWitherSkullEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 297);
+		super(instance, 4);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FlyingWitherSkullRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

@@ -46,7 +46,7 @@ public class CrimsonNetherFungusBlock extends SurvivalOfTheMinecraftistModElemen
 	@ObjectHolder("survival_of_the_minecraftist:crimson_nether_fungus")
 	public static final Block block = null;
 	public CrimsonNetherFungusBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 43);
+		super(instance, 124);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

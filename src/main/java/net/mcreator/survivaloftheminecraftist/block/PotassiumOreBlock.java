@@ -47,7 +47,7 @@ public class PotassiumOreBlock extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:potassium_ore")
 	public static final Block block = null;
 	public PotassiumOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 36);
+		super(instance, 111);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

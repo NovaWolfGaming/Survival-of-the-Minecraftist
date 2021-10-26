@@ -24,7 +24,7 @@ public class DarkNetherBricksStairsBlock extends SurvivalOfTheMinecraftistModEle
 	@ObjectHolder("survival_of_the_minecraftist:dark_nether_bricks_stairs")
 	public static final Block block = null;
 	public DarkNetherBricksStairsBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 449);
+		super(instance, 186);
 	}
 
 	@Override

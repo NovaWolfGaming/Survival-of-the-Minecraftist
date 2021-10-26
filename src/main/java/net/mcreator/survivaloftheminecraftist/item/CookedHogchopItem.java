@@ -17,7 +17,7 @@ public class CookedHogchopItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:cooked_hogchop")
 	public static final Item block = null;
 	public CookedHogchopItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 273);
+		super(instance, 201);
 	}
 
 	@Override

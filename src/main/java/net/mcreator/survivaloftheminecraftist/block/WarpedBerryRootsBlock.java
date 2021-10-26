@@ -58,7 +58,7 @@ public class WarpedBerryRootsBlock extends SurvivalOfTheMinecraftistModElements.
 	@ObjectHolder("survival_of_the_minecraftist:warped_berry_roots")
 	public static final Block block = null;
 	public WarpedBerryRootsBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 321);
+		super(instance, 24);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

@@ -1,0 +1,29 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DarkNetherBricksFence"
+      },
+      {
+        "value": "CUSTOM:FlameNetherBrickFence"
+      },
+      {
+        "value": "CUSTOM:RedNetherBrickFence"
+      },
+      {
+        "value": "CUSTOM:BlueNetherBrickFence"
+      },
+      {
+        "value": "CUSTOM:SulphuredNetherBrickFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

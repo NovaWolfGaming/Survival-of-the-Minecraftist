@@ -56,7 +56,7 @@ public class MagmaPumiceBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:magma_pumice")
 	public static final Block block = null;
 	public MagmaPumiceBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 398);
+		super(instance, 181);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

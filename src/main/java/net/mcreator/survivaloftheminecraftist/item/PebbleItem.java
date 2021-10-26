@@ -16,7 +16,7 @@ public class PebbleItem extends SurvivalOfTheMinecraftistModElements.ModElement 
 	@ObjectHolder("survival_of_the_minecraftist:pebble")
 	public static final Item block = null;
 	public PebbleItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 119);
+		super(instance, 88);
 	}
 
 	@Override

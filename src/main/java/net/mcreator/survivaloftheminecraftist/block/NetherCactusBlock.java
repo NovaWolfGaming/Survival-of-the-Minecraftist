@@ -57,7 +57,7 @@ public class NetherCactusBlock extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:nether_cactus")
 	public static final Block block = null;
 	public NetherCactusBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 7);
+		super(instance, 13);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

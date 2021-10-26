@@ -54,7 +54,7 @@ public class GlowBugEntity extends SurvivalOfTheMinecraftistModElements.ModEleme
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.8f)).build("glow_bug").setRegistryName("glow_bug");
 	public GlowBugEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 414);
+		super(instance, 8);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new GlowBugRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

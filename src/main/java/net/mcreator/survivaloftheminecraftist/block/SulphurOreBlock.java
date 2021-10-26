@@ -47,7 +47,7 @@ public class SulphurOreBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:sulphur_ore")
 	public static final Block block = null;
 	public SulphurOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 34);
+		super(instance, 110);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

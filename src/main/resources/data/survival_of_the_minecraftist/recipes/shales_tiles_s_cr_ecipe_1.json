@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:shale"
+  },
+  "result": "survival_of_the_minecraftist:shale_tiles"
+}

@@ -17,7 +17,7 @@ public class AmberrPickaxeItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:amberr_pickaxe")
 	public static final Item block = null;
 	public AmberrPickaxeItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 361);
+		super(instance, 235);
 	}
 
 	@Override

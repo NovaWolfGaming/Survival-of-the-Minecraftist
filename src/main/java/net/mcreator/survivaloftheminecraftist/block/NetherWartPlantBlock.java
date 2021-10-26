@@ -58,7 +58,7 @@ public class NetherWartPlantBlock extends SurvivalOfTheMinecraftistModElements.M
 	@ObjectHolder("survival_of_the_minecraftist:nether_wart_plant")
 	public static final Block block = null;
 	public NetherWartPlantBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 407);
+		super(instance, 25);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

@@ -6,17 +6,17 @@
   ],
   "key": {
     "0": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:smooth_blood_quartz"
     },
     "1": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:smooth_blood_quartz"
     },
     "2": {
-      "item": "survival_of_the_minecraftist:deleted_mod_element"
+      "item": "survival_of_the_minecraftist:smooth_blood_quartz"
     }
   },
   "result": {
-    "item": "survival_of_the_minecraftist:deleted_mod_element",
+    "item": "survival_of_the_minecraftist:smooth_blood_quartz_slab",
     "count": 6
   }
 }

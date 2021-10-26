@@ -17,7 +17,7 @@ public class CrimsonBerriesItem extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:crimson_berries")
 	public static final Item block = null;
 	public CrimsonBerriesItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 318);
+		super(instance, 204);
 	}
 
 	@Override

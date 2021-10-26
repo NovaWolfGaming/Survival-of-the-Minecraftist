@@ -47,7 +47,7 @@ public class SlingshotItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(1).setCustomClientFactory(ArrowCustomEntity::new)
 			.size(0.5f, 0.5f)).build("entitybulletslingshot").setRegistryName("entitybulletslingshot");
 	public SlingshotItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 117);
+		super(instance, 230);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new SlingshotRenderer.ModelRegisterHandler());
 	}
 

@@ -29,7 +29,7 @@ public class LampRodBlock extends SurvivalOfTheMinecraftistModElements.ModElemen
 	@ObjectHolder("survival_of_the_minecraftist:lamp_rod")
 	public static final Block block = null;
 	public LampRodBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 58);
+		super(instance, 215);
 	}
 
 	@Override

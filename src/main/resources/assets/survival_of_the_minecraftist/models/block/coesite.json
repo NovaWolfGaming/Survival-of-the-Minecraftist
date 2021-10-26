@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/coesite",
+    "up": "survival_of_the_minecraftist:blocks/coesite",
+    "north": "survival_of_the_minecraftist:blocks/coesite",
+    "east": "survival_of_the_minecraftist:blocks/coesite",
+    "south": "survival_of_the_minecraftist:blocks/coesite",
+    "west": "survival_of_the_minecraftist:blocks/coesite",
+    "particle": "survival_of_the_minecraftist:blocks/coesite"
+  }
+}

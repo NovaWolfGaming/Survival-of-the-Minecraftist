@@ -25,7 +25,7 @@ public class SulphuredNetherBricksBlock extends SurvivalOfTheMinecraftistModElem
 	@ObjectHolder("survival_of_the_minecraftist:sulphured_nether_bricks")
 	public static final Block block = null;
 	public SulphuredNetherBricksBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 461);
+		super(instance, 188);
 	}
 
 	@Override

@@ -55,7 +55,7 @@ public class TroddenFlowerBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:trodden_flower")
 	public static final Block block = null;
 	public TroddenFlowerBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 9);
+		super(instance, 15);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

@@ -17,7 +17,7 @@ public class SulphuredCrackledNetherWartRecipeItem extends SurvivalOfTheMinecraf
 	@ObjectHolder("survival_of_the_minecraftist:sulphured_crackled_nether_wart_recipe")
 	public static final Item block = null;
 	public SulphuredCrackledNetherWartRecipeItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 473);
+		super(instance, 214);
 	}
 
 	@Override

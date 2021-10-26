@@ -1,0 +1,32 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:BlazeFlower"
+      },
+      {
+        "value": "CUSTOM:NetherCactus"
+      },
+      {
+        "value": "CUSTOM:TroddenFlower"
+      },
+      {
+        "value": "CUSTOM:TroddenFlower2"
+      },
+      {
+        "value": "CUSTOM:TroddenFlower3"
+      },
+      {
+        "value": "CUSTOM:TroddenFlower4"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "small_flowers",
+    "namespace": "minecraft"
+  }
+}

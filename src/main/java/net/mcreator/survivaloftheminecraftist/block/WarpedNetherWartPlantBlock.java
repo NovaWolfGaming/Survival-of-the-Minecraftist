@@ -58,7 +58,7 @@ public class WarpedNetherWartPlantBlock extends SurvivalOfTheMinecraftistModElem
 	@ObjectHolder("survival_of_the_minecraftist:warped_nether_wart_plant")
 	public static final Block block = null;
 	public WarpedNetherWartPlantBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 408);
+		super(instance, 26);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

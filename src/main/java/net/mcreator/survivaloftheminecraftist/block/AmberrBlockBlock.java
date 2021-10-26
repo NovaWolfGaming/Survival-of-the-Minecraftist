@@ -26,7 +26,7 @@ public class AmberrBlockBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:amberr_block")
 	public static final Block block = null;
 	public AmberrBlockBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 357);
+		super(instance, 176);
 	}
 
 	@Override

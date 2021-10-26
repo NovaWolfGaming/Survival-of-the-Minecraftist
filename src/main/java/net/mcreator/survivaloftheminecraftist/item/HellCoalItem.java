@@ -16,7 +16,7 @@ public class HellCoalItem extends SurvivalOfTheMinecraftistModElements.ModElemen
 	@ObjectHolder("survival_of_the_minecraftist:hell_coal")
 	public static final Item block = null;
 	public HellCoalItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 222);
+		super(instance, 91);
 	}
 
 	@Override

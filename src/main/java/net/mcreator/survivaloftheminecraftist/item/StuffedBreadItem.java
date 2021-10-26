@@ -17,7 +17,7 @@ public class StuffedBreadItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:stuffed_bread")
 	public static final Item block = null;
 	public StuffedBreadItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 376);
+		super(instance, 206);
 	}
 
 	@Override

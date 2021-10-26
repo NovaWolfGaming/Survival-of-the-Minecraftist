@@ -16,7 +16,7 @@ public class WarpedNetherWartItem extends SurvivalOfTheMinecraftistModElements.M
 	@ObjectHolder("survival_of_the_minecraftist:warped_nether_wart")
 	public static final Item block = null;
 	public WarpedNetherWartItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 409);
+		super(instance, 106);
 	}
 
 	@Override

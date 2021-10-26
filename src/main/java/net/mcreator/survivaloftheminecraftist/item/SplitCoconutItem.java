@@ -23,7 +23,7 @@ public class SplitCoconutItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:split_coconut")
 	public static final Item block = null;
 	public SplitCoconutItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 39);
+		super(instance, 197);
 	}
 
 	@Override

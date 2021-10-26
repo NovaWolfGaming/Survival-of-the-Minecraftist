@@ -16,7 +16,7 @@ public class WitherPowderItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:wither_powder")
 	public static final Item block = null;
 	public WitherPowderItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 403);
+		super(instance, 105);
 	}
 
 	@Override

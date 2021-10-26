@@ -46,7 +46,7 @@ public class FlamerackBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:flamerack")
 	public static final Block block = null;
 	public FlamerackBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 388);
+		super(instance, 177);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

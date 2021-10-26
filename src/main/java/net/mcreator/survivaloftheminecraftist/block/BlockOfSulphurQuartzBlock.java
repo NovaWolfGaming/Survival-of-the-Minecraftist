@@ -25,7 +25,7 @@ public class BlockOfSulphurQuartzBlock extends SurvivalOfTheMinecraftistModEleme
 	@ObjectHolder("survival_of_the_minecraftist:block_of_sulphur_quartz")
 	public static final Block block = null;
 	public BlockOfSulphurQuartzBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 235);
+		super(instance, 151);
 	}
 
 	@Override

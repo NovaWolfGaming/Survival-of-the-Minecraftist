@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "survival_of_the_minecraftist:block/shale_tiles_slab"
+    },
+    "type=top": {
+      "model": "survival_of_the_minecraftist:block/shale_tiles_slab_top"
+    },
+    "type=double": {
+      "model": "survival_of_the_minecraftist:block/shale_tiles_slab_full"
+    }
+  }
+}

@@ -16,7 +16,7 @@ public class ChiselItem extends SurvivalOfTheMinecraftistModElements.ModElement 
 	@ObjectHolder("survival_of_the_minecraftist:chisel")
 	public static final Item block = null;
 	public ChiselItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 120);
+		super(instance, 231);
 	}
 
 	@Override

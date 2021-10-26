@@ -22,7 +22,7 @@ public class HuskItem extends SurvivalOfTheMinecraftistModElements.ModElement {
 	@ObjectHolder("survival_of_the_minecraftist:husk")
 	public static final Item block = null;
 	public HuskItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 81);
+		super(instance, 196);
 	}
 
 	@Override

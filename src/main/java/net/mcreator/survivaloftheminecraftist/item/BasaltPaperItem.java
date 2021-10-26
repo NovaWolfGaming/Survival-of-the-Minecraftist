@@ -16,7 +16,7 @@ public class BasaltPaperItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:basalt_paper")
 	public static final Item block = null;
 	public BasaltPaperItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 414);
+		super(instance, 107);
 	}
 
 	@Override

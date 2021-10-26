@@ -1,0 +1,9 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "survival_of_the_minecraftist:polished_tuff"
+  },
+  "result": "survival_of_the_minecraftist:tuff_tile_stairs"
+}

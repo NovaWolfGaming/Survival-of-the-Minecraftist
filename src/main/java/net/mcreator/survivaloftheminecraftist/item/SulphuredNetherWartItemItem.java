@@ -16,7 +16,7 @@ public class SulphuredNetherWartItemItem extends SurvivalOfTheMinecraftistModEle
 	@ObjectHolder("survival_of_the_minecraftist:sulphured_nether_wart_item")
 	public static final Item block = null;
 	public SulphuredNetherWartItemItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 460);
+		super(instance, 108);
 	}
 
 	@Override

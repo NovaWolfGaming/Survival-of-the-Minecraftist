@@ -1,0 +1,26 @@
+{
+  "group": "survival_of_the_minecraftist",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "survival_of_the_minecraftist:shale"
+    },
+    "1": {
+      "item": "survival_of_the_minecraftist:shale"
+    },
+    "2": {
+      "item": "survival_of_the_minecraftist:shale"
+    },
+    "3": {
+      "item": "survival_of_the_minecraftist:shale"
+    }
+  },
+  "result": {
+    "item": "survival_of_the_minecraftist:polished_shale",
+    "count": 4
+  }
+}

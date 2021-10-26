@@ -14,7 +14,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
+import net.mcreator.survivaloftheminecraftist.itemgroup.StonesAndRocksItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.List;
@@ -25,13 +25,14 @@ public class PolishedCobbledBasaltBlock extends SurvivalOfTheMinecraftistModElem
 	@ObjectHolder("survival_of_the_minecraftist:polished_cobbled_basalt")
 	public static final Block block = null;
 	public PolishedCobbledBasaltBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 128);
+		super(instance, 46);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(StonesAndRocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {

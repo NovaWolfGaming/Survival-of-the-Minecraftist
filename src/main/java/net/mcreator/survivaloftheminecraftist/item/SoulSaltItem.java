@@ -16,7 +16,7 @@ public class SoulSaltItem extends SurvivalOfTheMinecraftistModElements.ModElemen
 	@ObjectHolder("survival_of_the_minecraftist:soul_salt")
 	public static final Item block = null;
 	public SoulSaltItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 286);
+		super(instance, 98);
 	}
 
 	@Override

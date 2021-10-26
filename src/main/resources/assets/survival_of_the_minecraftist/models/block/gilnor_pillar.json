@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/glionor_pillar_7",
+    "up": "survival_of_the_minecraftist:blocks/glionor_pillar_7",
+    "north": "survival_of_the_minecraftist:blocks/glionor_pillar_top",
+    "east": "survival_of_the_minecraftist:blocks/glionor_pillar_top",
+    "south": "survival_of_the_minecraftist:blocks/glionor_pillar_top",
+    "west": "survival_of_the_minecraftist:blocks/glionor_pillar_top",
+    "particle": "survival_of_the_minecraftist:blocks/glionor_pillar_7"
+  }
+}

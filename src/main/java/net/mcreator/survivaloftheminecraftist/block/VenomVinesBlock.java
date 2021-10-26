@@ -59,7 +59,7 @@ public class VenomVinesBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:venom_vines")
 	public static final Block block = null;
 	public VenomVinesBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 290);
+		super(instance, 22);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

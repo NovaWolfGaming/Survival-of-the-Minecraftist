@@ -29,7 +29,7 @@ public class AmberrArmorItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:amberr_armor_boots")
 	public static final Item boots = null;
 	public AmberrArmorItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 371);
+		super(instance, 240);
 	}
 
 	@Override

@@ -16,7 +16,7 @@ public class SulphurItem extends SurvivalOfTheMinecraftistModElements.ModElement
 	@ObjectHolder("survival_of_the_minecraftist:sulphur")
 	public static final Item block = null;
 	public SulphurItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 33);
+		super(instance, 83);
 	}
 
 	@Override

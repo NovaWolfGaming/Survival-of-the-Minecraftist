@@ -17,7 +17,7 @@ public class CuredJerkyItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:cured_jerky")
 	public static final Item block = null;
 	public CuredJerkyItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 287);
+		super(instance, 202);
 	}
 
 	@Override

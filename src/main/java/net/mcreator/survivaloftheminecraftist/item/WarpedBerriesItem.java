@@ -17,7 +17,7 @@ public class WarpedBerriesItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:warped_berries")
 	public static final Item block = null;
 	public WarpedBerriesItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 320);
+		super(instance, 205);
 	}
 
 	@Override

@@ -48,7 +48,7 @@ public class DisturbedSoulSandBlock extends SurvivalOfTheMinecraftistModElements
 	@ObjectHolder("survival_of_the_minecraftist:disturbed_soul_sand")
 	public static final Block block = null;
 	public DisturbedSoulSandBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 258);
+		super(instance, 161);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

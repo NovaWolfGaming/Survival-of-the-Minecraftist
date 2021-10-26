@@ -16,7 +16,7 @@ public class PotassiumItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 	@ObjectHolder("survival_of_the_minecraftist:potassium")
 	public static final Item block = null;
 	public PotassiumItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 35);
+		super(instance, 84);
 	}
 
 	@Override

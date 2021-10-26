@@ -47,7 +47,7 @@ public class DarkQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:dark_quartz_ore")
 	public static final Block block = null;
 	public DarkQuartzOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 87);
+		super(instance, 112);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

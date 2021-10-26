@@ -16,7 +16,7 @@ public class SulphurQuartzItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:sulphur_quartz")
 	public static final Item block = null;
 	public SulphurQuartzItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 233);
+		super(instance, 92);
 	}
 
 	@Override

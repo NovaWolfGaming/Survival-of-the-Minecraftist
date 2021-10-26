@@ -57,7 +57,7 @@ public class SproutingPlantBlock extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:sprouting_plant")
 	public static final Block block = null;
 	public SproutingPlantBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 6);
+		super(instance, 12);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

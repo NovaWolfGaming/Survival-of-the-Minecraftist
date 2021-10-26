@@ -57,7 +57,7 @@ public class BlazeFlowerBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:blaze_flower")
 	public static final Block block = null;
 	public BlazeFlowerBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 2);
+		super(instance, 9);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

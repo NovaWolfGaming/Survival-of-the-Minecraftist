@@ -25,7 +25,7 @@ public class SoupaMagicaItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:soupa_magica")
 	public static final Item block = null;
 	public SoupaMagicaItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 219);
+		super(instance, 199);
 	}
 
 	@Override

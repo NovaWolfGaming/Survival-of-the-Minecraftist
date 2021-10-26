@@ -16,7 +16,7 @@ public class TopasCrystalItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:topaz_crystal")
 	public static final Item block = null;
 	public TopasCrystalItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 116);
+		super(instance, 86);
 	}
 
 	@Override

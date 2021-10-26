@@ -15,7 +15,7 @@ import net.mcreator.survivaloftheminecraftist.item.SplitCoconutItem;
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class Coconut2MilkRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public Coconut2MilkRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 86);
+		super(instance, 293);
 	}
 
 	@Override

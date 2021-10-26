@@ -55,7 +55,7 @@ public class RedMushroomBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:red_mushroom")
 	public static final Block block = null;
 	public RedMushroomBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 227);
+		super(instance, 20);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

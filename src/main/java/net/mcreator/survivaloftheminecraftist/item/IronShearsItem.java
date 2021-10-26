@@ -16,7 +16,7 @@ public class IronShearsItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:iron_shears")
 	public static final Item block = null;
 	public IronShearsItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 134);
+		super(instance, 233);
 	}
 
 	@Override

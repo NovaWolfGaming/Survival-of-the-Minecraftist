@@ -16,7 +16,7 @@ public class GoldClusterItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:gold_cluster")
 	public static final Item block = null;
 	public GoldClusterItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 282);
+		super(instance, 97);
 	}
 
 	@Override

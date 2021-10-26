@@ -20,7 +20,7 @@ import net.minecraft.block.SoundType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.survivaloftheminecraftist.itemgroup.SOTMBlocksItemGroup;
+import net.mcreator.survivaloftheminecraftist.itemgroup.StonesAndRocksItemGroup;
 import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElements;
 
 import java.util.List;
@@ -31,13 +31,14 @@ public class SmoothCobblestonePanelBlock extends SurvivalOfTheMinecraftistModEle
 	@ObjectHolder("survival_of_the_minecraftist:smooth_cobblestone_panel")
 	public static final Block block = null;
 	public SmoothCobblestonePanelBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 111);
+		super(instance, 81);
 	}
 
 	@Override
 	public void initElements() {
 		elements.blocks.add(() -> new CustomBlock());
-		elements.items.add(() -> new BlockItem(block, new Item.Properties().group(SOTMBlocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
+		elements.items
+				.add(() -> new BlockItem(block, new Item.Properties().group(StonesAndRocksItemGroup.tab)).setRegistryName(block.getRegistryName()));
 	}
 	public static class CustomBlock extends Block {
 		public static final EnumProperty<Direction.Axis> AXIS = BlockStateProperties.AXIS;

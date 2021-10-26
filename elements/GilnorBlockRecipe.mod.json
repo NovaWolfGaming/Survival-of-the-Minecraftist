@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      },
+      {
+        "value": "CUSTOM:GilnorIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GilnorBlock"
+    },
+    "name": "gilnor_block_recipe",
+    "namespace": "mod"
+  }
+}

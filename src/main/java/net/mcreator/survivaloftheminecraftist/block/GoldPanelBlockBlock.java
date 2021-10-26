@@ -25,7 +25,7 @@ public class GoldPanelBlockBlock extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:gold_panel_block")
 	public static final Block block = null;
 	public GoldPanelBlockBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 105);
+		super(instance, 137);
 	}
 
 	@Override

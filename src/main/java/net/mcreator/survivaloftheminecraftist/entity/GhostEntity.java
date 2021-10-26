@@ -53,7 +53,7 @@ public class GhostEntity extends SurvivalOfTheMinecraftistModElements.ModElement
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.8f)).build("ghost").setRegistryName("ghost");
 	public GhostEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 322);
+		super(instance, 5);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new GhostRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

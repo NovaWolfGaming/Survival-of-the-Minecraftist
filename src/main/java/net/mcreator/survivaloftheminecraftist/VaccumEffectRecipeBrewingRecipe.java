@@ -15,7 +15,7 @@ import net.mcreator.survivaloftheminecraftist.item.PotassiumItem;
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class VaccumEffectRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public VaccumEffectRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 37);
+		super(instance, 264);
 	}
 
 	@Override

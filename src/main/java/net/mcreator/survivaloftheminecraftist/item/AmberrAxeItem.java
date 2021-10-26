@@ -17,7 +17,7 @@ public class AmberrAxeItem extends SurvivalOfTheMinecraftistModElements.ModEleme
 	@ObjectHolder("survival_of_the_minecraftist:amberr_axe")
 	public static final Item block = null;
 	public AmberrAxeItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 362);
+		super(instance, 236);
 	}
 
 	@Override

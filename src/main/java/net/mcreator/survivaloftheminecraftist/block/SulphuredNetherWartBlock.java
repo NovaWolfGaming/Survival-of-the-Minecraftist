@@ -56,7 +56,7 @@ public class SulphuredNetherWartBlock extends SurvivalOfTheMinecraftistModElemen
 	@ObjectHolder("survival_of_the_minecraftist:sulphured_nether_wart")
 	public static final Block block = null;
 	public SulphuredNetherWartBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 460);
+		super(instance, 27);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}
@@ -87,7 +87,7 @@ public class SulphuredNetherWartBlock extends SurvivalOfTheMinecraftistModElemen
 				public boolean generate(ISeedReader world, ChunkGenerator generator, Random random, BlockPos pos, BlockClusterFeatureConfig config) {
 					RegistryKey<World> dimensionType = world.getWorld().getDimensionKey();
 					boolean dimensionCriteria = false;
-					if (dimensionType == World.OVERWORLD)
+					if (dimensionType == World.THE_NETHER)
 						dimensionCriteria = true;
 					if (!dimensionCriteria)
 						return false;
@@ -106,6 +106,11 @@ public class SulphuredNetherWartBlock extends SurvivalOfTheMinecraftistModElemen
 	}
 	@SubscribeEvent
 	public void addFeatureToBiomes(BiomeLoadingEvent event) {
+		boolean biomeCriteria = false;
+		if (new ResourceLocation("basalt_deltas").equals(event.getName()))
+			biomeCriteria = true;
+		if (!biomeCriteria)
+			return;
 		event.getGeneration().getFeatures(GenerationStage.Decoration.VEGETAL_DECORATION).add(() -> configuredFeature);
 	}
 	public static class BlockCustomFlower extends FlowerBlock {

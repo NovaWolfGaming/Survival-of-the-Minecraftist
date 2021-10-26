@@ -58,7 +58,7 @@ public class CrimsonBerriesRootsBlock extends SurvivalOfTheMinecraftistModElemen
 	@ObjectHolder("survival_of_the_minecraftist:crimson_berries_roots")
 	public static final Block block = null;
 	public CrimsonBerriesRootsBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 319);
+		super(instance, 23);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

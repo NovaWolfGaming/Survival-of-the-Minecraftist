@@ -16,7 +16,7 @@ public class IronClusterItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:iron_cluster")
 	public static final Item block = null;
 	public IronClusterItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 280);
+		super(instance, 96);
 	}
 
 	@Override

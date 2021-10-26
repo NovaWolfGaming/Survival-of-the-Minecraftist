@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "survival_of_the_minecraftist:dark_nether_brick_wall",
+    "survival_of_the_minecraftist:flame_nether_brick_wall",
+    "survival_of_the_minecraftist:blue_nether_brick_wall",
+    "survival_of_the_minecraftist:sulphured_nether_brick_wall"
+  ]
+}

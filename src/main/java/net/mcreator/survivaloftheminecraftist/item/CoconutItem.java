@@ -30,7 +30,7 @@ public class CoconutItem extends SurvivalOfTheMinecraftistModElements.ModElement
 	@ObjectHolder("survival_of_the_minecraftist:coconut")
 	public static final Item block = null;
 	public CoconutItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 38);
+		super(instance, 195);
 	}
 
 	@Override

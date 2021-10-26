@@ -47,7 +47,7 @@ public class NetherGrassBlock extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:nether_grass")
 	public static final Block block = null;
 	public NetherGrassBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 265);
+		super(instance, 163);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

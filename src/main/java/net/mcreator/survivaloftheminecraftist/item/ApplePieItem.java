@@ -17,7 +17,7 @@ public class ApplePieItem extends SurvivalOfTheMinecraftistModElements.ModElemen
 	@ObjectHolder("survival_of_the_minecraftist:apple_pie")
 	public static final Item block = null;
 	public ApplePieItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 378);
+		super(instance, 207);
 	}
 
 	@Override

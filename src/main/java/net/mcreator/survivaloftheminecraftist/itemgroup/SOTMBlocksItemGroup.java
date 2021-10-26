@@ -13,7 +13,7 @@ import net.mcreator.survivaloftheminecraftist.SurvivalOfTheMinecraftistModElemen
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class SOTMBlocksItemGroup extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public SOTMBlocksItemGroup(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 24);
+		super(instance, 255);
 	}
 
 	@Override

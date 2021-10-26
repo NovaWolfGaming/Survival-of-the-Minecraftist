@@ -47,7 +47,7 @@ public class NetherDirtBlock extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:nether_dirt")
 	public static final Block block = null;
 	public NetherDirtBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 264);
+		super(instance, 162);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

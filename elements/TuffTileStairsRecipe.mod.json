@@ -1,0 +1,46 @@
+{
+  "_fv": 24,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TuffTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TuffTiles"
+      },
+      {
+        "value": "CUSTOM:TuffTiles"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:TuffTiles"
+      },
+      {
+        "value": "CUSTOM:TuffTiles"
+      },
+      {
+        "value": "CUSTOM:TuffTiles"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TuffTileStairs"
+    },
+    "name": "tuff_tile_stairs_recipe",
+    "namespace": "mod"
+  }
+}

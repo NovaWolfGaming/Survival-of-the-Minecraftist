@@ -16,7 +16,7 @@ public class WitherBoneItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:wither_bone")
 	public static final Item block = null;
 	public WitherBoneItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 401);
+		super(instance, 104);
 	}
 
 	@Override

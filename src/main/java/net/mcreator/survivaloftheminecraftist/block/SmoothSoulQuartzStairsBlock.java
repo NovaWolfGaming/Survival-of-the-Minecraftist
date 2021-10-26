@@ -29,7 +29,7 @@ public class SmoothSoulQuartzStairsBlock extends SurvivalOfTheMinecraftistModEle
 	@ObjectHolder("survival_of_the_minecraftist:smooth_soul_quartz_stairs")
 	public static final Block block = null;
 	public SmoothSoulQuartzStairsBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 314);
+		super(instance, 174);
 	}
 
 	@Override

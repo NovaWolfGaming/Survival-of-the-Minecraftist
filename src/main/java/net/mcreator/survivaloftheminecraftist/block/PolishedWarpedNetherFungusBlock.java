@@ -25,7 +25,7 @@ public class PolishedWarpedNetherFungusBlock extends SurvivalOfTheMinecraftistMo
 	@ObjectHolder("survival_of_the_minecraftist:polished_warped_nether_fungus")
 	public static final Block block = null;
 	public PolishedWarpedNetherFungusBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 47);
+		super(instance, 127);
 	}
 
 	@Override

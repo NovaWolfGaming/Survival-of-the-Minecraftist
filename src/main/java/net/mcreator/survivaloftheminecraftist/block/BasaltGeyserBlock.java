@@ -56,7 +56,7 @@ public class BasaltGeyserBlock extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:basalt_geyser")
 	public static final Block block = null;
 	public BasaltGeyserBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 295);
+		super(instance, 166);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

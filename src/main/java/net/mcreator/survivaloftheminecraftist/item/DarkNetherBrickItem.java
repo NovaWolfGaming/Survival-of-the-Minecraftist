@@ -16,7 +16,7 @@ public class DarkNetherBrickItem extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:dark_nether_brick")
 	public static final Item block = null;
 	public DarkNetherBrickItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 394);
+		super(instance, 103);
 	}
 
 	@Override

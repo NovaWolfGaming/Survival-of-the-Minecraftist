@@ -16,7 +16,7 @@ public class SoulQuartzItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:soul_quartz")
 	public static final Item block = null;
 	public SoulQuartzItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 298);
+		super(instance, 99);
 	}
 
 	@Override

@@ -48,7 +48,7 @@ public class SkeletonCreeperEntity extends SurvivalOfTheMinecraftistModElements.
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new)
 			.size(0.6f, 1.7f)).build("skeleton_creeper").setRegistryName("skeleton_creeper");
 	public SkeletonCreeperEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 351);
+		super(instance, 7);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new SkeletonCreeperRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

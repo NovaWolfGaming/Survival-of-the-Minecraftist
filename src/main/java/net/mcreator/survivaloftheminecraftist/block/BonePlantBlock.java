@@ -60,7 +60,7 @@ public class BonePlantBlock extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:bone_plant")
 	public static final Block block = null;
 	public BonePlantBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 257);
+		super(instance, 21);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

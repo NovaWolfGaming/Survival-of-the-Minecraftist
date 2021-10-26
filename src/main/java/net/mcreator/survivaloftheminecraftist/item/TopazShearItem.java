@@ -16,7 +16,7 @@ public class TopazShearItem extends SurvivalOfTheMinecraftistModElements.ModElem
 	@ObjectHolder("survival_of_the_minecraftist:topaz_shear")
 	public static final Item block = null;
 	public TopazShearItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 133);
+		super(instance, 232);
 	}
 
 	@Override

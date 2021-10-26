@@ -47,7 +47,7 @@ public class BloodQuartzOreBlock extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:blood_quartz_ore")
 	public static final Block block = null;
 	public BloodQuartzOreBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 138);
+		super(instance, 114);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

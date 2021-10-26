@@ -25,7 +25,7 @@ public class IronPanelBlockBlock extends SurvivalOfTheMinecraftistModElements.Mo
 	@ObjectHolder("survival_of_the_minecraftist:iron_panel_block")
 	public static final Block block = null;
 	public IronPanelBlockBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 107);
+		super(instance, 138);
 	}
 
 	@Override

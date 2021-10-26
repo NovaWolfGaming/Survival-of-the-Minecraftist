@@ -25,7 +25,7 @@ public class PolishedNetherFungusBlock extends SurvivalOfTheMinecraftistModEleme
 	@ObjectHolder("survival_of_the_minecraftist:polished_nether_fungus")
 	public static final Block block = null;
 	public PolishedNetherFungusBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 44);
+		super(instance, 125);
 	}
 
 	@Override

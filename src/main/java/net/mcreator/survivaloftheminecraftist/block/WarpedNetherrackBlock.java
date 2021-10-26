@@ -46,7 +46,7 @@ public class WarpedNetherrackBlock extends SurvivalOfTheMinecraftistModElements.
 	@ObjectHolder("survival_of_the_minecraftist:warped_netherrack")
 	public static final Block block = null;
 	public WarpedNetherrackBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 159);
+		super(instance, 149);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

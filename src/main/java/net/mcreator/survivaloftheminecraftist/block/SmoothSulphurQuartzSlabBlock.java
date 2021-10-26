@@ -30,7 +30,7 @@ public class SmoothSulphurQuartzSlabBlock extends SurvivalOfTheMinecraftistModEl
 	@ObjectHolder("survival_of_the_minecraftist:smooth_sulphur_quartz_slab")
 	public static final Block block = null;
 	public SmoothSulphurQuartzSlabBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 251);
+		super(instance, 159);
 	}
 
 	@Override

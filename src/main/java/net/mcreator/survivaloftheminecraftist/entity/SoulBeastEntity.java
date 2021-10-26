@@ -48,7 +48,7 @@ public class SoulBeastEntity extends SurvivalOfTheMinecraftistModElements.ModEle
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.8f)).build("soul_beast").setRegistryName("soul_beast");
 	public SoulBeastEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 279);
+		super(instance, 3);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new SoulBeastRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

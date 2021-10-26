@@ -46,7 +46,7 @@ public class DarkrackBlock extends SurvivalOfTheMinecraftistModElements.ModEleme
 	@ObjectHolder("survival_of_the_minecraftist:darkrack")
 	public static final Block block = null;
 	public DarkrackBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 393);
+		super(instance, 179);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

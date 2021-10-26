@@ -25,7 +25,7 @@ public class FlameNetherBricksBlock extends SurvivalOfTheMinecraftistModElements
 	@ObjectHolder("survival_of_the_minecraftist:flame_nether_bricks")
 	public static final Block block = null;
 	public FlameNetherBricksBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 390);
+		super(instance, 178);
 	}
 
 	@Override

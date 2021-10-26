@@ -16,7 +16,7 @@ public class HoglinLeatherItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:hoglin_leather")
 	public static final Item block = null;
 	public HoglinLeatherItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 353);
+		super(instance, 100);
 	}
 
 	@Override

@@ -15,7 +15,7 @@ import net.mcreator.survivaloftheminecraftist.block.BlazeFlowerBlock;
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class FireStarterPotionRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public FireStarterPotionRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 32);
+		super(instance, 260);
 	}
 
 	@Override

@@ -17,7 +17,7 @@ public class AmberrShovelItem extends SurvivalOfTheMinecraftistModElements.ModEl
 	@ObjectHolder("survival_of_the_minecraftist:amberr_shovel")
 	public static final Item block = null;
 	public AmberrShovelItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 364);
+		super(instance, 238);
 	}
 
 	@Override

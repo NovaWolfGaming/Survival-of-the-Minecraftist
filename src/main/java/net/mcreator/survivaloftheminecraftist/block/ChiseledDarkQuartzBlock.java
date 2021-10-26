@@ -25,7 +25,7 @@ public class ChiseledDarkQuartzBlock extends SurvivalOfTheMinecraftistModElement
 	@ObjectHolder("survival_of_the_minecraftist:chiseled_dark_quartz")
 	public static final Block block = null;
 	public ChiseledDarkQuartzBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 94);
+		super(instance, 131);
 	}
 
 	@Override

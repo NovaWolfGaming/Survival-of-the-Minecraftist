@@ -25,7 +25,7 @@ public class StriderMilkItem extends SurvivalOfTheMinecraftistModElements.ModEle
 	@ObjectHolder("survival_of_the_minecraftist:strider_milk")
 	public static final Item block = null;
 	public StriderMilkItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 218);
+		super(instance, 198);
 	}
 
 	@Override

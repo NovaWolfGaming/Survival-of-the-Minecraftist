@@ -46,7 +46,7 @@ public class GlowingObsidianBlock extends SurvivalOfTheMinecraftistModElements.M
 	@ObjectHolder("survival_of_the_minecraftist:glowing_obsidian")
 	public static final Block block = null;
 	public GlowingObsidianBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 42);
+		super(instance, 123);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

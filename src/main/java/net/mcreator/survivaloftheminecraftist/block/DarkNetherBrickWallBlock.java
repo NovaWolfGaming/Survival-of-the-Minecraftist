@@ -38,7 +38,7 @@ public class DarkNetherBrickWallBlock extends SurvivalOfTheMinecraftistModElemen
 	@ObjectHolder("survival_of_the_minecraftist:dark_nether_brick_wall")
 	public static final Block block = null;
 	public DarkNetherBrickWallBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 435);
+		super(instance, 224);
 	}
 
 	@Override

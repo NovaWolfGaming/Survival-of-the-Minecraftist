@@ -16,7 +16,7 @@ public class LeatherStripsItem extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:leather_strips")
 	public static final Item block = null;
 	public LeatherStripsItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 116);
+		super(instance, 87);
 	}
 
 	@Override

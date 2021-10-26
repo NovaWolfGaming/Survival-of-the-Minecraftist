@@ -25,7 +25,7 @@ public class GlowstoneLampBlock extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:glowstone_lamp")
 	public static final Block block = null;
 	public GlowstoneLampBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 38);
+		super(instance, 121);
 	}
 
 	@Override

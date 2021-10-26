@@ -17,7 +17,7 @@ import net.mcreator.survivaloftheminecraftist.item.WitherPowderItem;
 @SurvivalOfTheMinecraftistModElements.ModElement.Tag
 public class WitherPotionRecipeBrewingRecipe extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public WitherPotionRecipeBrewingRecipe(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 406);
+		super(instance, 443);
 	}
 
 	@Override

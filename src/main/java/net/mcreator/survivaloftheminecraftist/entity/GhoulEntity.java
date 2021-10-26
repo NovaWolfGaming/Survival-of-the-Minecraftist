@@ -52,7 +52,7 @@ public class GhoulEntity extends SurvivalOfTheMinecraftistModElements.ModElement
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
 			.size(0.6f, 1.7f)).build("ghoul").setRegistryName("ghoul");
 	public GhoulEntity(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 323);
+		super(instance, 6);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new GhoulRenderer.ModelRegisterHandler());
 		FMLJavaModLoadingContext.get().getModEventBus().register(new EntityAttributesRegisterHandler());
 		MinecraftForge.EVENT_BUS.register(this);

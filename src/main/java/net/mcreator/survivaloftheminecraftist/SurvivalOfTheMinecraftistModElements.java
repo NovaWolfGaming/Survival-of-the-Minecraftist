@@ -45,6 +45,8 @@ public class SurvivalOfTheMinecraftistModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public SurvivalOfTheMinecraftistModElements() {
+		sounds.put(new ResourceLocation("survival_of_the_minecraftist", "soul_trap_hurt"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("survival_of_the_minecraftist", "soul_trap_hurt")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("survival_of_the_minecraftist").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

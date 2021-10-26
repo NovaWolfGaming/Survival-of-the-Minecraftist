@@ -1,0 +1,26 @@
+{
+  "_fv": 24,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DarkNetherBrickWall"
+      },
+      {
+        "value": "CUSTOM:FlameNetherBrickWall"
+      },
+      {
+        "value": "CUSTOM:BlueNetherBrickWall"
+      },
+      {
+        "value": "CUSTOM:SulphuredNetherBrickWall"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

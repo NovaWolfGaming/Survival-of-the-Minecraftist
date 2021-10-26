@@ -17,7 +17,7 @@ public class BerryPieItem extends SurvivalOfTheMinecraftistModElements.ModElemen
 	@ObjectHolder("survival_of_the_minecraftist:berry_pie")
 	public static final Item block = null;
 	public BerryPieItem(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 380);
+		super(instance, 208);
 	}
 
 	@Override

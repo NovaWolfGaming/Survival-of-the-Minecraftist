@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "survival_of_the_minecraftist:blocks/shale",
+    "up": "survival_of_the_minecraftist:blocks/shale",
+    "north": "survival_of_the_minecraftist:blocks/shale",
+    "east": "survival_of_the_minecraftist:blocks/shale",
+    "south": "survival_of_the_minecraftist:blocks/shale",
+    "west": "survival_of_the_minecraftist:blocks/shale",
+    "particle": "survival_of_the_minecraftist:blocks/shale"
+  }
+}

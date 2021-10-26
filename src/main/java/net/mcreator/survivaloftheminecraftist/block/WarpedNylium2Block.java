@@ -50,7 +50,7 @@ public class WarpedNylium2Block extends SurvivalOfTheMinecraftistModElements.Mod
 	@ObjectHolder("survival_of_the_minecraftist:warped_nylium_2")
 	public static final Block block = null;
 	public WarpedNylium2Block(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 158);
+		super(instance, 148);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

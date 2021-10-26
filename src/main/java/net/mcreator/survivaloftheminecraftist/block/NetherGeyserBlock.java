@@ -56,7 +56,7 @@ public class NetherGeyserBlock extends SurvivalOfTheMinecraftistModElements.ModE
 	@ObjectHolder("survival_of_the_minecraftist:nether_geyser")
 	public static final Block block = null;
 	public NetherGeyserBlock(SurvivalOfTheMinecraftistModElements instance) {
-		super(instance, 294);
+		super(instance, 165);
 		MinecraftForge.EVENT_BUS.register(this);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new FeatureRegisterHandler());
 	}

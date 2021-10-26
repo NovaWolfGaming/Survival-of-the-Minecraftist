@@ -1,1 +1,12 @@
-{}
+{
+  "soul_trap_hurt": {
+    "category": "neutral",
+    "subtitle": "subtitles.soul_trap_hurt",
+    "sounds": [
+      {
+        "name": "survival_of_the_minecraftist:mixkit-dry-leaves-sound-2428",
+        "stream": false
+      }
+    ]
+  }
+}
