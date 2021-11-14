@@ -52,7 +52,7 @@ import java.util.Random;
 public class GlowBugEntity extends SurvivalOfTheMinecraftistModElements.ModElement {
 	public static EntityType entity = (EntityType.Builder.<CustomEntity>create(CustomEntity::new, EntityClassification.AMBIENT)
 			.setShouldReceiveVelocityUpdates(true).setTrackingRange(64).setUpdateInterval(3).setCustomClientFactory(CustomEntity::new).immuneToFire()
-			.size(0.6f, 1.8f)).build("glow_bug").setRegistryName("glow_bug");
+			.size(0.4f, 0.3f)).build("glow_bug").setRegistryName("glow_bug");
 	public GlowBugEntity(SurvivalOfTheMinecraftistModElements instance) {
 		super(instance, 8);
 		FMLJavaModLoadingContext.get().getModEventBus().register(new GlowBugRenderer.ModelRegisterHandler());

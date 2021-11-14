@@ -77,9 +77,9 @@ public static class ModelGlowBug extends EntityModel<Entity> {
 
 	public void setRotationAngles(float f, float f1, float f2, float f3, float f4, float f5, Entity e) {
 		super.setRotationAngles(f, f1, f2, f3, f4, f5, e);
-		this.RWing.rotateAngleZ = MathHelper.cos(f * 1.0F) * 1.0F * f1;
+		this.RWing.rotateAngleY = f2;
 		this.Head.rotateAngleY = f3 / (180F / (float) Math.PI);
 		this.Head.rotateAngleX = f4 / (180F / (float) Math.PI);
-		this.LWing.rotateAngleZ = MathHelper.cos(f * 1.0F) * -1.0F * f1;
+		this.LWing.rotateAngleY = f2;
 	}
 }

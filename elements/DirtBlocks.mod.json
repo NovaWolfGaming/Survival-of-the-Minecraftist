@@ -13,6 +13,12 @@
       },
       {
         "value": "CUSTOM:NetherGrass2"
+      },
+      {
+        "value": "CUSTOM:AncientCryphillium"
+      },
+      {
+        "value": "CUSTOM:FieryCryphillium"
       }
     ],
     "functions": [],

@@ -6,7 +6,6 @@ import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import net.minecraftforge.api.distmarker.Dist;
 
-import net.minecraft.util.math.MathHelper;
 import net.minecraft.util.ResourceLocation;
 import net.minecraft.entity.Entity;
 import net.minecraft.client.renderer.texture.OverlayTexture;
@@ -126,10 +125,10 @@ public class GlowBugRenderer {
 		}
 
 		public void setRotationAngles(Entity e, float f, float f1, float f2, float f3, float f4) {
-			this.RWing.rotateAngleZ = MathHelper.cos(f * 1.0F) * 1.0F * f1;
+			this.RWing.rotateAngleY = f2;
 			this.Head.rotateAngleY = f3 / (180F / (float) Math.PI);
 			this.Head.rotateAngleX = f4 / (180F / (float) Math.PI);
-			this.LWing.rotateAngleZ = MathHelper.cos(f * 1.0F) * -1.0F * f1;
+			this.LWing.rotateAngleY = f2;
 		}
 	}
 }
